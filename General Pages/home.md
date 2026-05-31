@@ -49,8 +49,8 @@
 2. **CNC Milling Services** — 3-axis, 4-axis and 5-axis milling | ±0.005mm | From 3 days → [[cnc-milling-services]]
 3. **CNC Turning Services** — Precision lathe and rotational parts | ±0.005mm | From 3 days → [[cnc-turning-services]]
 4. **5-Axis CNC Machining Services** — Complex multi-face parts, single setup | ±0.005mm | From 3 days → [[5-axis-cnc-machining-services]]
-5. **CNC Turn-Mill Services** — Combined turning and milling operations | ±0.005mm | From 3 days → [[cnc-turn-mill-services]]
-6. **Surface Finishing Services** — Anodizing, plating, polishing and more | From 2 days → [[surface-finishing-services]]
+
+5. **Surface Finishing Services** — Anodizing, plating, polishing and more | From 2 days → [[surface-finishing-services]]
 
 ---
 
