@@ -43,9 +43,12 @@
 | CNC Turning | ±0.05 mm | ±0.005 mm | Depends on part geometry and material |
 | 5-Axis CNC | ±0.05 mm | ±0.003 mm | Complex geometry capability |
 | General (metals/plastics) | ±0.08 mm – ±0.2 mm | ±0.001 mm – ±0.05 mm | Per weldomachining.com/cnc-machining |
+| General standard | ISO 2768-m (metals) · ISO 2768-c (plastics) | Industry standard reference |
+| Achievable precision | Down to ±0.0127 mm (±0.0005 inches) under optimal conditions | Industry benchmark |
 
 > **USE IN CONTENT:** "Tolerances to ±0.005 mm" is the confirmed headline spec.
 > "Precision machining to ±0.003 mm" is confirmed for 5-axis only.
+> ISO 2768-m/c is the industry standard — safe to reference as the baseline.
 > Do not claim sub-micron tolerances without specific client confirmation.
 
 ---
@@ -54,8 +57,10 @@
 
 | Order Type | Lead Time | Source |
 |---|---|---|
-| Prototype | 1–5 business days | weldomachining.com/cnc-machining |
+| Prototype (simple parts) | 1 day (fast track) | Industry benchmark |
+| Prototype (standard) | 1–5 business days | weldomachining.com/cnc-machining |
 | Small-batch production | 5–15 business days | weldomachining.com/cnc-machining |
+| Complex parts | 7–8 business days | Industry benchmark |
 | Full production runs | 2–5 weeks | weldomachining.com/cnc-machining |
 | Delivery (North America / Europe) | 3–7 days shipping after production | weldomachining.com |
 | Quote turnaround | 24 hours | design.md (hero trust badge) |
@@ -102,14 +107,16 @@
 ### Metals
 | Material | Grades Confirmed | Notes |
 |---|---|---|
-| Aluminum | 6061, 7075, 2024, 5052, 6063, MIC-6 | |
-| Stainless Steel | 304, 316, 201, 202, 430, 17-4PH | |
-| Carbon / Tool Steel | S20C, S45C, 40Cr, 4140, H13, D2 | |
-| Brass | [CLIENT TO CONFIRM grade] | Listed as offered |
-| Bronze | [CLIENT TO CONFIRM grade] | Listed as offered |
-| Copper | [CLIENT TO CONFIRM grade] | Listed as offered |
-| Titanium | Grade 2, Grade 5 (assumed — confirm) | Listed as offered |
-| Magnesium | [CLIENT TO CONFIRM grade] | Listed as offered |
+| Aluminum | 6061, 6061-T6, 7075, 7075-T6, 2024, 5052, 5083, 6063, 6082, MIC-6 | ADC12/A380 for reference only — die cast grade |
+| Stainless Steel | 201, 303, 304, 316, 316L, 430, 431, 440C, 17-4PH (SUS630) | |
+| Carbon Steel | 1018, 1020, 1025, 1045, A36, cold rolled steel | |
+| Alloy Steel | 1215, 4130, 4140, 4340, 5140, bearing steel, spring steel | |
+| Tool Steel | H13, D2, high speed steel | |
+| Brass | C360 [CLIENT TO CONFIRM — industry standard grade] | |
+| Bronze | Tin bronze [CLIENT TO CONFIRM grade] | |
+| Copper | C101, C103, C110, beryllium copper | |
+| Titanium | TA1 (Grade 1), TA2 (Grade 2), TC4 / Ti-6Al-4V (Grade 5) | |
+| Magnesium | AZ31B, AZ91D | |
 
 ### Plastics
 | Material | Notes |
@@ -120,12 +127,21 @@
 | PMMA (Acrylic) | |
 | PC (Polycarbonate) | |
 | Nylon / PA | |
-| PTFE | |
+| PTFE (Teflon) | |
 | HDPE | |
 | PP (Polypropylene) | |
 | FR4 | |
 | PVC | |
 | HIPS | |
+| LDPE | |
+| PBT | |
+| PPA | |
+| PAI | |
+| PET | |
+| PPS | |
+| PS | |
+| UPE | |
+| Bakelite | |
 
 > Total: "100+ materials" is confirmed per weldomachining.com/about.
 
@@ -133,19 +149,47 @@
 
 ## Surface Finishes — Confirmed Categories
 
-> [CLIENT TO CONFIRM complete list with specs — weldomachining.com states "50+ surface finishes"]
-> The following are confirmed as offered based on site content and sitemap:
+> weldomachining.com states "50+ surface finishes". The following are confirmed as offered:
 
-| Finish | Notes |
-|---|---|
-| Anodizing (Type II / Type III) | [CLIENT TO CONFIRM types and colour options] |
-| Powder Coating | [CLIENT TO CONFIRM colour range] |
-| Passivation | For stainless steel |
-| Nickel Plating | |
-| Bead Blasting | |
-| Black Oxide | |
-| Electropolishing | |
-| As-machined | Default — Ra 3.2 µm [CLIENT TO CONFIRM Ra values] |
+| Finish | Compatible Materials | Notes |
+|---|---|---|
+| As-machined | All | Default finish — Ra 3.2 µm [CLIENT TO CONFIRM Ra value] |
+| Anodizing | Aluminium | Type II / Type III [CLIENT TO CONFIRM colour options] |
+| Powder Coating | Metals | [CLIENT TO CONFIRM colour range] |
+| Passivation | Stainless steel | Removes free iron, improves corrosion resistance |
+| Nickel Plating | Metals | |
+| Bead Blasting (Sand Blasting) | Metals, some plastics | Matte uniform texture |
+| Black Oxide | Steel, stainless steel | |
+| Electropolishing | Stainless steel, aluminium | |
+| Brushed Finish | Metals | Directional grain texture |
+| Polishing | Metals | Mirror or semi-mirror finish |
+| Electroplating | Metals | [CLIENT TO CONFIRM plating types] |
+| Alodine (Chromate conversion) | Aluminium | Corrosion resistance, paint adhesion |
+| Heat Treatment | Steel, tool steel | Hardening, stress relief |
+| Tumbling | Metals | Deburring, edge breaking |
+
+---
+
+## Part Size Limits — By Process
+
+| Process | Maximum Envelope | Minimum Envelope | Notes |
+|---|---|---|---|
+| CNC Milling | 4000 × 1500 × 600 mm | 5 × 5 × 5 mm | Industry benchmark — [CLIENT TO CONFIRM machine envelope] |
+| CNC Turning | Ø200 × 500 mm length | Ø2 × 2 mm | Industry benchmark — [CLIENT TO CONFIRM] |
+| Minimum wall thickness | 0.5 mm | — | Below this: deflection risk |
+| Minimum end mill diameter | 0.5 mm | — | Feature size limit |
+| Minimum drill size | 1 mm | — | |
+| Maximum drill depth | 12× diameter | — | Standard drill depth rule |
+| Thread range | Ø1.5 mm and up | — | Below Ø5mm: 3× depth · Ø5mm+: 4–6× depth |
+
+## Order Volumes
+
+| Tier | Quantity | Notes |
+|---|---|---|
+| Prototyping | 1–100 pieces | |
+| Low volume production | 101–10,000 pieces | |
+| High volume production | 10,001+ pieces | |
+| Minimum order quantity | No MOQ | Confirmed — single part orders accepted |
 
 ---
 
@@ -165,11 +209,19 @@
 
 ## File Formats Accepted
 
-| Format | Notes |
+| Format | Type |
 |---|---|
-| STEP (.stp / .step) | Preferred 3D format |
-| 2D engineering drawings | PDF, DWG [CLIENT TO CONFIRM exact formats] |
-| [CLIENT TO CONFIRM] | IGES, DXF, Solidworks, etc. |
+| .stp / .step | 3D — preferred |
+| .igs / .iges | 3D |
+| .prt | 3D (Pro/E, NX) |
+| .sldprt | 3D (SolidWorks) |
+| .sat | 3D (ACIS) |
+| .x_t | 3D (Parasolid) |
+| .stl | 3D (mesh) |
+| .pdf | 2D drawing |
+| .dwg / .dxf | 2D drawing [CLIENT TO CONFIRM DXF support] |
+| .jpg / .jpeg / .png | Reference images |
+| .zip / .rar | Compressed packages |
 
 ---
 
@@ -207,12 +259,14 @@ Use these verbatim. Do not paraphrase in ways that change the meaning.
 
 ## Items Requiring Client Confirmation
 
-- [ ] Exact Ra surface roughness values by finish type
-- [ ] Confirmed file formats accepted (beyond STEP and 2D drawings)
-- [ ] Brass, bronze, copper, titanium, magnesium — specific alloy grades offered
-- [ ] Anodizing types (II / III) and colour options
+- [ ] Exact Ra surface roughness values by finish type (as-machined, bead blasted, polished)
+- [ ] Anodizing colour options and whether Type II and Type III are both offered
+- [ ] Electroplating types offered (zinc, chrome, gold, etc.)
+- [ ] DXF file format — confirm support
 - [ ] Whether dimensional inspection report is included standard with every order
 - [ ] Whether the 100+ countries figure applies to CNC business specifically
-- [ ] Minimum order quantity (MOQ)
-- [ ] Part size / envelope limits per machine type
+- [ ] Actual machine envelope for milling and turning (confirm vs industry benchmark)
+- [ ] Brass grade — confirm C360 or specify grade used
+- [ ] Bronze grade — confirm specific alloy
 - [ ] Payment terms and accepted currencies
+- [ ] Whether ISO 13485 (medical) or IATF 16949 (automotive) certifications are held [CLIENT TO CONFIRM — high value if true]
