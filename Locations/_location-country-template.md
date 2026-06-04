@@ -50,9 +50,11 @@
 
 Engineers across [Country] source precision CNC machined parts from Weldo CNC for a straightforward reason: the tolerance capability, material range, and documentation standard that would cost a premium at a local precision shop are standard operations at our Dongguan facility — at a cost that makes high-complexity, tight-tolerance work commercially viable even at low volumes.
 
-We understand the concerns that come with sourcing from China. Communication across timezones. IP protection. Quality that doesn't match what was quoted. Delivery delays that kill a project timeline. These are real considerations, and we address them directly: all communication in English, 24-hour quote and response turnaround, ISO 9001:2015 certified QMS, NDA available before any file transfer, and DDP shipping so there are no customs surprises on arrival.
+The concerns that come with sourcing from China are real and worth addressing directly. Communication across timezones. Quality that doesn't match what was quoted. IP exposure before a relationship is established. Delivery delays that derail a project schedule. We deal with all of these as operational defaults, not exceptions: all communication in English, 24-hour quote and response turnaround, ISO 9001:2015 certified QMS, NDA available before any file transfer, and DDP shipping so there are no customs surprises on arrival.
 
-The parts arrive with a dimensional inspection report, material certificate, and finish process record. If something doesn't meet the drawing, we resolve it.
+DDP shipping means we handle the customs declaration, pay the duty, and clear goods before they reach your door. You receive a package, not a customs hold notice. The process is straightforward — no broker, no unexpected charges, no administration on your end.
+
+Every order ships with a dimensional inspection report, material certificate, and finish process record. If something doesn't meet the drawing, we resolve it.
 
 ---
 
@@ -125,7 +127,7 @@ Parts delivered to your door in [Country]. Typical transit [X–Y] business days
 
 ### UK Version — Importing CNC Parts Post-Brexit
 
-Sourcing precision CNC parts from China to the UK since Brexit involves a few steps that didn't exist pre-2021. Understanding them upfront prevents delays and unexpected costs.
+Understanding how import and customs work when sourcing CNC parts from China prevents delays and unexpected costs. Here is what to expect when ordering with Weldo CNC.
 
 **DDP means we handle it**
 All Weldo CNC shipments to the UK are sent DDP — Delivered Duty Paid. We file the import declaration, pay the customs duty, and handle clearance before the parcel reaches your door. You receive parts with no additional charges and no need to appoint a customs broker.
@@ -170,33 +172,108 @@ DHL Express and FedEx International Priority: typically 3–5 business days from
 
 ### USA Version — Importing CNC Parts from China
 
-**[Placeholder — write when USA page is being built]**
+Sourcing precision CNC machined parts from China to the USA carries one significant consideration that doesn't apply to most other countries: Section 301 tariffs. Understanding how they work — and how DDP handles them — prevents surprises at delivery.
 
-Key points to address:
-- Section 301 tariffs on Chinese goods (25% on most machined metal parts under HTS Chapter 84/73/76)
-- Under DDP, Weldo CNC pays Section 301 tariffs — confirm this is included in quote
-- ISF filing (Importer Security Filing) — handled by freight forwarder
-- FDA registration not required for machined components (only finished medical devices)
-- ITAR: Weldo CNC is not ITAR registered — defence programmes requiring ITAR compliance cannot use Weldo CNC for controlled technical data
+**Section 301 tariffs — the key issue**
+The US Trade Representative imposed Section 301 tariffs on Chinese goods starting in 2018. Most CNC machined metal parts fall under HTS Chapter 73, 76, or 84, which carry a 25% additional tariff on top of the standard US import duty rate (typically 0–3.7% for machined components under normal MFN rates).
+
+Under DDP, Weldo CNC pays both the standard import duty and the Section 301 tariff. These are included in your quoted price — there are no additional charges on arrival. Confirm this is explicitly stated in your quote before placing an order.
+
+**ISF filing**
+US Customs requires an Importer Security Filing (ISF 10+2) for all ocean freight shipments at least 24 hours before loading. For air freight shipments via DHL Express or FedEx — which is standard for Weldo CNC orders — the equivalent advance cargo information is handled electronically by the carrier. No action required on your end.
+
+**FDA**
+CNC machined components do not require FDA registration. FDA oversight applies to finished medical devices, not machined parts used in their manufacture. If your application involves a finished Class II or III device, that regulatory obligation sits with you as the device manufacturer, not with Weldo CNC as the component supplier.
+
+**ITAR**
+Weldo CNC is not ITAR registered. If your programme involves defence articles, technical data, or defence services controlled under the International Traffic in Arms Regulations, Weldo CNC cannot be used for those components. Non-ITAR commercial and industrial parts are not affected.
+
+**Transit to the USA**
+DHL Express and FedEx International Priority: typically 3–5 business days from Dongguan to major US cities. East Coast (New York, Boston) and West Coast (LA, San Francisco, Seattle) ports of entry are fastest. Central states may add 1 day for final-mile delivery.
+
+| | Detail |
+|---|---|
+| Incoterms | DDP (USA) |
+| Standard import duty | Included in quoted price |
+| Section 301 tariff (25%) | Included in DDP — paid by Weldo CNC |
+| Customs clearance | Handled by carrier / freight forwarder |
+| Transit time | 3–5 business days |
+| Carriers | DHL Express / FedEx |
+| Documents | Commercial invoice (USD), packing list, HS codes, COO, material certs |
 
 ---
 
 ### Germany Version — Importing CNC Parts (EU)
 
-**[Placeholder — write when Germany page is being built]**
+Importing CNC machined parts from China into Germany follows EU customs rules. The process is straightforward — the EU Common External Tariff is well-established, and DDD shipping means no customs administration on your end.
 
-Key points to address:
-- EU Common External Tariff — lower than UK for most machined parts
-- Import VAT (19% Germany) — reclaimable for VAT-registered businesses
-- DDP handling — no customs broker needed
-- CE marking: components don't require it; product manufacturer bears CE obligation
-- REACH compliance for materials — note if relevant for customer's end application
+**EU import duty**
+Germany applies the EU Common External Tariff (CET) on goods imported from China. For most CNC machined metal components the rates are lower than UK equivalents post-Brexit:
+- Machined aluminium parts (CN 7616.99): 2.7%
+- Machined stainless steel (CN 7326.90): 2.7%
+- Precision machined components (CN 8466.93): 1.7%
+- Titanium parts (CN 8108.99): 0%
+
+Under DDP, these duties are paid by Weldo CNC and included in your quoted price.
+
+**Import VAT**
+German import VAT is 19%. Under DDP, this is settled at the EU border and included in the delivered price. If your business is VAT-registered in Germany (Umsatzsteuer-Identifikationsnummer), you can recover import VAT through your standard VAT return (Vorsteuerabzug). Confirm with your Steuerberater.
+
+**No customs broker needed**
+DDP means Weldo CNC handles customs declaration, duty payment, and clearance. Parts arrive at your German address without any customs hold or broker involvement.
+
+**CE marking**
+CNC machined components do not require CE marking. The CE obligation applies to finished products placed on the EU market, not to components used in their manufacture. If you are incorporating our parts into a product requiring CE marking, that obligation sits with you as the product manufacturer.
+
+**REACH**
+If your application is sensitive to restricted substances, request material data sheets for the specific alloy or plastic grade. Standard aluminium, stainless steel, and titanium alloys machined at Weldo CNC are not subject to REACH restrictions, but certain surface treatments (e.g. chromate conversion coating) may be relevant depending on the application.
+
+**Transit to Germany**
+DHL Express and FedEx International Priority: typically 4–6 business days from Dongguan to Germany. Frankfurt, Munich, and Hamburg are the fastest entry points. EORI number is not required on your end under DDP.
+
+| | Detail |
+|---|---|
+| Incoterms | DDP (Germany / EU) |
+| EU import duty | Included in quoted price |
+| German import VAT (19%) | Included in DDP — reclaimable for VAT-registered businesses |
+| Customs clearance | Handled by Weldo CNC / carrier |
+| Transit time | 4–6 business days |
+| Carriers | DHL Express / FedEx |
+| Documents | Commercial invoice (EUR), packing list, HS/CN codes, COO, material certs |
 
 ---
 
-### France Version
+### France Version — Importing CNC Parts (EU)
 
-**[Placeholder — same EU framework as Germany. Adapt language for French engineering market.]**
+France operates under the same EU customs framework as Germany. Import duty, VAT treatment, and DDP logistics follow identical rules — the differences are in French administrative context and currency declaration.
+
+**EU import duty**
+France applies the EU Common External Tariff. Duty rates are identical to the Germany version above — 0–2.7% depending on HS/CN code classification. All included under DDP.
+
+**Import VAT**
+French import VAT (TVA) is 20%. Under DDP, this is handled at EU border entry and included in the delivered price. VAT-registered French businesses (numéro de TVA intracommunautaire) can recover import VAT through their standard TVA return. Confirm with your comptable.
+
+**No customs broker needed**
+DDP covers customs declaration, duty, and clearance. Parts arrive at your French address — no customs documentation required on your end, no courtier en douane needed.
+
+**CE marking**
+Same as Germany — CE obligation sits with the product manufacturer, not the machined component supplier.
+
+**REACH**
+Same as Germany — standard alloys are not restricted. Declare specific finish processes if REACH-sensitive applications are involved.
+
+**Transit to France**
+DHL Express and FedEx International Priority: typically 4–6 business days from Dongguan. Paris, Lyon, and Marseille are the fastest delivery destinations. EORI number not required on your end under DDP.
+
+| | Detail |
+|---|---|
+| Incoterms | DDP (France / EU) |
+| EU import duty | Included in quoted price |
+| French import VAT / TVA (20%) | Included in DDP — reclaimable for TVA-registered businesses |
+| Customs clearance | Handled by Weldo CNC / carrier |
+| Transit time | 4–6 business days |
+| Carriers | DHL Express / FedEx |
+| Documents | Commercial invoice (EUR), packing list, HS/CN codes, COO, material certs |
 
 ---
 
@@ -242,6 +319,20 @@ This section is intentionally open-ended. Write it when you have the time and lo
 - Boston / Route 128: medtech — surgical instruments, implant housings, ISO 13485 adjacent requirements.
 - Houston: energy — downhole components, valve bodies, Inconel and stainless in demanding environments.
 
+**Germany example outline (write full content later):**
+- Baden-Württemberg (Stuttgart / Karlsruhe): automotive heartland — Mercedes-Benz, Porsche, Bosch, Schaeffler, ZF supply chains. High demand for precision powertrain components, EV battery housings, sensor housings in aluminium and stainless. DIN tolerances standard. Engineers expect tight geometric callouts and full dimensional reports.
+- Bavaria (Munich / Augsburg / Ingolstadt): automotive and aerospace — BMW, Airbus Defence, MTU Aero Engines. Titanium, 7075, Inconel. AS9100D adjacent documentation increasingly common for tier 2 and tier 3 suppliers. Munich medtech cluster (Siemens Healthineers, MED-EL supply chain): stainless, titanium, biocompatible finishes.
+- North Rhine-Westphalia (Düsseldorf / Cologne / Dortmund): industrial machinery and process engineering — fluid handling, valve bodies, pump components in stainless and duplex. Traditional heavy industry transitioning to precision manufacturing. Engineers are cost-conscious but expect measurable quality evidence.
+- Berlin / Brandenburg: deep tech, robotics, and startups — growing aerospace (OHB, Rocket Factory Augsburg proximity), defence procurement growth, robotics and automation hardware. Often early-stage, iterative prototype work in aluminium with 5-axis geometry.
+- Hamburg / North Germany: maritime and energy — subsea components, valve assemblies, offshore hardware in duplex and super-duplex stainless. High corrosion resistance requirements. Material traceability and pressure-rated documentation expected.
+
+**France example outline (write full content later):**
+- Île-de-France (Paris region): aerospace and defence prime contractors — Airbus, Safran, Thales, Dassault Aviation procurement offices and tier 1 suppliers. High demand for aluminium aerospace structural parts, titanium brackets, precision actuation components. NADCAP-adjacent quality expectations at tier 1. Strong engineering culture — expect technical dialogue, not just pricing.
+- Toulouse: Airbus commercial aircraft hub — single largest aerospace manufacturing cluster in Europe outside the UK. Structural aluminium (7075, 2024), titanium fastener-adjacent components, precision brackets and ribs. Full material traceability, CoC, CMM report standard.
+- Lyon / Auvergne-Rhône-Alpes: advanced manufacturing and automotive — Renault, Stellantis, Michelin supply chains. Precision machined rubber tooling plates, aluminium suspension and powertrain components. Strong industrial machining culture — local competition is capable but volume pricing drives offshore sourcing.
+- Bordeaux: aerospace and defence — Thales, Dassault Systèmes, Naval Group (naval defence). Mix of precision aerospace parts and naval hardware in stainless and high-performance alloys. Growing composite and machining hybrid requirements.
+- Grenoble: semiconductor and deep tech — STMicroelectronics, Soitec, CEA-Leti proximity. Precision aluminium tooling plates, wafer handling components, clean-room compatible finishes (hard anodise, electropolish). Very tight tolerances, surface finish critical.
+
 **Minimum length when written:** 400–600 words. Should feel like genuine local knowledge, not a generic "we serve this country" paragraph.
 
 ---
@@ -263,9 +354,33 @@ This section is intentionally open-ended. Write it when you have the time and lo
 | Cambridge | Medtech · Deep Tech | [[cnc-machining-cambridge]] |
 | Edinburgh | Energy · Defence | [[cnc-machining-edinburgh]] |
 
-**USA cities:** [add when USA page is built]
-**Germany cities:** [add when Germany page is built]
-**France cities:** [add when France page is built]
+**USA cities:**
+| City | Dominant Industry | Link |
+|---|---|---|
+| Los Angeles | Aerospace · Defence | [[cnc-machining-los-angeles]] |
+| San Francisco / Bay Area | Robotics · Semiconductor · Deep Tech | [[cnc-machining-san-francisco]] |
+| Houston | Energy · Oil & Gas | [[cnc-machining-houston]] |
+| Detroit | Automotive · EV | [[cnc-machining-detroit]] |
+| Boston | Medtech · Biotech | [[cnc-machining-boston]] |
+| Seattle | Aerospace · Defence | [[cnc-machining-seattle]] |
+
+**Germany cities:**
+| City | Dominant Industry | Link |
+|---|---|---|
+| Munich | Automotive · Aerospace · Medtech | [[cnc-machining-munich]] |
+| Stuttgart | Automotive · Industrial | [[cnc-machining-stuttgart]] |
+| Hamburg | Maritime · Energy | [[cnc-machining-hamburg]] |
+| Berlin | Robotics · Deep Tech · Defence | [[cnc-machining-berlin]] |
+| Düsseldorf | Industrial Machinery · Process Engineering | [[cnc-machining-dusseldorf]] |
+
+**France cities:**
+| City | Dominant Industry | Link |
+|---|---|---|
+| Paris | Aerospace · Defence · Electronics | [[cnc-machining-paris]] |
+| Toulouse | Aerospace (Airbus hub) | [[cnc-machining-toulouse]] |
+| Lyon | Automotive · Industrial | [[cnc-machining-lyon]] |
+| Bordeaux | Aerospace · Naval Defence | [[cnc-machining-bordeaux]] |
+| Grenoble | Semiconductor · Deep Tech | [[cnc-machining-grenoble]] |
 
 ---
 
