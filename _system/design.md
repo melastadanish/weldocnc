@@ -122,6 +122,51 @@ Used on: Home, Custom CNC Machining Services.
 
 ---
 
+## Capabilities & Tolerances Table — Data Reference
+*(Used in Section 5 of all Service pages)*
+
+### CNC Milling
+| Spec | Value |
+|---|---|
+| Maximum part size | 4000 × 1500 × 600 mm |
+| Minimum part size | 5 × 5 × 5 mm |
+| Standard tolerance | ISO 2768-m |
+| Precision tolerance | ±0.005 mm |
+| Minimum wall thickness | 0.5 mm |
+| Minimum end mill | 0.5 mm |
+| Minimum drill | 1 mm |
+| Maximum drill depth | 12× diameter |
+| Thread (Ø < 5 mm) | 3× diameter depth |
+| Thread (Ø ≥ 5 mm) | 4–6× diameter depth |
+| Lead time | 1–5 days (prototype) · 5–15 days (production) |
+
+### CNC Turning
+| Spec | Value |
+|---|---|
+| Maximum diameter × length | Ø200 × 500 mm |
+| Minimum diameter × length | Ø2 × 2 mm |
+| Standard tolerance | ISO 2768-m |
+| Precision tolerance | ±0.005 mm |
+| Lead time | 1–5 days (prototype) · 5–15 days (production) |
+
+### 5-Axis CNC Milling
+| Spec | Value |
+|---|---|
+| Maximum part size | [CLIENT TO CONFIRM] |
+| Precision tolerance | ±0.003 mm |
+| Single-setup complex geometry | Yes |
+| Lead time | 1–8 days depending on complexity |
+
+### General Design Rules (all processes)
+| Rule | Value |
+|---|---|
+| Minimum wall thickness | 0.5 mm |
+| Sharp internal corners | Add radius = tool radius + 0.5 mm clearance |
+| Undercuts | Possible with 5-axis or special tooling |
+| Text minimum width | 0.5 mm engraved |
+
+---
+
 ## CTA Strategy
 
 | Page type | Primary CTA | Secondary CTA |
