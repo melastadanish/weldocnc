@@ -4,11 +4,11 @@
 ## Core Files
 | File | Purpose |
 |---|---|
-| `WritingSystem.md` | Brand voice, banned words, quality checks, SEO, GEO/AI SEO, E-E-A-T |
-| `CLIENT-DATA-MAP.md` | All verified specs, numbers, and approved authority claims |
-| `design.md` | Component library and page templates |
-| `sitemap.md` | Master URL and silo map |
-| `reusablesections.md` | Reusable section library — check before every new page |
+| `_system/WritingSystem.md` | Brand voice, banned words, quality checks, SEO, GEO/AI SEO, E-E-A-T |
+| `_system/CLIENT-DATA-MAP.md` | All verified specs, numbers, and approved authority claims |
+| `_system/design.md` | Component library and page templates |
+| `_system/sitemap.md` | Master URL and silo map |
+| `_system/reusablesections.md` | Reusable section library — check before every new page |
 
 ## Workflow
 1. **Brief** — target keyword, buyer segment, key specs from `CLIENT-DATA-MAP.md`, objections to answer
