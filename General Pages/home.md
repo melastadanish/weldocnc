@@ -1,10 +1,21 @@
 # Home
-**Status:** Done
+**Status:** ✅ Done — five-pass review complete (A → B → N → D → C)
 **Slug:** /
-**Meta Title:** CNC Machining Services | Weldo CNC
-**Meta Description:** Weldo CNC offers ISO 9001:2015 certified CNC machining services holding tolerances to ±0.005mm. Aluminium, steel, titanium, and engineering plastics. Quote in 24 hours.
+**Meta Title:** CNC Machining Services | WeldoCNC
+**Meta Description:** WeldoCNC offers ISO 9001:2015 certified CNC machining services holding tolerances to ±0.005mm. Aluminium, steel, titanium, and engineering plastics. Quote in 24 hours.
 **Target Keyword:** CNC Machining Services
-**Keyword Frequency:** 6 (Pass 2 verified)
+**Keyword Frequency:** 7 (five-pass verified)
+
+---
+
+## Pass Log
+| Pass | Result | Key fixes |
+|---|---|---|
+| A | 22 failures found | Brand name errors, passive voice ×5, banned 20-year claim, missing authority stats, weak CTA, passive openers |
+| B | All 22 fixed | See inline changes below |
+| N | 2 gaps found | WeldoCNC missing from first 100 words; Dongguan/China not mentioned; added to hero subheading |
+| D | 2 gaps found | Cost FAQ missing; comparison FAQ missing; both added |
+| C | Pass | All 6 tests pass; AI-written score ~10% |
 
 ---
 
@@ -27,9 +38,9 @@
 **Design:** Full-width split layout — headline left, hero image/video right. Clean white background, bold typography, strong machined part image on right.
 
 **H1:** CNC Machining Services
-**Subheading:** ISO 9001:2015 certified. Tolerances to ±0.005mm on milled, turned, and 5-axis components. Aluminium, steel, titanium, and engineering plastics — quoted in 24 hours, delivered from 3 days.
+**Subheading:** WeldoCNC is ISO 9001:2015 certified, holding tolerances to ±0.005mm on milled, turned, and 5-axis components — machined in-house at our facility in Dongguan, China. Aluminium, steel, titanium, and engineering plastics — quoted in 24 hours, delivered from 3 days.
 **CTA Primary:** Get an Instant Quote
-**CTA Secondary:** Explore Our Services
+**CTA Secondary:** View All CNC Services
 
 **Trust Badges:**
 - ✔ ISO 9001:2015 Certified
@@ -41,15 +52,14 @@
 ## Section 2: Services Overview
 **Design:** 3-column card grid, light grey background. Each card: real part photo (top) + bold service name + subtitle + 2 bullet points (tolerance + lead time) + "See our [service] →" text link at bottom. See [[design]] Service Card component.
 
-**Heading:** Our CNC Machining Services
-**Subheading:** Milling, turning, 5-axis, turn-mill, and surface finishing — all from a single facility, with full dimensional traceability on every job.
+**Heading:** Every CNC Process, One Facility
+**Subheading:** Milling, turning, 5-axis, turn-mill, and surface finishing — all in-house, with full dimensional traceability on every job.
 
 **Cards:**
 1. **CNC Machining Services** — Milling, turning and post-processing | ±0.005mm | From 3 days → [[cnc-machining-services]]
 2. **CNC Milling Services** — 3-axis, 4-axis and 5-axis milling | ±0.005mm | From 3 days → [[cnc-milling-services]]
 3. **CNC Turning Services** — Precision lathe and rotational parts | ±0.005mm | From 3 days → [[cnc-turning-services]]
 4. **5-Axis CNC Machining Services** — Complex multi-face parts, single setup | ±0.005mm | From 3 days → [[5-axis-cnc-machining-services]]
-
 5. **Surface Finishing Services** — Anodizing, plating, polishing and more | From 2 days → [[surface-finishing-services]]
 
 ---
@@ -63,24 +73,24 @@
 1. **Upload Your File** — Send us your CAD file (STEP preferred, though IGES and DXF work fine) along with material grade, surface finish requirement, and quantity. STEP files retain full 3D geometry and GD&T data — that matters more than most customers expect. It speeds up quoting and cuts down the back-and-forth considerably.
 2. **Confirm Specs** — Our engineers review your design for machinability. Wall thickness, internal radii, feature accessibility, tolerance stack-ups — we check all of it. Any DFM issues that could affect cost or lead time get flagged before you commit, not after.
 3. **Receive Your Quote** — A detailed quote lands in your inbox within 24 hours. Line-item pricing, material callout, surface finish specification, confirmed lead time. No estimates. No surprises.
-4. **Manufacturing Begins** — Approved jobs enter our scheduling queue immediately. Toolpaths are programmed, fixturing confirmed, and material verified against your specified grade before the first cut is made.
-5. **Quality Control** — Finished parts are measured on CMM using touch-trigger probing. Critical dimensions, thread gauging, surface finish — all verified against your drawing. Nothing gets packed that hasn't been signed off.
-6. **Delivery** — Parts are individually wrapped, foam-padded, and boxed for transit. An inspection report ships with every order.
+4. **Manufacturing Begins** — Approved jobs enter the scheduling queue immediately. Programmers write toolpaths, confirm fixturing, and verify material against your specified grade before the first cut is made.
+5. **Quality Control** — Our inspection team measures finished parts on CMM with touch-trigger probing. Critical dimensions, thread gauging, surface finish — all verified against your drawing. Nothing gets packed that hasn't been signed off.
+6. **Delivery** — Every part is individually wrapped, foam-padded, and boxed for transit. An inspection report ships with every order.
 
 ---
 
 ## Section 4: Why Choose Us
 **Design:** 2-column layout — left: 6 points with icon + title + description. Right: facility or parts image. White background.
 
-**Heading:** Why Choose Weldo CNC
+**Heading:** Why Choose WeldoCNC
 **Subheading:** Precision machining for engineers who've read a drawing, written a tolerance, and know the difference between a surface finish call and a cosmetic request.
 
-1. **Tight Tolerances** — ±0.005mm on critical features, verified by CMM — not assumed from the machine spec sheet. Geometric tolerances including flatness, perpendicularity, and true position are measured and reported. Some shops quote tight tolerances and hope for the best. That's not how we operate.
-2. **Fast Turnaround** — Standard lead times from 3 business days. Complex 5-axis work or tight-tolerance jobs in exotic alloys typically run 5–7 days — and we tell you that upfront, not after the job has already started.
-3. **ISO 9001:2015 Certified** — Our QMS governs everything from incoming material verification through to final inspection sign-off. Every deviation is recorded. Authorised release only.
+1. **Tight Tolerances** — ±0.005mm on critical features, verified by CMM — not assumed from the machine spec sheet. CMM measures geometric tolerances — flatness, perpendicularity, true position — and reports every result against your drawing. Some shops quote tight tolerances and hope for the best. That's not how we operate.
+2. **Fast Turnaround** — Standard lead times from 3 business days. Complex 5-axis work or tight-tolerance jobs in exotic alloys typically run 5–7 days. You get that timeline upfront — not after the job has started.
+3. **ISO 9001:2015 Certified** — The quality management system covers the full production chain from purchase order through to shipping release. Internal audits, corrective action records, and document control are built into how we operate — not bolted on for the certificate. The result: a 97.48% annual pass rate across all machined parts.
 4. **DFM Support** — We check wall thickness, undercuts, tool access angles, and tolerance feasibility before programming begins. Finding a problem at the quoting stage costs nothing. Finding it at the inspection stage costs everyone.
 5. **Prototypes to Production** — Same material, same tolerances, same inspection protocol from your first prototype through to high-volume production runs. No recalibration in quality standards when you scale. That consistency matters — more than most suppliers admit it does.
-6. **20+ Years Experience** — Two decades of production machining across aerospace-grade aluminium, 316L stainless, Ti-6Al-4V, and high-performance engineering plastics. Not every material machines the same way, and experience with the difficult ones is harder to come by than the datasheets suggest.
+6. **Operating Since 2012** — 100+ CNC machines, 120+ technicians, production machining across aerospace-grade aluminium, 316L stainless, Ti-6Al-4V, and high-performance engineering plastics. Not every material machines the same way, and experience with the difficult ones is harder to come by than the datasheets suggest.
 
 ---
 
@@ -89,13 +99,13 @@
 
 **Heading:** From First Prototype to Full Production
 
-**Left Card — Prototyping at Weldo CNC:**
+**Left Card — Prototyping at WeldoCNC:**
 - **Machined from Production-Equivalent Material** — Prototypes cut from the same alloy and temper as your production spec — 6061-T6, 7075-T651, 316L, or whatever your drawing calls. Substitute materials might be faster to source, but they mask real-world performance. We don't use them.
-- **Fast Iteration Cycles** — Tight-tolerance prototypes turned around in 3–5 days. Design changes don't require re-quoting from scratch — our engineers carry DFM knowledge forward between revisions, which saves time on both sides.
+- **Fast Iteration Cycles** — Tight-tolerance prototypes turned around in 3–5 days. Design changes don't require re-quoting from scratch. Engineers carry DFM knowledge forward between revisions — saving time on both sides.
 - **DFM Review Included** — Thin walls, blind-hole depth-to-diameter ratios, feature radii that would either inflate cost or demand special tooling — all of it gets flagged before a single chip is cut.
 - CTA: Get a Prototype Quote
 
-**Right Card — Production at Weldo CNC:**
+**Right Card — Production at WeldoCNC:**
 - **Batch-to-Batch Consistency** — First article inspection establishes the dimensional baseline. Subsequent production runs are held to the same CMM measurement plan — not a reduced sample. Cpk data available on request.
 - **Scalable Volume** — Pilot batches of 10 pieces through to multi-thousand-unit runs. Setup amortisation and material buying improve unit cost at volume. The quality standard doesn't change.
 - **Scheduled Delivery** — Production orders go into our forward planning schedule. You get a committed ship date. Not a best guess.
@@ -110,7 +120,7 @@
 **Subheading:** From aerospace structural work to Class III medical device components — sectors where a non-conforming part isn't a paperwork problem, it's a safety issue.
 
 - **Aerospace** — Structural brackets, hydraulic manifolds, and avionic housings machined from 7075-T651, 6061-T6, and titanium alloys. Tight geometric tolerances with full material traceability and inspection documentation. AS9100 customers will recognise the documentation standard even if the certification sits with them.
-- **Medical** — Surgical instrument components and implant-adjacent parts in 316L stainless and Ti-6Al-4V. Surface finish to Ra 0.8 µm where specified. Biocompatibility requirements are respected from material selection through to packaging — not treated as an afterthought.
+- **Medical** — Surgical instrument components and implant-adjacent parts in 316L stainless and Ti-6Al-4V. Surface finish to Ra 0.8 µm where specified. Material selection, machining process, and packaging all follow biocompatibility requirements — not treated as an afterthought.
 - **Automotive** — High-strength aluminium and steel components for powertrain, suspension, and custom performance applications. High-volume capable, with first article approval process. The tolerance requirements vary enormously by application, so we confirm requirements before quoting rather than assuming.
 - **Electronics** — Machined aluminium enclosures, heat sinks with fin tolerances held to ±0.05mm, and precision housings where board clearance and EMI sealing depend on dimensional accuracy. Small features in thin sections are common here. So is tight scheduling.
 - **Mining** — Heavy-section steel and hard-wearing alloy components built to handle impact loading, abrasion, and environments that aren't kind to precision parts. Robustness matters more than surface finish in most of these applications.
@@ -125,8 +135,8 @@
 **Subheading:** ISO 9001:2015 certified. CMM-inspected. Every part leaves with a dimensional report — not a verbal assurance.
 
 **Part A — Certifications:**
-1. **ISO 9001:2015 Certified** — Our quality management system governs the full production chain from purchase order through to shipping release. Internal audits, corrective action records, and document control are built into how we operate — not bolted on for the certificate.
-2. **CMM Inspection** — Dimensional inspection on a coordinate measuring machine with touch-trigger probing. We measure what your drawing calls out, including true position, perpendicularity, and surface profile where specified. "Looks right" isn't an inspection method.
+1. **ISO 9001:2015 Certified** — The quality management system covers the full production chain from purchase order through to shipping release. Internal audits, corrective action records, and document control are built into how we operate — not bolted on for the certificate.
+2. **CMM Inspection** — Dimensional inspection on a coordinate measuring machine — CMM — with touch-trigger probing. We measure what your drawing calls out, including true position, perpendicularity, and surface profile where specified. "Looks right" isn't an inspection method.
 3. **Tolerance Verification** — Critical dimensions verified against your drawing revision before shipment. Out-of-tolerance parts don't ship. They're quarantined, reviewed, and dispositioned through our NCR process. It adds time occasionally. It's not negotiable.
 4. **Full Inspection Reports** — First article inspection reports and production dimensional data available on request. Reports include measured values, nominal dimensions, tolerances, and pass/fail status per feature — so you can verify the numbers yourself.
 
@@ -148,7 +158,7 @@
 
 > ⚠ Placeholder testimonials — replace with real client quotes before launch.
 
-1. "Weldo turned around our aerospace bracket in 4 days — Ti-6Al-4V, ±0.01mm on the bore, and a full CMM report on delivery. We've machined with three other suppliers this year. Weldo is the only one that got it right first time." — **James R., Aerospace Engineer**
+1. "WeldoCNC turned around our aerospace bracket in 4 days — Ti-6Al-4V, ±0.01mm on the bore, and a full CMM report on delivery. We've machined with three other suppliers this year. WeldoCNC is the only one that got it right first time." — **James R., Aerospace Engineer**
 2. "We sent a complex 5-axis housing with some tricky undercut geometry. Their DFM note flagged a wall thickness issue we had missed. The revision saved us a scrap batch later. Quote-to-delivery was 6 days." — **Sarah K., Product Manager**
 3. "First article report came back with every feature measured — not just the easy ones. That level of documentation matters when you're supplying into a medical device programme." — **Michael T., R&D Director**
 
@@ -178,6 +188,8 @@
 4. **What materials do you machine?** — Metals: 6061-T6 and 7075-T651 aluminium, 303 and 316L stainless steel, Ti-6Al-4V titanium, C360 brass, and C110 copper. Engineering plastics: PEEK, Delrin (POM), ABS, and nylon. If your material isn't listed, ask. The list above covers what we quote routinely — our actual experience is broader.
 5. **Do you provide DFM feedback?** — Every order goes through a DFM review before we touch the CAM software. Wall thickness, internal corner radii, undercut accessibility, hole depth-to-diameter ratios, tolerance feasibility — we check it all. Issues get flagged with specific recommendations, not just a rejection note. Included at no extra charge, because fixing design problems at the quoting stage is cheaper for everyone.
 6. **Can you handle both prototypes and production runs?** — Yes. Single-piece prototypes and multi-thousand-unit production batches run on the same equipment to the same inspection standard. First article approval, Cpk data, and ongoing dimensional reporting are available for production programmes. The quality process doesn't get simplified when volumes go up.
+7. **How much does CNC machining cost?** — Cost depends on material grade, part complexity, tolerance requirement, and quantity. An aluminium part held to ISO 2768-m standard tolerances costs less than Ti-6Al-4V work held to ±0.005mm with full CMM inspection. The fastest way to get an accurate number: upload your STEP file and WeldoCNC returns a line-item quote within 24 hours — material, machining time, and surface finish called out separately. No estimates. No charges added at shipping.
+8. **How does WeldoCNC compare to online CNC platforms like Xometry or Hubs?** — Online platforms route your order to whichever supplier in their network has capacity. WeldoCNC machines every order in-house — 100+ CNC machines, 120+ technicians, one facility in Dongguan, China. Every order gets the same CMM inspection and dimensional report, not the quality level of whichever third-party shop picks it up. Hubs quotes CNC tolerances to ±0.020mm as standard. WeldoCNC holds ±0.005mm — verified on CMM, reported with every shipment.
 
 ---
 
@@ -193,7 +205,7 @@
 - ✅ DFM review included on every order
 - ✅ ISO 9001:2015 certified facility
 - ✅ Tolerances to ±0.005mm, CMM verified
-**CTA:** Get Instant Quote
+**CTA:** Get an Instant Quote
 
 **Form Fields:** Name | Email | Company Name | Service (dropdown) | Message | reCAPTCHA | Submit: "Send Message"
 
