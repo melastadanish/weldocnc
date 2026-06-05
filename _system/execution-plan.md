@@ -38,7 +38,7 @@
 > Task: run all five passes, fix all failures, update status to ✅.
 
 - [x] `[REVIEW]` `General Pages/quality-assurance.md` (~147 lines)
-- [ ] `[REVIEW]` `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` (~239 lines)
+- [x] `[REVIEW]` `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` (~239 lines)
 - [ ] `[REVIEW]` `Services/CNC Milling Services/cnc-milling-services.md` (~297 lines)
 - [ ] `[REVIEW]` `Services/CNC Turning Services/cnc-turning-services.md` (~305 lines)
 - [ ] `[REVIEW]` `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` (~298 lines)

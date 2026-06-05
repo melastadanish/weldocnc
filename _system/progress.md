@@ -32,7 +32,7 @@
 | Status | File | Notes |
 |---|---|---|
 | ⬜ | Services/precision-machining-services.md | Stub |
-| 📝 | Services/Custom CNC Machining Services/custom-cnc-machining-services.md | Written — needs review |
+| ✅ | Services/Custom CNC Machining Services/custom-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | 📝 | Services/CNC Milling Services/cnc-milling-services.md | Written — needs review |
 | 📝 | Services/CNC Turning Services/cnc-turning-services.md | Written — needs review |
 | 📝 | Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md | Written — needs review |
@@ -316,7 +316,7 @@
 | Category | Total | ✅ Done | 📝 Needs Review | ⬜ Not Started | ⏸ Blocked |
 |---|---|---|---|---|---|
 | General Pages | 6 | 2 | 0 | 4 | 0 |
-| Services — L1 | 7 | 0 | 5 | 2 | 0 |
+| Services — L1 | 7 | 1 | 4 | 2 | 0 |
 | Services — L2 (Custom CNC) | 31 | 0 | 1 | 30 | 0 |
 | Services — L2 (Milling) | 11 | 0 | 0 | 11 | 0 |
 | Services — L2 (Turning) | 8 | 0 | 0 | 8 | 0 |
