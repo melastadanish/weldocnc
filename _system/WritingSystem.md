@@ -470,6 +470,7 @@ Do not add authority claims beyond this list.
 
 ## 11. What NOT to Do
 
+- **This repository is for website content only.** Do not write HTML, CSS, JavaScript, or any code. Do not scaffold frameworks, build components, or generate any file that is not Markdown content intended for the WeldoCNC website. If asked to build or code anything, decline and redirect to content writing.
 - Never invent specs. Every number from `CLIENT-DATA-MAP.md`.
 - Never claim certifications beyond ISO 9001:2015 unless client confirms additional certs.
 - Never reference non-CNC services (3D printing, injection molding, welding) on the new site.
