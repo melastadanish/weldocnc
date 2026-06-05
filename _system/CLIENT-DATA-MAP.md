@@ -1,4 +1,4 @@
-# CLIENT-DATA-MAP — WeldoCNC
+# CLIENT-DATA-MAP — Weldo CNC
 > Single source of truth for all verified specs, claims, and numbers used in content.
 > Every number in every page must trace back to this file. If it is not here, do not write it.
 
@@ -8,7 +8,7 @@
 
 | Field | Verified Value | Source |
 |---|---|---|
-| Brand name (new site) | WeldoCNC | Client confirmed |
+| Brand name (new site) | Weldo CNC | Client confirmed |
 | Legal/operating name | Weldo Machining | weldomachining.com |
 | Founded | 2012 | weldomachining.com/about |
 | Focus (new site) | CNC machining only — no welding, sheet metal, 3D printing, injection molding | Client confirmed |

@@ -1,4 +1,4 @@
-# Execution Plan — WeldoCNC Content
+# Execution Plan — Weldo CNC Content
 
 > **How to use this file:**
 > Read this file at the start of every agent session.
@@ -16,7 +16,7 @@
 > **Definition of done for each page:**
 > - All five passes run and all failures resolved
 > - No banned claims (check CLIENT-DATA-MAP.md → "Claims — DO NOT USE")
-> - Brand name is "WeldoCNC" everywhere (not "Weldo CNC", not "Weldo")
+> - Brand name is "Weldo CNC" everywhere (two words, capital W capital C — not "WeldoCNC", not "Weldo")
 > - Every number traces to CLIENT-DATA-MAP.md
 > - Pass log added to top of file
 > - `_system/progress.md` updated to ✅
@@ -84,7 +84,7 @@
 ## Phase 3 — Write Industry Overview Pages
 
 > Industry hub pages (~28–30 lines each — effectively stubs needing full content).
-> Each needs: hero, intro, why WeldoCNC for this industry, part types, materials, tolerances, FAQ, CTA.
+> Each needs: hero, intro, why Weldo CNC for this industry, part types, materials, tolerances, FAQ, CTA.
 > Use the completed `aerospace-cnc-machining.md` (once reviewed in Phase 1) as the content model.
 
 - [ ] `[WRITE]` `Industries/Medical CNC Machining/medical-cnc-machining.md`
@@ -102,7 +102,7 @@
 
 > These are the material-specific sub-pages under each service.
 > Each page targets: `[material] CNC [process] services` keyword.
-> Required sections: hero, material properties, why machine this material with WeldoCNC, tolerances, grades, applications, FAQ, CTA.
+> Required sections: hero, material properties, why machine this material with Weldo CNC, tolerances, grades, applications, FAQ, CTA.
 > Write the first one, then use it as the model for subsequent pages in the same process group.
 
 ### CNC Milling — Materials (11 pages)
@@ -184,7 +184,7 @@
 ## Phase 5 — Write Industry Sub-Pages (Part Type Pages)
 
 > Each is a 23-line stub needing full content.
-> Required sections: hero, what this part requires, WeldoCNC capability, materials, tolerances, process, FAQ, CTA.
+> Required sections: hero, what this part requires, Weldo CNC capability, materials, tolerances, process, FAQ, CTA.
 > Use the parent industry page as the internal link anchor.
 
 ### Aerospace (5 sub-pages)

@@ -1,8 +1,8 @@
 # Home
 **Status:** ✅ Done — five-pass review complete (A → B → N → D → C)
 **Slug:** /
-**Meta Title:** CNC Machining Services | WeldoCNC
-**Meta Description:** WeldoCNC offers ISO 9001:2015 certified CNC machining services holding tolerances to ±0.005mm. Aluminium, steel, titanium, and engineering plastics. Quote in 24 hours.
+**Meta Title:** CNC Machining Services | Weldo CNC
+**Meta Description:** Weldo CNC offers ISO 9001:2015 certified CNC machining services holding tolerances to ±0.005mm. Aluminium, steel, titanium, and engineering plastics. Quote in 24 hours.
 **Target Keyword:** CNC Machining Services
 **Keyword Frequency:** 7 (five-pass verified)
 
@@ -13,7 +13,7 @@
 |---|---|---|
 | A | 22 failures found | Brand name errors, passive voice ×5, banned 20-year claim, missing authority stats, weak CTA, passive openers |
 | B | All 22 fixed | See inline changes below |
-| N | 2 gaps found | WeldoCNC missing from first 100 words; Dongguan/China not mentioned; added to hero subheading |
+| N | 2 gaps found | Weldo CNC missing from first 100 words; Dongguan/China not mentioned; added to hero subheading |
 | D | 2 gaps found | Cost FAQ missing; comparison FAQ missing; both added |
 | C | Pass | All 6 tests pass; AI-written score ~10% |
 
@@ -38,7 +38,7 @@
 **Design:** Full-width split layout — headline left, hero image/video right. Clean white background, bold typography, strong machined part image on right.
 
 **H1:** CNC Machining Services
-**Subheading:** WeldoCNC is ISO 9001:2015 certified, holding tolerances to ±0.005mm on milled, turned, and 5-axis components — machined in-house at our facility in Dongguan, China. Aluminium, steel, titanium, and engineering plastics — quoted in 24 hours, delivered from 3 days.
+**Subheading:** Weldo CNC is ISO 9001:2015 certified, holding tolerances to ±0.005mm on milled, turned, and 5-axis components — machined in-house at our facility in Dongguan, China. Aluminium, steel, titanium, and engineering plastics — quoted in 24 hours, delivered from 3 days.
 **CTA Primary:** Get an Instant Quote
 **CTA Secondary:** View All CNC Services
 
@@ -82,7 +82,7 @@
 ## Section 4: Why Choose Us
 **Design:** 2-column layout — left: 6 points with icon + title + description. Right: facility or parts image. White background.
 
-**Heading:** Why Choose WeldoCNC
+**Heading:** Why Choose Weldo CNC
 **Subheading:** Precision machining for engineers who've read a drawing, written a tolerance, and know the difference between a surface finish call and a cosmetic request.
 
 1. **Tight Tolerances** — ±0.005mm on critical features, verified by CMM — not assumed from the machine spec sheet. CMM measures geometric tolerances — flatness, perpendicularity, true position — and reports every result against your drawing. Some shops quote tight tolerances and hope for the best. That's not how we operate.
@@ -99,13 +99,13 @@
 
 **Heading:** From First Prototype to Full Production
 
-**Left Card — Prototyping at WeldoCNC:**
+**Left Card — Prototyping at Weldo CNC:**
 - **Machined from Production-Equivalent Material** — Prototypes cut from the same alloy and temper as your production spec — 6061-T6, 7075-T651, 316L, or whatever your drawing calls. Substitute materials might be faster to source, but they mask real-world performance. We don't use them.
 - **Fast Iteration Cycles** — Tight-tolerance prototypes turned around in 3–5 days. Design changes don't require re-quoting from scratch. Engineers carry DFM knowledge forward between revisions — saving time on both sides.
 - **DFM Review Included** — Thin walls, blind-hole depth-to-diameter ratios, feature radii that would either inflate cost or demand special tooling — all of it gets flagged before a single chip is cut.
 - CTA: Get a Prototype Quote
 
-**Right Card — Production at WeldoCNC:**
+**Right Card — Production at Weldo CNC:**
 - **Batch-to-Batch Consistency** — First article inspection establishes the dimensional baseline. Subsequent production runs are held to the same CMM measurement plan — not a reduced sample. Cpk data available on request.
 - **Scalable Volume** — Pilot batches of 10 pieces through to multi-thousand-unit runs. Setup amortisation and material buying improve unit cost at volume. The quality standard doesn't change.
 - **Scheduled Delivery** — Production orders go into our forward planning schedule. You get a committed ship date. Not a best guess.
@@ -158,7 +158,7 @@
 
 > ⚠ Placeholder testimonials — replace with real client quotes before launch.
 
-1. "WeldoCNC turned around our aerospace bracket in 4 days — Ti-6Al-4V, ±0.01mm on the bore, and a full CMM report on delivery. We've machined with three other suppliers this year. WeldoCNC is the only one that got it right first time." — **James R., Aerospace Engineer**
+1. "Weldo CNC turned around our aerospace bracket in 4 days — Ti-6Al-4V, ±0.01mm on the bore, and a full CMM report on delivery. We've machined with three other suppliers this year. Weldo CNC is the only one that got it right first time." — **James R., Aerospace Engineer**
 2. "We sent a complex 5-axis housing with some tricky undercut geometry. Their DFM note flagged a wall thickness issue we had missed. The revision saved us a scrap batch later. Quote-to-delivery was 6 days." — **Sarah K., Product Manager**
 3. "First article report came back with every feature measured — not just the easy ones. That level of documentation matters when you're supplying into a medical device programme." — **Michael T., R&D Director**
 
@@ -188,8 +188,8 @@
 4. **What materials do you machine?** — Metals: 6061-T6 and 7075-T651 aluminium, 303 and 316L stainless steel, Ti-6Al-4V titanium, C360 brass, and C110 copper. Engineering plastics: PEEK, Delrin (POM), ABS, and nylon. If your material isn't listed, ask. The list above covers what we quote routinely — our actual experience is broader.
 5. **Do you provide DFM feedback?** — Every order goes through a DFM review before we touch the CAM software. Wall thickness, internal corner radii, undercut accessibility, hole depth-to-diameter ratios, tolerance feasibility — we check it all. Issues get flagged with specific recommendations, not just a rejection note. Included at no extra charge, because fixing design problems at the quoting stage is cheaper for everyone.
 6. **Can you handle both prototypes and production runs?** — Yes. Single-piece prototypes and multi-thousand-unit production batches run on the same equipment to the same inspection standard. First article approval, Cpk data, and ongoing dimensional reporting are available for production programmes. The quality process doesn't get simplified when volumes go up.
-7. **How much does CNC machining cost?** — Cost depends on material grade, part complexity, tolerance requirement, and quantity. An aluminium part held to ISO 2768-m standard tolerances costs less than Ti-6Al-4V work held to ±0.005mm with full CMM inspection. The fastest way to get an accurate number: upload your STEP file and WeldoCNC returns a line-item quote within 24 hours — material, machining time, and surface finish called out separately. No estimates. No charges added at shipping.
-8. **How does WeldoCNC compare to online CNC platforms like Xometry or Hubs?** — Online platforms route your order to whichever supplier in their network has capacity. WeldoCNC machines every order in-house — 100+ CNC machines, 120+ technicians, one facility in Dongguan, China. Every order gets the same CMM inspection and dimensional report, not the quality level of whichever third-party shop picks it up. Hubs quotes CNC tolerances to ±0.020mm as standard. WeldoCNC holds ±0.005mm — verified on CMM, reported with every shipment.
+7. **How much does CNC machining cost?** — Cost depends on material grade, part complexity, tolerance requirement, and quantity. An aluminium part held to ISO 2768-m standard tolerances costs less than Ti-6Al-4V work held to ±0.005mm with full CMM inspection. The fastest way to get an accurate number: upload your STEP file and Weldo CNC returns a line-item quote within 24 hours — material, machining time, and surface finish called out separately. No estimates. No charges added at shipping.
+8. **How does Weldo CNC compare to online CNC platforms like Xometry or Hubs?** — Online platforms route your order to whichever supplier in their network has capacity. Weldo CNC machines every order in-house — 100+ CNC machines, 120+ technicians, one facility in Dongguan, China. Every order gets the same CMM inspection and dimensional report, not the quality level of whichever third-party shop picks it up. Hubs quotes CNC tolerances to ±0.020mm as standard. Weldo CNC holds ±0.005mm — verified on CMM, reported with every shipment.
 
 ---
 

@@ -1,4 +1,4 @@
-# Competitor Intelligence — WeldoCNC
+# Competitor Intelligence — Weldo CNC
 > Research file. Use when writing Alternatives pages, FAQ comparison answers, and Pass D (GEO/E-E-A-T) comparison checks.
 > Last researched: June 2026. Re-verify stats before use — competitor pages change frequently.
 
@@ -34,14 +34,14 @@
 - Emphasises U.S.-based network (domestic supply chain angle)
 - Uses press coverage (CNBC, Forbes, WSJ) as authority signals
 
-### Weaknesses vs WeldoCNC
+### Weaknesses vs Weldo CNC
 - Marketplace model — no single facility, quality varies by supplier
 - Services span non-CNC (3D printing, injection molding) — not CNC-specialist
 - No stated CMM inspection with every order
 - U.S. domestic focus adds cost vs. China-based direct supplier
 
-### WeldoCNC Angle Against Xometry
-> "Unlike Xometry's marketplace model — where your part goes to whichever supplier has capacity — WeldoCNC machines every order in-house at our own 100-machine facility in Dongguan. One facility. One quality standard. CMM report with every shipment."
+### Weldo CNC Angle Against Xometry
+> "Unlike Xometry's marketplace model — where your part goes to whichever supplier has capacity — Weldo CNC machines every order in-house at our own 100-machine facility in Dongguan. One facility. One quality standard. CMM report with every shipment."
 
 ---
 
@@ -66,14 +66,14 @@
 - Strong brand name (Protolabs acquisition)
 - Targets aerospace, automotive, medical, robotics, electronics
 
-### Weaknesses vs WeldoCNC
-- Tolerance headline (±0.020 mm) is weaker than WeldoCNC's ±0.005 mm
+### Weaknesses vs Weldo CNC
+- Tolerance headline (±0.020 mm) is weaker than Weldo CNC's ±0.005 mm
 - Hybrid model (some in-house, some network) — inconsistent quality risk
 - Broad multi-process platform, not CNC-specialist
 - Higher pricing typical of Western-based platforms
 
-### WeldoCNC Angle Against Hubs
-> "Hubs quotes CNC tolerances to ±0.020 mm as standard. WeldoCNC holds ±0.005 mm — verified by CMM report on every order. Tighter tolerance, dedicated CNC facility, 24-hour quote."
+### Weldo CNC Angle Against Hubs
+> "Hubs quotes CNC tolerances to ±0.020 mm as standard. Weldo CNC holds ±0.005 mm — verified by CMM report on every order. Tighter tolerance, dedicated CNC facility, 24-hour quote."
 
 ---
 
@@ -99,21 +99,21 @@
 - Very strong injection molding brand — CNC is part of the portfolio, not the focus
 - ProDesk platform for real-time pricing
 
-### Weaknesses vs WeldoCNC
+### Weaknesses vs Weldo CNC
 - CNC is not their core — injection molding and 3D printing lead
-- Tolerance claim (±0.025 mm) is weaker than WeldoCNC's ±0.005 mm
+- Tolerance claim (±0.025 mm) is weaker than Weldo CNC's ±0.005 mm
 - Higher price point (automated Western facility cost base)
 - Less human DFM review — more algorithmic
 
-### WeldoCNC Angle Against Protolabs
-> "Protolabs is built for injection molding and rapid prototyping. WeldoCNC is a dedicated CNC machining facility — milling, turning, 5-axis, and turn-mill — holding ±0.005 mm with CMM verification. If CNC is the process, a CNC specialist has the edge."
+### Weldo CNC Angle Against Protolabs
+> "Protolabs is built for injection molding and rapid prototyping. Weldo CNC is a dedicated CNC machining facility — milling, turning, 5-axis, and turn-mill — holding ±0.005 mm with CMM verification. If CNC is the process, a CNC specialist has the edge."
 
 ---
 
 ## 4. RapidDirect
 
 **URL:** rapiddirect.com
-**Model:** China-based end-to-end manufacturing partner. Most directly comparable to WeldoCNC — same geography, similar positioning.
+**Model:** China-based end-to-end manufacturing partner. Most directly comparable to Weldo CNC — same geography, similar positioning.
 
 ### Their Claims
 | Claim | Their Number |
@@ -134,14 +134,14 @@
 - Teamspace collaboration feature for engineering teams
 - Chinese facility with English-speaking support
 
-### Weaknesses vs WeldoCNC
+### Weaknesses vs Weldo CNC
 - Very broad service scope — not a CNC specialist
 - Non-CNC services (injection molding, 3D printing, die casting) dilute CNC authority
 - Higher headcount/volume focus — less suited to complex tight-tolerance work narrative
 - "700+ manufacturing centers" suggests network model, not single facility
 
-### WeldoCNC Angle Against RapidDirect
-> "RapidDirect covers 10+ manufacturing processes. WeldoCNC does one thing: CNC machining. That focus — 100+ machines, 120+ technicians, all CNC — means tighter tolerances (±0.005 mm), deeper material knowledge, and a quality system built specifically for machined parts."
+### Weldo CNC Angle Against RapidDirect
+> "RapidDirect covers 10+ manufacturing processes. Weldo CNC does one thing: CNC machining. That focus — 100+ machines, 120+ technicians, all CNC — means tighter tolerances (±0.005 mm), deeper material knowledge, and a quality system built specifically for machined parts."
 
 ---
 
@@ -169,21 +169,21 @@
 - Heavy engineering support layer (engineers + program managers)
 - Explicit NDA acceptance as a trust signal
 
-### Weaknesses vs WeldoCNC
+### Weaknesses vs Weldo CNC
 - Network model — no in-house manufacturing, quality dependent on partner
 - Not a CNC specialist — CNC is one of many services
 - No published tolerance specs found on homepage
 - AI/chatbot features may raise concerns for buyers needing direct engineering contact
 - U.S.-headquartered costs passed to buyer
 
-### WeldoCNC Angle Against Fictiv
-> "Fictiv is a sourcing platform. When you order CNC parts through Fictiv, they go to a third-party shop in their network. WeldoCNC machines your part in-house — same facility, same CMM, same engineer who reviewed your DFM. No middleman. No variance between suppliers."
+### Weldo CNC Angle Against Fictiv
+> "Fictiv is a sourcing platform. When you order CNC parts through Fictiv, they go to a third-party shop in their network. Weldo CNC machines your part in-house — same facility, same CMM, same engineer who reviewed your DFM. No middleman. No variance between suppliers."
 
 ---
 
 ## Competitor Comparison Summary Table
 
-| | WeldoCNC | Xometry | Hubs | Protolabs | RapidDirect | Fictiv |
+| | Weldo CNC | Xometry | Hubs | Protolabs | RapidDirect | Fictiv |
 |---|---|---|---|---|---|---|
 | **Model** | In-house facility | Marketplace | Hybrid | In-house + network | In-house + network | Network |
 | **CNC focus** | ✅ CNC only | ❌ Multi-process | ❌ Multi-process | ❌ Molding-first | ❌ Multi-process | ❌ Multi-process |
@@ -199,13 +199,13 @@
 ## Content Use Notes
 
 ### For Alternatives Pages
-Each competitor has a dedicated Alternatives page. Use the "WeldoCNC Angle" paragraphs above as the comparison anchor. Spec-to-spec only — no vague claims.
+Each competitor has a dedicated Alternatives page. Use the "Weldo CNC Angle" paragraphs above as the comparison anchor. Spec-to-spec only — no vague claims.
 
 ### For FAQ Comparison Questions (Pass D requirement)
 Every service/material page FAQ must include one comparison question. Use this file for verified competitor numbers. Do not invent competitor specs.
 
 ### For Hero Subheadings
-Where relevant, use the tolerance gap as a differentiator: WeldoCNC at ±0.005 mm vs. Hubs at ±0.020 mm and Protolabs/Xometry at ±0.025 mm is a 4–5× tighter tolerance claim — verifiable and meaningful to engineers.
+Where relevant, use the tolerance gap as a differentiator: Weldo CNC at ±0.005 mm vs. Hubs at ±0.020 mm and Protolabs/Xometry at ±0.025 mm is a 4–5× tighter tolerance claim — verifiable and meaningful to engineers.
 
 ### Banned Approaches
 - Do not claim competitors are "worse" without a specific number to back it

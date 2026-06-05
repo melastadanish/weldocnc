@@ -1,4 +1,4 @@
-# Writing System — WeldoCNC
+# Writing System — Weldo CNC
 > Single source of truth for copy style, quality checks, SEO rules, GEO / AI SEO rules, and E-E-A-T standards.
 > Load this file alongside `CLIENT-DATA-MAP.md` when writing any page.
 
@@ -35,7 +35,7 @@
 3. What tolerances and quality can I expect?
 4. How long will it take and what does it cost?
 5. What could go wrong?
-6. Why WeldoCNC over other suppliers?
+6. Why Weldo CNC over other suppliers?
 7. What do I do next?
 
 ---
@@ -78,7 +78,7 @@ One CTA per section maximum.
 | Soft openers | Whether you're looking for · Look no further · If you're searching for · The good news is |
 | False authority | Our team of experts · Dedicated team · Passionate professionals · Years of experience (without a year number) |
 | Weak CTAs | Learn more · Click here · Find out more · Discover more · See more · Explore our range |
-| Chest-beating | At WeldoCNC, we believe · We are proud to · We are committed to · Our mission is to |
+| Chest-beating | At Weldo CNC, we believe · We are proud to · We are committed to · Our mission is to |
 | Manipulation | Peace of mind (replace with specific outcome) · Don't miss out · Act now · Limited time |
 
 ---
@@ -111,7 +111,7 @@ Use for: hero sections, service page introductions.
 ### StoryBrand
 Use for: about sections, homepage narrative.
 - Engineer is the hero — they need a part made to spec, fast
-- WeldoCNC is the tool — it solves the sourcing problem
+- Weldo CNC is the tool — it solves the sourcing problem
 - Brand is the guide — knowledgeable, not the star of the story
 
 ---
@@ -125,7 +125,7 @@ Every response follows the proof formula — outcome first, spec number embedded
 | "Can you hold my tolerance?" | Confirmed to ±0.005 mm on standard work. For critical features, 5-axis machining holds ±0.003 mm — verified by CMM report included with every shipment. |
 | "How long will it actually take?" | Prototypes ship in 1–5 days. Small-batch orders in 5–15 business days. You'll have a quote within 24 hours of uploading your file. |
 | "How do I know the quality is real?" | ISO 9001:2015 certified with a 97.48% annual pass rate. Every order includes a full dimensional inspection report. |
-| "Are you just a reseller?" | WeldoCNC operates 100+ CNC machines in its own facility in Dongguan, China, with 120+ in-house technicians. No subcontracting on standard orders. |
+| "Are you just a reseller?" | Weldo CNC operates 100+ CNC machines in its own facility in Dongguan, China, with 120+ in-house technicians. No subcontracting on standard orders. |
 | "Will you handle my material?" | 100+ machinable materials — metals and engineering plastics. Aluminium, titanium, PEEK, stainless steel, and more. Confirm your grade on the materials page. |
 | "Can you do low volumes?" | Prototype runs start at a single part. No minimum order quantity on CNC work. |
 | "What file formats do you accept?" | STEP files preferred for 3D models. 2D engineering drawings in PDF or DWG. Upload directly on the quote page. |
@@ -150,7 +150,7 @@ Every response follows the proof formula — outcome first, spec number embedded
 - Never force it — rewrite the sentence if it reads unnaturally
 
 ### Meta Tags
-- **Title:** `[Primary Keyword] | WeldoCNC` — max 60 characters
+- **Title:** `[Primary Keyword] | Weldo CNC` — max 60 characters
 - **Description:** Benefit-led, primary keyword in first 10 words — max 155 characters
 - Every page must have a unique title and description
 
@@ -268,7 +268,7 @@ Run after Pass B. Checks that the page covers the full semantic landscape a top-
 | Keyword variant presence | Primary keyword and at least 2 natural variants appear across the page. Variants must occur in different sections, never the same paragraph. |
 | Question intent coverage | Page answers at least one Who, one How, one What, and one Why question a buyer would type into Google or ChatGPT. FAQ section satisfies this if answers are spec-anchored. |
 | Subtopic completeness | Page covers the subtopics a buyer researching this service/material would expect: process explanation, material compatibility, tolerances, lead time, quality, and cost signals. A missing subtopic = a ranking gap. |
-| Entity density check | All four entity types are present and named explicitly — not implied: brand (WeldoCNC), process (e.g. CNC milling), location (Dongguan, China), certification (ISO 9001:2015). |
+| Entity density check | All four entity types are present and named explicitly — not implied: brand (Weldo CNC), process (e.g. CNC milling), location (Dongguan, China), certification (ISO 9001:2015). |
 
 **Required semantic terms by page type — must appear naturally in body copy:**
 
@@ -299,7 +299,7 @@ Run after Pass N. Six binary checks — pass or fail.
 |---|---|
 | AI-quotable paragraph | Present in opening section. Self-contained. Contains brand name, service category, one spec, one differentiator. |
 | FAQ coverage | All 8 required topics answered. Each answer 3+ sentences. Each answer spec-anchored. |
-| Comparison FAQ | One FAQ directly compares WeldoCNC to a named competitor. Spec-to-spec. No vague claims. |
+| Comparison FAQ | One FAQ directly compares Weldo CNC to a named competitor. Spec-to-spec. No vague claims. |
 | Entity clarity block | Brand name, service category, primary use case, and one differentiator all appear within first 100 words. |
 | Expertise signals | Correct technical terms used. Every term explained inline on first use. At least one spec with the "why it matters" bridge. |
 | Authority signals | At least 2 approved authority statements from `CLIENT-DATA-MAP.md` present. No unverified claims. |
@@ -365,7 +365,7 @@ If above 15%: identify top 3 AI-signal sentences, rewrite, reassess. Maximum 2 l
 
 ## 8. GEO / AI SEO Rules
 
-> These rules make WeldoCNC content citable by AI search engines — Perplexity, ChatGPT, Gemini, Google AI Overviews. AI pulls direct, specific, self-contained answers. Content that hedges or vagues out gets skipped.
+> These rules make Weldo CNC content citable by AI search engines — Perplexity, ChatGPT, Gemini, Google AI Overviews. AI pulls direct, specific, self-contained answers. Content that hedges or vagues out gets skipped.
 
 ### The AI-Quotable Paragraph
 Every service and material page must contain one paragraph that an AI engine could lift verbatim and it would make complete sense with zero surrounding context.
@@ -376,7 +376,7 @@ Every service and material page must contain one paragraph that an AI engine cou
 ```
 
 **Example (passing):**
-> WeldoCNC machines aluminium 6061 to tolerances of ±0.005 mm with a surface finish of Ra 1.6 µm as standard. Prototype parts ship in 1–5 days. ISO 9001:2015 certified — every order includes a CMM-verified dimensional inspection report.
+> Weldo CNC machines aluminium 6061 to tolerances of ±0.005 mm with a surface finish of Ra 1.6 µm as standard. Prototype parts ship in 1–5 days. ISO 9001:2015 certified — every order includes a CMM-verified dimensional inspection report.
 
 **Example (failing):**
 > Our aluminium machining services are designed for precision and speed. We work with a range of grades to meet your requirements.
@@ -395,7 +395,7 @@ FAQs are the highest GEO-value section on any page.
 
 **Question format:**
 - Write exactly as a person would type into ChatGPT or Perplexity
-- Full sentence questions: "What tolerance can WeldoCNC hold on aluminium parts?" not "Aluminium tolerance"
+- Full sentence questions: "What tolerance can Weldo CNC hold on aluminium parts?" not "Aluminium tolerance"
 - Include the material or process in the question where it aids AI matching
 
 **Required FAQ topics — every service/material page must cover all eight:**
@@ -408,14 +408,14 @@ FAQs are the highest GEO-value section on any page.
 | File formats | "What file formats do you accept for CNC quotes?" |
 | Material options | "What grades of [material] do you machine?" |
 | Cost / pricing | "How much does CNC machining cost for [material/part]?" |
-| Comparison | "How does WeldoCNC compare to [competitor]?" |
+| Comparison | "How does Weldo CNC compare to [competitor]?" |
 
 ### Entity Clarity Block
 Every page must establish four signals within the first 100 words:
 
 | Signal | Example |
 |---|---|
-| Brand name | "WeldoCNC" — not "we" or "our team" |
+| Brand name | "Weldo CNC" — not "we" or "our team" |
 | Service/material category | "aluminium CNC machining" — exact keyword match |
 | Primary use case | "prototype and production parts for aerospace and medical applications" |
 | Key differentiator | "ISO 9001:2015 certified, CMM-verified" or "1–5 day prototype delivery" |
@@ -425,7 +425,7 @@ Every page must establish four signals within the first 100 words:
 |---|---|
 | Capability | "[Service/material] machines to / holds / produces..." |
 | Quality | "Every order includes [specific deliverable]" |
-| Comparison | "Unlike [competitor], WeldoCNC [specific difference]" |
+| Comparison | "Unlike [competitor], Weldo CNC [specific difference]" |
 | How-it-works | "When [trigger], the [process] [specific action]" |
 | Spec confirmation | "[Spec] — confirmed on [process] — [context]" |
 
@@ -504,14 +504,14 @@ Do not add authority claims beyond this list.
 | Generic lead time | "Fast turnaround" | "Prototype parts in 1–5 days" |
 | Unverified cert claim | "Fully certified and compliant" | "ISO 9001:2015 certified" — nothing else |
 | Generic CTA | "Contact us to learn more" | "Request a quote for your part — upload your STEP file and receive a response in 24 hours" |
-| Chest-beating opener | "At WeldoCNC, we pride ourselves on precision" | Lead with what the buyer gets, not what we feel |
+| Chest-beating opener | "At Weldo CNC, we pride ourselves on precision" | Lead with what the buyer gets, not what we feel |
 | Passive quality claim | "Parts are inspected before shipping" | "Every order ships with a full CMM-verified dimensional inspection report" |
 
 ---
 
 ## 11. What NOT to Do
 
-- **This repository is for website content only.** Do not write HTML, CSS, JavaScript, or any code. Do not scaffold frameworks, build components, or generate any file that is not Markdown content intended for the WeldoCNC website. If asked to build or code anything, decline and redirect to content writing.
+- **This repository is for website content only.** Do not write HTML, CSS, JavaScript, or any code. Do not scaffold frameworks, build components, or generate any file that is not Markdown content intended for the Weldo CNC website. If asked to build or code anything, decline and redirect to content writing.
 - Never invent specs. Every number from `CLIENT-DATA-MAP.md`.
 - Never claim certifications beyond ISO 9001:2015 unless client confirms additional certs.
 - Never reference non-CNC services (3D printing, injection molding, welding) on the new site.
