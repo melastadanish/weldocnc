@@ -177,7 +177,7 @@ No cross-silo links between unrelated service families.
 | Tier | When | Purpose |
 |---|---|---|
 | Tier 1 — Section checks | After each section, before showing user | Catch failures early |
-| Tier 2 — Four passes | After full page is compiled | Refine a clean page |
+| Tier 2 — Five passes (A→B→N→D→C) | After full page is compiled | Refine a clean, semantically complete, converting page |
 
 ---
 
@@ -219,9 +219,15 @@ Every sentence describing a process or capability must open with the buyer outco
 
 ---
 
-### Tier 2 — Four-Pass System
+### Tier 2 — Five-Pass System
 
-**MANDATORY:** All four passes run together after the full page is compiled. Never show content after Pass A or Pass C alone. Sequence: write full page → Pass A → Pass B → Pass D → Pass C → show final. Do not present intermediate drafts.
+**MANDATORY:** All five passes run together after the full page is compiled. Never show content after any single pass alone. Sequence: write full page → Pass A → Pass B → Pass N → Pass D → Pass C → show final. Do not present intermediate drafts.
+
+**Why this order:**
+- A+B: get the copy quality right before touching anything else
+- N: enrich semantic coverage while content is quality-clean — NLP additions feed directly into Pass D's entity checks
+- D: GEO/E-E-A-T verification runs on a semantically complete page, reducing loops
+- C: buyer-eye conversion test always runs last, on the final version
 
 #### Pass A — Full-Page Quality Audit
 Read the full page once. Mark every sentence that fails any Tier 1 check. Score six dimensions by failure count.
@@ -251,8 +257,43 @@ Fix every Pass A failure. Only those items. Do not rewrite passing sentences.
 7. **Buyer language** — Use words buyers use. "Machine your part" not "manufacture your component". "Quote" not "RFQ response".
 8. **No urgency language** — Engineers research suppliers over days or weeks. Urgency reads as pressure. Remove without replacement.
 
+#### Pass N — NLP & Semantic Coverage
+Run after Pass B. Checks that the page covers the full semantic landscape a top-ranking page is expected to contain. This pass may add content — sentences, terms, or a short paragraph. Only add where a gap genuinely exists; do not pad.
+
+**Five checks — pass or fail:**
+
+| Check | Pass condition |
+|---|---|
+| Semantic term coverage | Page contains the core related terms expected alongside the primary keyword. See required term lists below. Missing terms must be woven in naturally — not listed or forced. |
+| Keyword variant presence | Primary keyword and at least 2 natural variants appear across the page. Variants must occur in different sections, never the same paragraph. |
+| Question intent coverage | Page answers at least one Who, one How, one What, and one Why question a buyer would type into Google or ChatGPT. FAQ section satisfies this if answers are spec-anchored. |
+| Subtopic completeness | Page covers the subtopics a buyer researching this service/material would expect: process explanation, material compatibility, tolerances, lead time, quality, and cost signals. A missing subtopic = a ranking gap. |
+| Entity density check | All four entity types are present and named explicitly — not implied: brand (WeldoCNC), process (e.g. CNC milling), location (Dongguan, China), certification (ISO 9001:2015). |
+
+**Required semantic terms by page type — must appear naturally in body copy:**
+
+| Page type | Required semantic terms |
+|---|---|
+| CNC Milling | end mill · feed rate · depth of cut · fixturing · work holding · chip load · surface finish · Ra value · climb milling |
+| CNC Turning | chuck · spindle · tool nose radius · runout · parting · boring · G-code · concentricity |
+| 5-Axis CNC | simultaneous 5-axis · trunnion · undercut · single setup · compound angle · indexed · rotary axis |
+| Turn-Mill | live tooling · sub-spindle · C-axis · milling on lathe · single-chucking · off-centre features |
+| Material pages | machinability rating · chip control · work hardening · cutting speed · tool wear · surface finish (Ra) · heat treatment |
+| Surface finish pages | Ra value · grit sequence · adhesion · masking · substrate prep · coating thickness |
+| Industry pages | part type examples · material grade · tolerance requirement · regulatory context (AS9100, ISO 13485, etc.) |
+| Location pages | shipping time · customs · local supplier context · import duty · incoterms |
+
+**Keyword variant rules:**
+- Primary: exact target keyword (e.g. "CNC milling services")
+- Variant 1: process noun form (e.g. "CNC milling")
+- Variant 2: buyer-intent phrase (e.g. "precision milling for aluminium parts")
+- Variant 3 (optional): long-tail question form (e.g. "how much does CNC milling cost")
+- Never use the same variant twice in the same section
+
+Any check that fails: add the missing element, then re-run the check before moving to Pass D.
+
 #### Pass D — GEO & E-E-A-T Check
-Run after Pass B. Six binary checks — pass or fail.
+Run after Pass N. Six binary checks — pass or fail.
 
 | Check | Pass condition |
 |---|---|
@@ -475,7 +516,7 @@ Do not add authority claims beyond this list.
 - Never claim certifications beyond ISO 9001:2015 unless client confirms additional certs.
 - Never reference non-CNC services (3D printing, injection molding, welding) on the new site.
 - Never write "We offer..." — second person or third person only.
-- Never run four-pass system on individual sections — Tier 1 per section, four passes on full compiled page only.
+- Never run the five-pass system on individual sections — Tier 1 per section, five passes (A → B → N → D → C) on full compiled page only.
 - Never float spec numbers as standalone labels — embed in sentences.
 - Never skip the buyer journey read before passes.
 - Never write two CTAs in the same section.
