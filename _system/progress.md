@@ -21,7 +21,7 @@
 | ⬜ | General Pages/contact.md | Stub |
 | ⬜ | General Pages/get-a-quote.md | Stub |
 | ⬜ | General Pages/faq.md | Stub |
-| 📝 | General Pages/quality-assurance.md | Written — needs WritingSystem review |
+| ✅ | General Pages/quality-assurance.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 
 ---
 
@@ -315,7 +315,7 @@
 
 | Category | Total | ✅ Done | 📝 Needs Review | ⬜ Not Started | ⏸ Blocked |
 |---|---|---|---|---|---|
-| General Pages | 6 | 1 | 1 | 4 | 0 |
+| General Pages | 6 | 2 | 0 | 4 | 0 |
 | Services — L1 | 7 | 0 | 5 | 2 | 0 |
 | Services — L2 (Custom CNC) | 31 | 0 | 1 | 30 | 0 |
 | Services — L2 (Milling) | 11 | 0 | 0 | 11 | 0 |

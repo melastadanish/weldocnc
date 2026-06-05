@@ -37,7 +37,7 @@
 > These files have substantial content (100–300+ lines) written before WritingSystem.md existed.
 > Task: run all five passes, fix all failures, update status to ✅.
 
-- [ ] `[REVIEW]` `General Pages/quality-assurance.md` (~147 lines)
+- [x] `[REVIEW]` `General Pages/quality-assurance.md` (~147 lines)
 - [ ] `[REVIEW]` `Services/Custom CNC Machining Services/custom-cnc-machining-services.md` (~239 lines)
 - [ ] `[REVIEW]` `Services/CNC Milling Services/cnc-milling-services.md` (~297 lines)
 - [ ] `[REVIEW]` `Services/CNC Turning Services/cnc-turning-services.md` (~305 lines)
