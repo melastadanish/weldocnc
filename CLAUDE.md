@@ -4,7 +4,7 @@
 
 ## Start of Every Session — Ask First
 > **"Agent mode or manual mode?"**
-> - **Agent mode** — read `_system/execution-plan.md`, complete the first unchecked item, tick the box, update `_system/progress.md`, commit, push to `claude/intelligent-goldberg-nLhvz`, then stop.
+> - **Agent mode** — read `_system/execution-plan.md`, complete the first unchecked item, tick the box, update `_system/progress.md`, commit, push to `main`, then stop.
 > - **Manual mode** — wait for user instructions.
 
 ## Always Read Before Writing Any Page
@@ -17,4 +17,4 @@ All five passes (A→B→N→D→C) complete · no banned claims · "WeldoCNC" s
 `README.md` is for humans on GitHub. `CLAUDE.md` is for Claude. Keep both under 21 lines.
 
 ## Git
-Branch: `claude/intelligent-goldberg-nLhvz` · one page per commit · `git push -u origin claude/intelligent-goldberg-nLhvz`
+Branch: `main` · one page per commit · `git push origin main`
