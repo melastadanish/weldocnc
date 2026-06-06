@@ -37,7 +37,7 @@
 | ✅ | Services/CNC Turning Services/cnc-turning-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 | ~~⬜~~ | ~~Services/CNC Turn-Mill Services/cnc-turn-mill-services.md~~ | **Deleted 2026-06-06** |
-| 📝 | Services/surface-finishing-services.md | Written — needs review |
+| ✅ | Services/surface-finishing-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 
 ### Tier 2 — Custom CNC: Metals (14 pages)
 

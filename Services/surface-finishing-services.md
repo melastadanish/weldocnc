@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): S2 Stats Bar — replaced all 4 stats. "20+ Years Experience" → banned, removed. "12+ Surface Finishes" → wrong number, replaced with verified "50+ Surface Finish Options" (CLIENT-DATA-MAP). "30+ Materials Finished" → wrong, replaced with "100+ Machinable Materials" (CLIENT-DATA-MAP). "From 3 Days Lead Time" → banned, replaced with "97.48% Annual Pass Rate".
+Pass B (Brand): "Weldo CNC" spelling confirmed throughout. No violations.
+Pass N (Numbers): S2 corrected to verified stats only. S4 Electropolishing — removed banned "Ra down to 0.1µm" claim. S4 Polishing — removed "Ra down to 0.05µm" (below banned threshold). All remaining numbers trace to CLIENT-DATA-MAP.
+Pass D (Design): S2 background corrected from "Light grey" to "Dark" per RS-Stats component standard. No other structural issues.
+Pass C (Claims): All banned claims removed. No "20+ years", no lead time claims, no sub-banned Ra values remain.
+All five passes complete. No remaining failures.
+-->
+
 # Surface Finishing Services
 **Status:** Complete
 **Slug:** /surface-finishing-services/
@@ -36,11 +46,11 @@
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Experience
-- 12+ Surface Finishes
-- 30+ Materials Finished
-- From 3 Days Lead Time
+**Design:** 4-number stats bar. Dark background. Full width. Component: RS-Stats.
+- 50+ Surface Finish Options
+- 100+ Machinable Materials
+- 24 hrs Quote Turnaround
+- 97.48% Annual Pass Rate
 
 ---
 
@@ -71,11 +81,11 @@ We manage both considerations. Finishing is planned as part of the manufacturing
 | **Anodizing Type III (Hardcoat)** | Thick anodic layer (25–50µm per side). Significantly increases surface hardness (HV 400–600). Ra increases slightly. Must be accounted for in tight-tolerance features — mask or pre-machine with offset. | +25–50µm per side | Aluminium alloys only |
 | **Chromate Conversion (Alodine)** | Chemical conversion coating. Corrosion protection with zero dimensional change. Retains electrical conductivity — unlike anodizing. MIL-DTL-5541 compliant. | Negligible (<0.001mm) | Aluminium alloys |
 | **Passivation** | Chemical treatment removing free iron from stainless steel surface. Improves corrosion resistance by restoring the native passive layer. Not a coating — no added material, no colour change. ASTM A967 / AMS 2700. | None | Stainless steel, some nickel alloys |
-| **Electropolishing** | Electrochemical process removing ~5–10µm from the surface. Produces bright, micro-smooth finish (Ra down to 0.1µm). Improves corrosion and bacterial resistance. Dimension reduction must be accounted for on tight features. | Removes 5–10µm per side | Stainless steel, aluminium, copper alloys |
+| **Electropolishing** | Electrochemical process removing ~5–10µm from the surface. Produces bright, micro-smooth finish with significantly reduced Ra. Improves corrosion and bacterial resistance. Dimension reduction must be accounted for on tight features. | Removes 5–10µm per side | Stainless steel, aluminium, copper alloys |
 | **Nickel Plating (Electroless)** | Uniform nickel-phosphorus coating. Even coverage on all surfaces including internal bores and blind features — no line-of-sight limitation. Improves corrosion and wear resistance. Specify thickness on drawing (typical 12–50µm). | +12–50µm per side (as specified) | Steel, stainless, aluminium, brass, copper |
 | **Black Oxide** | Chemical blackening process. Mild corrosion resistance (enhanced with post-treatment oil). Near-zero dimensional change — does not affect tolerances on mating features. | ~1µm (negligible) | Carbon steel, tool steel, stainless, copper, brass |
 | **Powder Coating** | Dry paint applied electrostatically, cured under heat. Durable, impact-resistant, wide colour range. Adds significant thickness — tight-fit features must be masked or pre-machined with offset. Not suitable for threads or precision bores without masking. | +50–100µm per side | Aluminium, steel, stainless |
-| **Polishing** | Mechanical polishing to mirror or near-mirror finish (Ra down to 0.05µm). Cosmetic and functional — improves mould release, fluid flow, and optical clarity on relevant surfaces. | Removes minor surface layer | Aluminium, stainless, titanium, brass |
+| **Polishing** | Mechanical polishing to mirror or near-mirror finish. Cosmetic and functional — improves mould release, fluid flow, and optical clarity on relevant surfaces. | Removes minor surface layer | Aluminium, stainless, titanium, brass |
 
 ---
 
