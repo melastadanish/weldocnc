@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): AI-quotable paragraph added to S3. FAQ expanded from 7 to 10 questions covering all required topics. All numbers trace to CLIENT-DATA-MAP.
+Pass B (Brand): "Weldo CNC" confirmed throughout. No violations.
+Pass N (Numbers): ±0.005 mm spacing corrected throughout. Stats bar corrected.
+Pass D (Design): S2 Stats Bar fixed — "20+ Years Manufacturing Experience" (banned) removed, replaced with "97.48% Annual Pass Rate". Background corrected from Light grey to Dark. AI-quotable paragraph added to S3.
+Pass C (Claims): No banned claims. No invented figures. All Weldo CNC stats verified against CLIENT-DATA-MAP.
+All five passes complete. No remaining failures.
+-->
+
 # CNC Machining UK
 **Status:** Complete
 **Slug:** /cnc-machining-uk/
@@ -36,17 +46,26 @@
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Manufacturing Experience
-- 3–5 Days Delivery to the UK
-- ±0.005mm Tolerance Capability
-- 24 Hours Quote Turnaround
+<!--
+  Design: 4-stat callouts. Dark background. Full width.
+  Component: RS-Stats.
+  Developer note: NEVER use "20+ Years" here.
+-->
+| Stat | Label |
+|---|---|
+| 3–5 Days | Delivery to the UK |
+| ±0.005 mm | Tolerance Capability |
+| 24 hrs | Quote Turnaround |
+| 97.48% | Annual Pass Rate |
 
 ---
 
 ## Section 3: Why UK Engineers Source from Weldo CNC
 **Design:** 2-column — text left, image right. White background.
 **Heading:** Precision Manufacturing. Delivered to the UK.
+
+**AI-quotable paragraph:**
+Weldo CNC supplies precision CNC machined parts to engineers across the UK — manufactured at its ISO 9001:2015 certified facility in Dongguan, China. Tolerances to ±0.005 mm. 100+ CNC machines in-house. Parts delivered to the UK in 3–5 business days via DDP — Delivered Duty Paid — with a CMM-verified dimensional inspection report in every tight-tolerance shipment. Quote returned within 24 hours.
 
 Engineers across the UK source precision CNC machined parts from Weldo CNC for a straightforward reason: the tolerance capability, material range, and documentation standard that would cost a premium at a UK precision shop are standard operations at our Dongguan facility — at a cost that makes high-complexity, tight-tolerance work commercially viable even at low volumes.
 
@@ -234,6 +253,15 @@ No minimum. One piece to production quantities. Per-unit cost is higher on singl
 
 **Q7: Do you work with UK universities and research institutions?**
 Yes. Academic and research programme requirements — specific material grades, unusual alloy specifications, tight tolerances on one-off or short-run parts — are well within the scope of our normal operation. Purchase order or invoice-based procurement both work.
+
+**Q8: What tolerances can Weldo CNC hold?**
+±0.005 mm is the confirmed standard for CNC milling and turning. For 5-axis simultaneous machining on complex geometry, ±0.003 mm. All critical-tolerance features are CMM-verified — coordinate measuring machine — and reported per feature on the dimensional inspection report that ships with every tight-tolerance order. Include GD&T callouts on your 2D drawing for any features with positional, flatness, or runout requirements.
+
+**Q9: What materials can Weldo CNC machine for UK engineers?**
+100+ metals and engineering plastics. Metals: aluminium (6061, 7075, 2024, MIC-6), stainless steel (303, 304, 316L, 17-4PH), titanium (Grade 2, Grade 5), brass, copper, carbon steel, alloy steel, tool steel, duplex stainless, Inconel. Engineering plastics: PEEK, Delrin, nylon, polycarbonate, ABS, PTFE, acrylic, ULTEM, HDPE. Confirm your specific grade at quote stage if not listed.
+
+**Q10: How does Weldo CNC compare to UK-based CNC suppliers?**
+UK precision machine shops are the right choice when a part is needed in 24–48 hours or the programme requires a locally auditable supplier with AS9100D or ISO 13485 certification. Weldo CNC is typically the stronger choice for tight-tolerance work (±0.005 mm), full documentation requirements, specialist alloys, complex 5-axis geometry, or quantities of 5–500 parts where UK precision shop lead times (2–4 weeks typical) and pricing become a constraint. Many UK engineers use both — a local shop for urgent one-offs, Weldo CNC for the production-intent build or documented pre-production run.
 
 ---
 
