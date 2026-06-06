@@ -14,6 +14,9 @@ For service pages also read: `_system/service-template.md`
 For metal material pages also read: `_system/material-metal-template.md`
 For plastic material pages also read: `_system/material-plastic-template.md`
 For surface finish pages also read: `_system/surface-finish-template.md`
+For alternative pages also read: `_system/alternative-template.md`
+For country location pages also read: `_system/location-country-template.md`
+For city location pages also read: `_system/location-city-template.md`
 
 ## Definition of Done
 All five passes (A→B→N→D→C) complete · no banned claims · "Weldo CNC" spelling everywhere · every number traces to CLIENT-DATA-MAP · pass log added · progress.md updated to ✅ · committed and pushed.
