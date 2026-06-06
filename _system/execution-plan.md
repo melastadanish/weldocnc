@@ -106,17 +106,17 @@
 > Write the first one, then use it as the model for subsequent pages in the same process group.
 
 ### CNC Milling — Materials (11 pages)
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/aluminium-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/stainless-steel-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/titanium-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/brass-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/copper-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/tool-steel-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/peek-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/delrin-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/nylon-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/abs-cnc-milling-services.md`
-- [ ] `[WRITE]` `Services/CNC Milling Services/Materials/polycarbonate-cnc-milling-services.md`
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/aluminium-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/stainless-steel-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/titanium-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/brass-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/copper-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/tool-steel-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/peek-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/delrin-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/nylon-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/abs-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Services/CNC Milling Services/Materials/polycarbonate-cnc-milling-services.md` — 17-section page, five-pass complete 2026-06-06
 
 ### CNC Turning — Materials (8 pages)
 - [ ] `[WRITE]` `Services/CNC Turning Services/Materials/aluminium-cnc-turning-services.md`
@@ -305,7 +305,7 @@
 | 1 | Review existing written pages | 21 | ✅ Complete |
 | 2 | Write missing core service & general pages | 7 | ✅ Complete |
 | 3 | Write industry overview pages | 8 | ✅ Complete — 2026-06-06 |
-| 4 | Write service material pages (L2) | 61 | Not started |
+| 4 | Write service material pages (L2) | 61 | In progress — CNC Milling ✅ (11/11), Turning ⬜, 5-Axis ⬜, Custom CNC ⬜ |
 | 5 | Write industry sub-pages (part types) | 41 | Not started |
 | 6 | Write location pages | 15+ | Not started |
 | 7 | Write blog pages | 12 | Not started |
