@@ -35,7 +35,7 @@
 | ✅ | Services/Custom CNC Machining Services/custom-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/CNC Milling Services/cnc-milling-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/CNC Turning Services/cnc-turning-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
-| 📝 | Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md | Written — needs review |
+| ✅ | Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 | ⬜ | Services/CNC Turn-Mill Services/cnc-turn-mill-services.md | Stub |
 | 📝 | Services/surface-finishing-services.md | Written — needs review |
 
@@ -147,7 +147,7 @@
 ### Aerospace (6 pages)
 | Status | File |
 |---|---|
-| 📝 | Industries/Aerospace CNC Machining/aerospace-cnc-machining.md |
+| ✅ | Industries/Aerospace CNC Machining/aerospace-cnc-machining.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 | ⬜ | Industries/Aerospace CNC Machining/propeller-machining.md |
 | ⬜ | Industries/Aerospace CNC Machining/turbine-blade-machining.md |
 | ⬜ | Industries/Aerospace CNC Machining/hydraulic-manifold-machining.md |
