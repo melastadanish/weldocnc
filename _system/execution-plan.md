@@ -48,7 +48,7 @@
 - [x] `[REVIEW]` `Services/surface-finishing-services.md` — five-pass complete 2026-06-06
 - [x] `[REVIEW]` `Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md` — five-pass complete 2026-06-06
 - [x] `[REVIEW]` `Alternatives/hubs-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
-- [ ] `[REVIEW]` `Alternatives/protolabs-alternative.md` (~123 lines)
+- [x] `[REVIEW]` `Alternatives/protolabs-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
 - [ ] `[REVIEW]` `Alternatives/rapiddirect-alternative.md` (~123 lines)
 - [ ] `[REVIEW]` `Alternatives/fictiv-alternative.md` (~125 lines)
 - [ ] `[REVIEW]` `Locations/cnc-machining-uk.md` (~258 lines)
