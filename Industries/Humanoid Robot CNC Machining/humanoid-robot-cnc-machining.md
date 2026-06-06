@@ -12,16 +12,17 @@
 - [x] 2. Stats Bar
 - [x] 3. Engineering at the Speed of Robotics
 - [x] 4. Parts We Machine
-- [x] 5. Weight, Strength & Material Trade-offs
-- [x] 6. Built for Iteration
-- [x] 7. 5-Axis Capability for Complex Robot Geometry
-- [x] 8. Surface Finishes for Robot Components
-- [x] 9. Quality & Certifications (RS-01)
-- [x] 10. Gallery
-- [x] 11. Why Choose Weldo CNC
-- [x] 12. FAQ
-- [x] 13. Blog / Resources
-- [x] 14. Final CTA + Form (RS-03)
+- [x] 5. Materials for Humanoid Robots
+- [x] 6. Material Trade-off Cards
+- [x] 7. Processes / Services
+- [x] 8. 5-Axis Capability
+- [x] 9. Documentation — What Ships With Every Order
+- [x] 10. Quality & Certifications (RS-01)
+- [x] 11. Gallery
+- [x] 12. Why Choose Weldo CNC
+- [x] 13. FAQ
+- [x] 14. Blog / Resources
+- [x] 15. Final CTA + Form (RS-03)
 
 ---
 
@@ -80,8 +81,26 @@ Precision CNC components for humanoid robot development programmes and pre-produ
 
 ---
 
-## Section 5: Weight, Strength & Material Trade-offs
-**Design:** 3-column card grid. White background.
+## Section 5: Materials for Humanoid Robot CNC Machining
+**Design:** Full-width table + intro copy. White background.
+**Heading:** Materials
+
+**Why material selection matters in robotics — and why the choice changes by joint.**
+A humanoid robot is a weight budget problem. Every gram at a distal joint — wrist, ankle, finger — is load the proximal motor has to carry through its full range of motion, every cycle. The material decision for a torso frame (where stiffness and datum accuracy matter most) is different from the decision for a wrist pivot (where minimum cross-section and fatigue life under high-cycle loading matter most). Getting each component's material right isn't a specification exercise — it's an engineering trade-off that affects motor sizing, battery life, and structural margin across the whole system.
+
+| Material | Why Used in Humanoid Robotics | Common Applications |
+|---|---|---|
+| **Aluminium 7075-T6** | Highest strength-to-weight of standard aluminium alloys — 2× stronger than 6061. Allows wall thickness reduction without structural compromise | Actuator housings, torso frames, structural joint links, spine components |
+| **Aluminium 6061-T6** | Excellent machinability, better colour consistency for anodize than 7075, weldable | Motor casings, sensor mounts, secondary brackets, external visible components |
+| **Titanium Grade 5 (Ti-6Al-4V)** | Strength-to-weight beats any aluminium alloy at small cross-sections. High fatigue limit for high-cycle joints. Low density for distal component weight saving | Wrist and ankle pivots, dexterous hand links, high-cycle fatigue joints |
+| **4340 Steel** | High static strength and good fatigue resistance — correct material for high-contact-stress drive components | Harmonic drive housings, gear blanks, drive shafts, high-load pins |
+| **17-4PH Stainless** | High-strength stainless, heat-treatable to H900 (over 1,300 MPa tensile). Corrosion resistance with structural performance | Harmonic drive components, actuator shafts, precision gear bodies |
+| **PEEK** | High-strength engineering plastic. Lightweight, chemically resistant, machinable to tight tolerances | Dexterous hand spacers, non-structural pivot components, electrical isolation parts |
+
+---
+
+## Section 6: Material Trade-off Cards
+**Design:** 3-column card grid. Light grey background.
 **Heading:** Getting the Material Right on Every Component
 
 **Card 1 — When 7075 Is Right**
@@ -95,28 +114,22 @@ Harmonic drives, planetary gearboxes, and precision drive components aren't a pl
 
 ---
 
-## Section 6: Built for Iteration
-**Design:** Horizontal timeline / 4-stage process flow. Light grey background. Icon per stage.
-**Heading:** From First Prototype to Pre-Production
+## Section 7: Processes / Services
+**Design:** 4-column service card grid. Light grey background.
+**Heading:** Manufacturing Capabilities for Humanoid Robots
+**Cards:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[5-axis-cnc-machining-services]] | [[surface-finishing-services]]
 
-Humanoid robot development doesn't proceed in a straight line. Joint geometry changes after motion testing. Actuator housing wall thickness gets revised after thermal analysis. Hand component pivot geometry changes after grip force testing. The manufacturing partner that handles this well isn't just fast — they flag DFM issues at every quote stage so the iteration cycle doesn't include a machining failure as a data point.
+5-axis CNC machining handles robot component geometry that can't be set up reliably in multiple 3-axis operations — actuator housings with bearing seats on multiple faces, joint links with compound pocket geometry, torso frames with features referenced to multiple datums. Simultaneous 5-axis motion holds positional accuracy across all faces from a single setup; 3+2 positional machining handles multi-face access where full simultaneous motion isn't required. The tolerance achieved on compound surface features differs between the two approaches — quoted accordingly.
 
-**Stage 1 — Prototype (1–5 parts)**
-Upload STEP, specify material and tolerance class. Quote in 24 hours with DFM review — wall thickness, bore depth, feature accessibility for tooling. Parts in 1–5 business days. If geometry needs to change, we tell you before cutting, not after.
+Surface finishing for robot components follows function and visibility. Hardcoat anodize (Type III) for wear interfaces — bearing seat areas and articulation surfaces — where HV 400–600 hardness improves fatigue life and wear resistance. Anodize Type II for external visible components where colour consistency and corrosion protection are the requirement. Electroless nickel for steel drive components — even coverage including internal bores, HV 500–700 after heat treatment. Black oxide for steel hardware where near-zero dimensional impact is needed. For any tight-tolerance feature where coating thickness affects mating dimensions, masking is confirmed from the drawing before finishing starts.
 
-**Stage 2 — Design Validation (5–20 parts)**
-Revised geometry from prototype testing. Same DFM review process. Parts to the same drawing revision across the batch — consistent datum setup, consistent tooling. CMM inspection on the first article in the batch.
-
-**Stage 3 — Pre-Production (20–200 parts)**
-Geometry is confirmed. Production fixtures are built and approved. In-process inspection runs at defined intervals — not just first and last. Dimensional report with every batch. Material certs standard. If your programme needs a First Article Inspection (FAI) package or Pre-Production Approval Process (PPAP) documentation, confirm at order stage and it's planned in, not added at the end.
-
-**Stage 4 — Production (200+ parts)**
-Same facility, same fixture, same tooling plan. No supplier transition, no re-approval process. The production standard carries through from prototype.
+**Prototype-to-production in one facility — how the iteration flow works:**
+Humanoid robot development doesn't proceed in a straight line. Joint geometry changes after motion testing. Actuator housing wall thickness gets revised after thermal analysis. Hand component pivot geometry changes after grip force testing. Stage 1 (1–5 prototype parts): quote in 24 hours with DFM review, parts in 1–5 business days. Stage 2 (5–20 validation parts): same DFM review, CMM inspection on the first article. Stage 3 (20–200 pre-production): production fixtures built and approved, in-process inspection at defined intervals, dimensional report with every batch. Stage 4 (200+ production): same facility, same fixture, same tooling plan — no supplier transition, no re-approval.
 
 ---
 
-## Section 7: 5-Axis Capability for Complex Robot Geometry
-**Design:** 2-column — text left, 5-axis machined component image right. White background.
+## Section 8: 5-Axis Capability
+**Design:** 2-column — text left, 5-axis machined robot component image right. White background.
 **Heading:** Complex Geometry. One Setup.
 
 Actuator housings, joint links, and torso frames for humanoid robots routinely require features on multiple faces — bearing seats, porting, bracket interfaces, cable routing channels, and weight-reduction pockets that all need to be positioned accurately relative to each other. In 3-axis machining, that means multiple setups and accumulated positional error between them. In 5-axis, it means one setup, one datum reference, consistent accuracy across every feature.
@@ -127,26 +140,29 @@ Actuator housings, joint links, and torso frames for humanoid robots routinely r
 
 ---
 
-## Section 8: Surface Finishes for Robot Components
-**Design:** Full-width table. Light grey background.
-**Heading:** Surface Finishes for Humanoid Robot Parts
+## Section 9: Documentation — What Ships With Every Order
+**Design:** 4-column icon+description grid. White background.
+**Heading:** The Documentation Standard for Robot Component Orders
 
-| Finish | Applicable Components | Why It Matters |
-|---|---|---|
-| **Hardcoat Anodize Type III** | Actuator housings, joint links, wear interfaces | HV 400–600 hardness — wear resistance at articulation interfaces, improved fatigue life, corrosion protection. +25–50 µm per side — must be accounted for on bearing seats and mating bores |
-| **Anodize Type II** | External visible components, sensor mounts, covers | Corrosion protection, colour (black standard for robotics). +5–25 µm per side — account for on tight fits |
-| **Bead Blast** | Pre-anodize surface preparation, internal structural parts | Isotropic matte texture, eliminates toolmarks. Standard pre-process for cosmetically consistent anodized results |
-| **Electroless Nickel** | Steel drive components, high-wear contact surfaces | Even coverage including internal bores, HV 500–700 after heat treatment. Corrosion and wear resistance for gearbox components |
-| **Black Oxide** | Steel components — shafts, pins, internal hardware | Near-zero dimensional impact (~1 µm). Mild corrosion resistance, industrial black appearance. No effect on mating tolerances |
-| **Polishing** | Harmonic drive contact surfaces, precision pivot interfaces | Significantly reduced surface roughness — reduced friction and wear at high-cycle contact interfaces. Contact us with your Ra requirement and we'll confirm capability |
+**Material Certificate**
+Mill cert for every material used — alloy grade, temper designation, heat number, chemical composition, and mechanical properties. Logged against your order reference before the first cut. For pre-production batches, each part is traceable to the mill cert for the stock it was cut from. If a material question arises after delivery, the file answers it.
+
+**CMM Dimensional Report**
+Feature-by-feature CMM inspection against your drawing revision: nominal value, tolerance, measured actual, pass/fail. Bearing seat bores, pivot interfaces, datum faces, and positional callouts all reported. The report is issued against your drawing revision and part number, and ships with the parts.
+
+**Finish Process Record**
+For anodized, nickel-plated, black-oxidised, or otherwise finished parts — process parameters, coating thickness measurement, and appearance verification. For any tight-tolerance feature where coating thickness affects mating dimensions: masking plan confirmed from drawing before processing, masked features re-measured after coating.
+
+**First Article Inspection (FAI)**
+For new parts entering production or where specifically required: ballooned drawing, full dimensional report, material cert, and finish record. For pre-production approval processes (PPAP), confirm requirement at order stage and it's planned in before the job enters the queue.
 
 ---
 
-## Section 9: Quality & Certifications
+## Section 10: Quality & Certifications
 **Design:** RS-01. Dark navy background. White text.
 
 **Pre-Production:**
-Material verified against mill certificate before cutting starts. DFM reviewed — wall thickness, bore depth, tolerance feasibility, surface finish requirements. For production batches, fixture design reviewed and approved before the first part runs.
+Material verified against mill certificate before cutting starts. DFM reviewed — wall thickness, bore depth, tolerance feasibility, surface finish requirements. For production batches, fixture design reviewed and approved before the first part runs. FAI and PPAP requirements confirmed before the job enters the queue.
 
 **In-Production:**
 In-process CMM checks on critical features — bearing seats, pivot bores, datum faces. First article in each batch inspected before remaining parts run. Non-Conformances (NCRs) trigger review before the job continues — out-of-tolerance parts don't proceed to the next operation.
@@ -158,14 +174,14 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 10: Gallery
+## Section 11: Gallery
 **Design:** Masonry grid 6–8 images. Light grey background.
 **Heading:** Robot Components We've Machined
 **Images:** 7075-T6 actuator housing hardcoat anodized black, titanium Grade 5 joint link, dexterous hand components array, torso frame 5-axis machined, harmonic drive steel component, sensor mount batch, pre-production parts in tray
 
 ---
 
-## Section 11: Why Choose Weldo CNC for Humanoid Robot Components
+## Section 12: Why Choose Weldo CNC for Humanoid Robot Components
 **Design:** 2-column — 5 points left, image right. White background.
 **Heading:** Why Robotics Engineers Specify Weldo CNC
 
@@ -186,7 +202,7 @@ No supplier change when your design locks. No re-approval process. Same fixtures
 
 ---
 
-## Section 12: FAQ
+## Section 13: FAQ
 **Design:** Accordion. White background. First item open.
 **Heading:** Humanoid Robot CNC Machining — Frequently Asked Questions
 
@@ -222,14 +238,14 @@ The practical advantages are proximity to Shenzhen's robotics ecosystem, 5-axis 
 
 ---
 
-## Section 13: Blog / Resources
+## Section 14: Blog / Resources
 **Design:** 3-card grid. Light grey background.
 **Heading:** Humanoid Robot Machining Resources
 **Cards:** [[design-for-manufacturability]] | [[5-axis-cnc-machining-guide]] | [[aluminium-vs-titanium-cnc-machining]]
 
 ---
 
-## Section 14: Final CTA + Form
+## Section 15: Final CTA + Form
 **Design:** RS-03. 2-column split. Dark or brand-colour background to maintain editorial tone from hero.
 **Heading:** Machine Your Robot Components at Weldo CNC
 **Subtext:** Upload your STEP file and tell us the component, material, tolerance class, and quantity. We return a quote with DFM review within 24 hours — prototype parts in 1–5 business days.
@@ -254,8 +270,9 @@ The practical advantages are proximity to Shenzhen's robotics ecosystem, 5-axis 
 
 ---
 ## Pass Log
-- **Pass A (Audit):** 5 failures — banned "20+ Years" stat, unverified "From 3 Days" lead time (appears 5× in stats bar / hero badge / Section 6 / FAQ / CTA), Ra 0.1µm not in CLIENT-DATA-MAP, AI-quotable paragraph missing, FAQ only 6 questions (missing tolerance, order volume, file formats, cost, comparison topics)
-- **Pass B (Rewrite):** Stats bar corrected to 100+ Machines | ±0.005 mm | 24 hrs | 1–5 Days. "Prototype in 3 Days" hero badge → "Prototype in 1–5 Days". "Parts in 3–5 days" → "1–5 business days" throughout. "Ra down to 0.1µm" → "contact us with your Ra requirement". CTA subtext corrected. "We're" opener in Section 11 → brand-neutral.
-- **Pass N (NLP/Semantic):** AI-quotable paragraph added to Section 3 — brand, service, spec, location, cert, operating date. DFM, FAI, PPAP, NCR, GD&T all expanded on first use. Entity clarity block present in hero + Section 3.
-- **Pass D (GEO/E-E-A-T):** Dongguan/Shenzhen proximity explained. 7075 vs titanium trade-off detailed with specific tensile values. 5-axis vs 3-axis practical consequence explained. Harmonic drive tolerance complexity addressed.
-- **Pass C (Conversion):** FAQ expanded from 6 → 10 questions covering all 8 required topics (tolerance, lead time, quality, order volume, file formats, materials, cost, comparison). Final CTA updated with verified lead time and ISO/operating since bullet.
+- **Pass A (Audit):** 5 failures — banned "20+ Years" stat, unverified "From 3 Days" lead time, Ra 0.1µm not in CLIENT-DATA-MAP, AI-quotable paragraph missing, FAQ only 6 questions
+- **Pass B (Rewrite):** Stats bar corrected. Lead times corrected to 1–5 Days throughout. Ra claim softened. AI-quotable paragraph added. CTA updated.
+- **Pass N (NLP/Semantic):** AI-quotable paragraph in Section 3. DFM, FAI, PPAP, NCR, GD&T expanded on first use.
+- **Pass D (GEO/E-E-A-T):** Dongguan/Shenzhen proximity explained. 7075 vs titanium trade-off with tensile data. 5-axis practical consequence explained.
+- **Pass C (Conversion):** FAQ expanded to 10 questions covering all 8 required topics.
+- **Template alignment (2026-06-06):** Restructured to match 15-section industry template. Added Section 5 (Materials table). Retained Section 6 (Material Trade-off Cards). Added Section 7 (Processes/Services — merged in Built for Iteration content and Surface Finishes content). Added Section 8 (5-Axis Capability). Added Section 9 (Documentation). All sections renumbered.

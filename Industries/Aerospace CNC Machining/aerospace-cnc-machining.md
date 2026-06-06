@@ -13,14 +13,16 @@
 - [x] 3. The Aerospace Machining Challenge
 - [x] 4. Parts We Machine
 - [x] 5. Materials for Aerospace
-- [x] 6. Processes / Services
-- [x] 7. Documentation — What Ships With Every Order
-- [x] 8. Quality & Certifications (RS-01)
-- [x] 9. Gallery
-- [x] 10. Why Choose Weldo CNC
-- [x] 11. FAQ
-- [x] 12. Blog / Resources
-- [x] 13. Final CTA + Form (RS-03)
+- [x] 6. Material Trade-off Cards
+- [x] 7. Processes / Services
+- [x] 8. 5-Axis Capability
+- [x] 9. Documentation — What Ships With Every Order
+- [x] 10. Quality & Certifications (RS-01)
+- [x] 11. Gallery
+- [x] 12. Why Choose Weldo CNC
+- [x] 13. FAQ
+- [x] 14. Blog / Resources
+- [x] 15. Final CTA + Form (RS-03)
 
 ---
 
@@ -99,7 +101,22 @@ The same grade of 7075 aluminium in different tempers behaves differently under 
 
 ---
 
-## Section 6: Processes
+## Section 6: Material Trade-off Cards
+**Design:** 3-column card grid. Light grey background.
+**Heading:** Getting the Material Right on Every Aerospace Component
+
+**Card 1 — When 7075-T6 Is the Right Choice**
+7075-T6 is the workhorse of aerospace aluminium — 572 MPa tensile strength, approximately 2× that of 6061, with a strength-to-weight ratio that lets structural wall thicknesses come down without compromising load-carrying capacity. It's the right answer for structural brackets, ribs, spars, and fitting bodies where static strength under primary flight loads is the design driver. It doesn't weld and anodizes with less colour consistency than 6061 — neither matters for internal structure. Where colour uniformity on external visible surfaces is a requirement, 6061 is often the better choice.
+
+**Card 2 — When 2024-T3 Changes the Equation**
+2024-T3 has lower static tensile strength than 7075 but significantly better fatigue resistance — the fatigue limit matters more than peak tensile strength when a part is cycling load thousands of times per flight. Wing ribs, skin panels, and fatigue-critical structural members are the traditional domain of 2024. It corrodes faster than 7075 and almost always requires anodize protection. If a drawing specifies 2024-T3, the fatigue life calculation drove that decision — substituting 7075 for machinability convenience changes the engineering basis of the part.
+
+**Card 3 — When Titanium Is the Engineering Answer**
+Titanium Grade 5 (Ti-6Al-4V) costs more to machine — slower feeds, higher tooling consumption, more coolant — and the material cost is significantly higher than aluminium. The engineering argument for it: density roughly half that of steel, corrosion resistance approaching 316L stainless, a coefficient of thermal expansion close to carbon fibre composites (reducing CTE mismatch at structural interfaces), and fatigue performance that holds at low cross-sections where aluminium can't. For structural fittings at composite interfaces, elevated-temperature structural parts, and joints where corrosion resistance and minimum cross-section are both required, titanium is often the only answer that works.
+
+---
+
+## Section 7: Processes / Services
 **Design:** 4-column service card grid. Light grey background.
 **Heading:** Manufacturing Capabilities for Aerospace
 **Cards:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[5-axis-cnc-machining-services]] | [[surface-finishing-services]]
@@ -110,7 +127,19 @@ Surface finishing for aerospace follows the drawing and the application. Chromat
 
 ---
 
-## Section 7: Documentation — What Ships With Every Aerospace Order
+## Section 8: 5-Axis Capability
+**Design:** 2-column — text left, 5-axis machined aerospace component image right. White background.
+**Heading:** Complex Geometry. One Setup.
+
+Aerospace structural components routinely require features on multiple faces — bolt patterns, port geometry, bracket interfaces, lightening pockets, and datum surfaces that all need to be positioned accurately relative to each other. In 3-axis machining, each face means a separate setup, and each setup introduces positional error. Accumulated over three or four setups, that error competes with the tight positional tolerances aerospace drawings demand. In 5-axis machining, it means one setup, one datum reference, consistent accuracy across every feature on every face.
+
+5-axis machining at this facility handles simultaneous multi-axis motion for compound surface geometry and 3+2 positional machining for multi-face part access. For aerospace components — where true position on bolt patterns to datum surfaces is a drawing callout, not a suggestion — the 5-axis approach produces results that sequential 3-axis setups can't reliably replicate. Compound-angle fittings, complex ported manifolds, and multi-face structural brackets are standard 5-axis work, not special operations.
+
+→ [[5-axis-cnc-machining-services]]
+
+---
+
+## Section 9: Documentation — What Ships With Every Aerospace Order
 **Design:** 4-column icon+description grid. White background.
 **Heading:** The Documentation Standard for Aerospace Orders
 
@@ -128,7 +157,7 @@ For new parts entering production, or where specifically required: ballooned dra
 
 ---
 
-## Section 8: Quality & Certifications
+## Section 10: Quality & Certifications
 **Design:** RS-01. Dark navy background. White text.
 
 **Pre-Production:**
@@ -144,14 +173,14 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 
 ---
 
-## Section 9: Gallery
+## Section 11: Gallery
 **Design:** Masonry grid 6–8 images. Light grey background.
 **Heading:** Aerospace Parts We've Machined
 **Images:** Hardcoat anodized 7075-T6 structural bracket with CMM report, titanium Grade 5 structural fitting, stainless 316L hydraulic manifold, chromate conversion avionics housing, MIC-6 fixture plate, 5-axis machined aluminium aerospace component, UAV structural arm
 
 ---
 
-## Section 10: Why Choose Weldo CNC for Aerospace
+## Section 12: Why Choose Weldo CNC for Aerospace
 **Design:** 2-column — 5 points left, image right. White background.
 **Heading:** Why Aerospace Engineers Specify Weldo CNC
 
@@ -172,7 +201,7 @@ Parts machined at Weldo CNC, finished under our quality management system, docum
 
 ---
 
-## Section 11: FAQ
+## Section 13: FAQ
 **Design:** Accordion. White background. First item open.
 **Heading:** Aerospace CNC Machining — Frequently Asked Questions
 
@@ -208,14 +237,14 @@ The core difference is documentation and traceability. Local shops may machine t
 
 ---
 
-## Section 12: Blog / Resources
+## Section 14: Blog / Resources
 **Design:** 3-card grid. Light grey background.
 **Heading:** Aerospace Machining Resources
 **Cards:** [[cnc-surface-finish-guide]] | [[design-for-manufacturability]] | [[5-axis-cnc-machining-guide]]
 
 ---
 
-## Section 13: Final CTA + Form
+## Section 15: Final CTA + Form
 **Design:** RS-03. 2-column split.
 **Heading:** Machine Your Aerospace Components at Weldo CNC
 **Subtext:** Upload your STEP file and drawing. We review material grade, GD&T callouts, finish requirements, and masking needs — then return a complete quote with DFM notes within 24 hours.
@@ -240,7 +269,8 @@ The core difference is documentation and traceability. Local shops may machine t
 ---
 ## Pass Log
 - **Pass A (Audit):** 4 failures — banned "20+ Years" stat, unverified "From 5 Days" stat, unconfirmed "100% CMM Inspected" claim, FAQ only 6 questions (missing order volume, file formats, cost, comparison topics)
-- **Pass B (Rewrite):** Stats bar corrected to 100+ Machines | ±0.005 mm | 24 hrs | 97.48% Pass Rate. "100% CMM Inspected" replaced with "CMM Inspection Reporting" (accurate, unambiguous). Section 3 "We machine…" opener rewritten with brand name and AI-quotable paragraph added. Section 13 CTA added ISO/operating since bullet.
-- **Pass N (NLP/Semantic):** AI-quotable paragraph added to Section 3 — brand, service, spec, location, certification, operating date. Entity clarity block present in hero + Section 3. GD&T, NCR, FAI, PPAP expanded on first use in Section 8.
-- **Pass D (GEO/E-E-A-T):** Material selection expertise demonstrated (temper distinction, fatigue vs. static strength). 5-axis vs 3+2 distinction addressed. AS9100D limitation disclosed honestly. Titanium machining complexity explained.
-- **Pass C (Conversion):** FAQ expanded to 10 questions covering all 8 required topics (tolerance, lead time, quality, order volume, file formats, materials, cost, comparison). Final CTA bullets updated. All banned claims removed.
+- **Pass B (Rewrite):** Stats bar corrected to 100+ Machines | ±0.005 mm | 24 hrs | 97.48% Pass Rate. "100% CMM Inspected" replaced with "CMM Inspection Reporting". AI-quotable paragraph added. CTA updated.
+- **Pass N (NLP/Semantic):** AI-quotable paragraph in Section 3 — brand, service, spec, location, cert, operating date. GD&T, NCR, FAI, PPAP expanded on first use.
+- **Pass D (GEO/E-E-A-T):** Material temper distinction explained. 2024-T3 vs 7075 fatigue trade-off addressed. 5-axis vs 3+2 distinction explained. AS9100D limitation disclosed honestly.
+- **Pass C (Conversion):** FAQ expanded to 10 questions covering all 8 required topics. Final CTA bullets updated.
+- **Template alignment (2026-06-06):** Restructured to match 15-section industry template. Added Section 6 (Material Trade-off Cards — 7075 vs 2024-T3 vs Titanium). Added Section 8 (5-Axis Capability). Documentation moved to Section 9. All sections renumbered.
