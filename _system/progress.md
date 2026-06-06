@@ -270,7 +270,7 @@
 
 | Status | File | Notes |
 |---|---|---|
-| ⬜ | Alternatives/xometry-alternative.md | Empty |
+| ✅ | Alternatives/xometry-alternative.md | Full 12-section page written, five-pass complete — 2026-06-06 |
 | ✅ | Alternatives/hubs-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
 | ✅ | Alternatives/protolabs-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
 | ✅ | Alternatives/rapiddirect-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |

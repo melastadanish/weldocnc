@@ -71,7 +71,7 @@
 - [x] `[WRITE]` `Services/Precision Machining Services/precision-machining-services.md` — full 18-section page written, five-pass complete (2026-06-06)
 
 ### Alternatives
-- [ ] `[WRITE]` `Alternatives/xometry-alternative.md` (empty — 0 lines)
+- [x] `[WRITE]` `Alternatives/xometry-alternative.md` — full 12-section page written, five-pass complete 2026-06-06
 
 ### General Pages
 - [x] `[WRITE]` `General Pages/about-us.md` — 9 sections written, five-pass complete (2026-06-06)
