@@ -96,7 +96,7 @@ The second argument is access. Undercuts, compound angles, contoured surfaces, a
 
 ---
 
-## SECTION 3b — TWO MODES OF 5-AXIS MACHINING
+## SECTION 4 — TWO MODES OF 5-AXIS MACHINING
 *Design: H2 centred, subheading, 3-column card grid. Light grey background.*
 
 **H2:**
@@ -128,7 +128,7 @@ Specs:
 
 ---
 
-## SECTION 3c — 5-AXIS VS. 3-AXIS: WHEN YOU ACTUALLY NEED IT
+## SECTION 5 — 5-AXIS VS. 3-AXIS: WHEN YOU ACTUALLY NEED IT
 *Design: H2, 2-column comparison cards. White background.*
 
 **H2:**
@@ -148,7 +148,7 @@ The part is prismatic and all features are accessible from standard orientations
 
 ---
 
-## SECTION 4 — OUR CNC MACHINING SERVICES
+## SECTION 6 — OUR CNC MACHINING SERVICES
 *Design: H2 centred, 5 service cards in a row (icon + title + description).*
 
 **H2:**
@@ -176,7 +176,7 @@ Description: 50+ finish options — anodizing, passivation, nickel plating, bead
 
 ---
 
-## SECTION 5 — CAPABILITIES & TOLERANCES
+## SECTION 7 — CAPABILITIES & TOLERANCES
 *Design: H2, 3-column tolerance tier table + general capabilities table below. White background.*
 
 **H2:**
@@ -209,7 +209,7 @@ Description: 50+ finish options — anodizing, passivation, nickel plating, bead
 
 ---
 
-## SECTION 6 — METALS WE MACHINE ON 5-AXIS
+## SECTION 8 — METALS WE MACHINE ON 5-AXIS
 *Design: Section heading + subheading, pill/chip links. Light grey background.*
 
 **Section heading:**
@@ -223,7 +223,7 @@ Aluminium CNC Machining · Titanium CNC Machining · Stainless Steel CNC Machini
 
 ---
 
-## SECTION 7 — ENGINEERING PLASTICS
+## SECTION 9 — ENGINEERING PLASTICS
 *Design: Section heading, pill/chip links. White background.*
 
 **Section heading:**
@@ -234,7 +234,7 @@ PEEK · Delrin (POM) · Nylon (PA) · Polycarbonate · Ultem (PEI)
 
 ---
 
-## SECTION 8 — SURFACE FINISHES
+## SECTION 10 — SURFACE FINISHES
 *Design: H2 centred, card grid. Light grey background.*
 
 **H2:**
@@ -270,7 +270,7 @@ Description: Electrochemical surface improvement for stainless steel and alumini
 
 ---
 
-## SECTION 9 — 5-AXIS CNC MACHINING DESIGN GUIDELINES
+## SECTION 11 — 5-AXIS CNC MACHINING DESIGN GUIDELINES
 *Design: H2, subheading, full-width 3-column table + supporting paragraphs. White background.*
 
 **H2:**
@@ -302,7 +302,7 @@ Part datum specification is equally important. A 5-axis setup references everyth
 
 ---
 
-## SECTION 10 — APPLICATIONS & INDUSTRIES
+## SECTION 12 — APPLICATIONS & INDUSTRIES
 *Design: H2, applications table left, industry icon grid right. White background.*
 
 **H2:**
@@ -326,7 +326,7 @@ Aerospace CNC Machining · Medical CNC Machining · Defence CNC Machining · Ene
 
 ---
 
-## SECTION 11 — QUALITY CONTROL & PRODUCTION INSPECTION
+## SECTION 13 — QUALITY CONTROL & PRODUCTION INSPECTION
 *Design: RS-01. H2, 2-column — image left, 3-step checklist right. Dark navy background, white text.*
 
 **H2:**
@@ -349,7 +349,7 @@ Body: Full CMM inspection against your drawing revision. Freeform surfaces measu
 
 ---
 
-## SECTION 12 — GALLERY
+## SECTION 14 — GALLERY
 *Design: Eyebrow label + H2, masonry image grid (6–8 photos). Light grey background.*
 
 **Eyebrow label:**
@@ -368,7 +368,7 @@ OUR WORK
 
 ---
 
-## SECTION 13 — WHY ENGINEERS SPECIFY OUR 5-AXIS CNC MACHINING SERVICES
+## SECTION 15 — WHY ENGINEERS SPECIFY OUR 5-AXIS CNC MACHINING SERVICES
 *Design: H2, 2-column — large feature card left (with stat), remaining features as accordion items right.*
 
 **H2:**
@@ -401,7 +401,7 @@ Body: Complex parts reviewed by engineers who understand 5-axis geometry — not
 
 ---
 
-## SECTION 14 — FREQUENTLY ASKED QUESTIONS
+## SECTION 16 — FREQUENTLY ASKED QUESTIONS
 *Design: H2, accordion. White background. First item open.*
 
 **H2:**
@@ -449,7 +449,7 @@ A: Unlike marketplace platforms such as Xometry or Hubs — where your 5-axis or
 
 ---
 
-## SECTION 15 — TECHNICAL RESOURCES & GUIDES
+## SECTION 17 — TECHNICAL RESOURCES & GUIDES
 *Design: H2, 3-card grid. Light grey background.*
 
 **H2:**
@@ -472,7 +472,7 @@ Link: Read the guide →
 
 ---
 
-## SECTION 16 — FINAL CTA BANNER
+## SECTION 18 — FINAL CTA BANNER
 *Design: RS-03. Full-width dark navy. H2 + subtext + bullets + single CTA.*
 
 **H2:**

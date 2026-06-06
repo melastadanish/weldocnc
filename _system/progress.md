@@ -36,7 +36,7 @@
 | ✅ | Services/CNC Milling Services/cnc-milling-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/CNC Turning Services/cnc-turning-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
-| ⬜ | Services/CNC Turn-Mill Services/cnc-turn-mill-services.md | Stub |
+| ~~⬜~~ | ~~Services/CNC Turn-Mill Services/cnc-turn-mill-services.md~~ | **Deleted 2026-06-06** |
 | 📝 | Services/surface-finishing-services.md | Written — needs review |
 
 ### Tier 2 — Custom CNC: Metals (14 pages)
@@ -127,13 +127,7 @@
 
 ### Tier 2 — CNC Turn-Mill: Materials (5 pages)
 
-| Status | File |
-|---|---|
-| ⬜ | Services/CNC Turn-Mill Services/Materials/aluminium-cnc-turn-mill-services.md |
-| ⬜ | Services/CNC Turn-Mill Services/Materials/stainless-steel-cnc-turn-mill-services.md |
-| ⬜ | Services/CNC Turn-Mill Services/Materials/titanium-cnc-turn-mill-services.md |
-| ⬜ | Services/CNC Turn-Mill Services/Materials/brass-cnc-turn-mill-services.md |
-| ⬜ | Services/CNC Turn-Mill Services/Materials/peek-cnc-turn-mill-services.md |
+**All files deleted 2026-06-06 — folder removed.**
 
 ---
 

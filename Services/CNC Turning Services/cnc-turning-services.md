@@ -96,7 +96,7 @@ What makes the difference between a competent turning operation and a capable on
 
 ---
 
-## SECTION 3b — TYPES OF CNC TURNING
+## SECTION 4 — TYPES OF CNC TURNING
 *Design: H2 centred, subheading, 3-column card grid. Light grey background.*
 
 **H2:**
@@ -128,7 +128,7 @@ Specs:
 
 ---
 
-## SECTION 3c — TURNING OR MILLING: WHICH PROCESS FITS YOUR PART?
+## SECTION 5 — TURNING OR MILLING: WHICH PROCESS FITS YOUR PART?
 *Design: H2, 2-column comparison cards. White background.*
 
 **H2:**
@@ -151,7 +151,7 @@ Many real parts need both. A shaft with a milled keyway, a turned housing with b
 
 ---
 
-## SECTION 4 — OUR CNC MACHINING SERVICES
+## SECTION 6 — OUR CNC MACHINING SERVICES
 *Design: H2 centred, 5 service cards in a row (icon + title + description).*
 
 **H2:**
@@ -179,7 +179,7 @@ Description: 50+ finish options — anodizing, passivation, nickel plating, bead
 
 ---
 
-## SECTION 5 — CAPABILITIES & TOLERANCES
+## SECTION 7 — CAPABILITIES & TOLERANCES
 *Design: H2, 3-column tolerance tier table + general capabilities table below. White background.*
 
 **H2:**
@@ -212,7 +212,7 @@ CNC Turning Capabilities & Tolerances
 
 ---
 
-## SECTION 6 — METALS WE TURN
+## SECTION 8 — METALS WE TURN
 *Design: Section heading + subheading, pill/chip links. Light grey background.*
 
 **Section heading:**
@@ -226,7 +226,7 @@ Aluminium CNC Turning · Stainless Steel CNC Turning · Titanium CNC Turning · 
 
 ---
 
-## SECTION 7 — ENGINEERING PLASTICS
+## SECTION 9 — ENGINEERING PLASTICS
 *Design: Section heading, pill/chip links. White background.*
 
 **Section heading:**
@@ -237,7 +237,7 @@ PEEK · Delrin (POM) · Nylon (PA) · PTFE (Teflon) · Polycarbonate
 
 ---
 
-## SECTION 8 — SURFACE FINISHES FOR TURNED PARTS
+## SECTION 10 — SURFACE FINISHES FOR TURNED PARTS
 *Design: H2 centred, card grid. Light grey background.*
 
 **H2:**
@@ -269,7 +269,7 @@ Description: Electrochemical process for stainless steel turned parts. Removes s
 
 ---
 
-## SECTION 9 — CNC TURNING DESIGN GUIDELINES
+## SECTION 11 — CNC TURNING DESIGN GUIDELINES
 *Design: H2, subheading, full-width 3-column table + supporting paragraphs below. White background.*
 
 **H2:**
@@ -301,7 +301,7 @@ Runout and concentricity are separate callouts from diameter tolerance — speci
 
 ---
 
-## SECTION 10 — APPLICATIONS & INDUSTRIES
+## SECTION 12 — APPLICATIONS & INDUSTRIES
 *Design: H2, applications table left, industry icon grid right. White background.*
 
 **H2:**
@@ -325,7 +325,7 @@ Aerospace CNC Machining · Medical CNC Machining · Automotive CNC Machining · 
 
 ---
 
-## SECTION 11 — QUALITY CONTROL & PRODUCTION INSPECTION
+## SECTION 13 — QUALITY CONTROL & PRODUCTION INSPECTION
 *Design: RS-01. H2, 2-column — image left, 3-step checklist right. Dark navy background, white text.*
 
 **H2:**
@@ -348,7 +348,7 @@ Body: CMM inspection on critical features — concentricity, runout, key diamete
 
 ---
 
-## SECTION 12 — GALLERY
+## SECTION 14 — GALLERY
 *Design: Eyebrow label + H2, masonry image grid (6–8 photos). Light grey background.*
 
 **Eyebrow label:**
@@ -367,7 +367,7 @@ CNC Turned Parts
 
 ---
 
-## SECTION 13 — WHY ENGINEERS SPECIFY OUR CNC TURNING SERVICES
+## SECTION 15 — WHY ENGINEERS SPECIFY OUR CNC TURNING SERVICES
 *Design: H2, 2-column — large feature card left (with stat), remaining features as accordion items right.*
 
 **H2:**
@@ -400,7 +400,7 @@ Body: Dimensional report, material cert, thread gauge records — all in the box
 
 ---
 
-## SECTION 14 — FREQUENTLY ASKED QUESTIONS
+## SECTION 16 — FREQUENTLY ASKED QUESTIONS
 *Design: H2, accordion. White background. First item open.*
 
 **H2:**
@@ -448,7 +448,7 @@ A: Unlike marketplace platforms such as Xometry — where your order goes to whi
 
 ---
 
-## SECTION 15 — TECHNICAL RESOURCES & GUIDES
+## SECTION 17 — TECHNICAL RESOURCES & GUIDES
 *Design: H2, 3-card grid. Light grey background.*
 
 **H2:**
@@ -471,7 +471,7 @@ Link: Read the guide →
 
 ---
 
-## SECTION 16 — FINAL CTA BANNER
+## SECTION 18 — FINAL CTA BANNER
 *Design: RS-03. Full-width dark navy. H2 + subtext + bullets + single CTA.*
 
 **H2:**

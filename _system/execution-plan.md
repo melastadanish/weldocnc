@@ -67,7 +67,7 @@
 > Task: write the complete page from scratch, then run all five passes.
 
 ### Service L1 Pages
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/cnc-turn-mill-services.md` (18-line stub — needs full content)
+~~- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/cnc-turn-mill-services.md`~~ — **DELETED 2026-06-06 (client decision)**
 - [ ] `[WRITE]` `Services/precision-machining-services.md` (stub — check actual state)
 
 ### Alternatives
@@ -137,11 +137,7 @@
 - [ ] `[WRITE]` `Services/5-Axis CNC Machining Services/Materials/tool-steel-5-axis-cnc-machining-services.md`
 
 ### CNC Turn-Mill — Materials (5 pages)
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/Materials/aluminium-cnc-turn-mill-services.md`
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/Materials/stainless-steel-cnc-turn-mill-services.md`
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/Materials/titanium-cnc-turn-mill-services.md`
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/Materials/brass-cnc-turn-mill-services.md`
-- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/Materials/peek-cnc-turn-mill-services.md`
+~~All 5 turn-mill material pages~~ — **DELETED 2026-06-06 (folder removed)**
 
 ### Custom CNC — Metals (14 pages)
 - [ ] `[WRITE]` `Services/Custom CNC Machining Services/Metals/aluminium-6061-cnc-machining-services.md`

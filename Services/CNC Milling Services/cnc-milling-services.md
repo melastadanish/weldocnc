@@ -96,7 +96,7 @@ Weldo CNC has operated CNC milling in Dongguan since 2012. The facility has mach
 
 ---
 
-## SECTION 3b — TYPES OF CNC MILLING
+## SECTION 4 — TYPES OF CNC MILLING
 *Design: H2 centred, subheading, 3-column card grid. Light grey background.*
 
 **H2:**
@@ -129,7 +129,7 @@ Link: → View 5-axis CNC machining services
 
 ---
 
-## SECTION 3c — WHEN CNC MILLING IS THE RIGHT PROCESS
+## SECTION 5 — WHEN CNC MILLING IS THE RIGHT PROCESS
 *Design: H2, 2-column — paragraphs left, supporting image right. White background.*
 
 **H2:**
@@ -149,7 +149,7 @@ Surface finish is underrated as a milling advantage. An as-milled surface at Ra 
 
 ---
 
-## SECTION 4 — OUR CNC MACHINING SERVICES
+## SECTION 6 — OUR CNC MACHINING SERVICES
 *Design: H2 centred, 5 service cards in a row (icon + title + description).*
 
 **H2:**
@@ -177,7 +177,7 @@ Description: 50+ finish options — anodizing, powder coating, passivation, bead
 
 ---
 
-## SECTION 5 — CAPABILITIES & TOLERANCES
+## SECTION 7 — CAPABILITIES & TOLERANCES
 *Design: H2, 3-column tolerance tier table + general capabilities table below. White background.*
 
 **H2:**
@@ -210,7 +210,7 @@ CNC Milling Capabilities & Tolerances
 
 ---
 
-## SECTION 6 — METALS WE MILL
+## SECTION 8 — METALS WE MILL
 *Design: Section heading + subheading, pill/chip links. Light grey background.*
 
 **Section heading:**
@@ -224,7 +224,7 @@ Aluminium CNC Milling · Stainless Steel CNC Milling · Titanium CNC Milling · 
 
 ---
 
-## SECTION 7 — ENGINEERING PLASTICS
+## SECTION 9 — ENGINEERING PLASTICS
 *Design: Section heading, pill/chip links. White background.*
 
 **Section heading:**
@@ -235,7 +235,7 @@ PEEK · Delrin (POM) · Nylon (PA) · ABS · Polycarbonate
 
 ---
 
-## SECTION 8 — SURFACE FINISHES FOR MILLED PARTS
+## SECTION 10 — SURFACE FINISHES FOR MILLED PARTS
 *Design: H2 centred, 6-card grid (3×2) or 7-card grid. Light grey background.*
 
 **H2:**
@@ -271,7 +271,7 @@ Description: Electrochemical removal of surface peaks from stainless steel and a
 
 ---
 
-## SECTION 9 — CNC MILLING DESIGN GUIDELINES
+## SECTION 11 — CNC MILLING DESIGN GUIDELINES
 *Design: H2, subheading, full-width 3-column table + 2 supporting paragraphs below. White background.*
 
 **H2:**
@@ -303,7 +303,7 @@ Both issues get caught at DFM review. They're flagged in the quote — you decid
 
 ---
 
-## SECTION 10 — APPLICATIONS & INDUSTRIES
+## SECTION 12 — APPLICATIONS & INDUSTRIES
 *Design: H2, applications table left, industry icon grid right. White background.*
 
 **H2:**
@@ -327,7 +327,7 @@ Aerospace CNC Machining · Medical CNC Machining · Automotive CNC Machining · 
 
 ---
 
-## SECTION 11 — QUALITY CONTROL & PRODUCTION INSPECTION
+## SECTION 13 — QUALITY CONTROL & PRODUCTION INSPECTION
 *Design: RS-01. H2, 2-column — image left, 3-step checklist right. Dark navy background, white text.*
 
 **H2:**
@@ -350,7 +350,7 @@ Body: Every critical dimension measured against your drawing revision — nomina
 
 ---
 
-## SECTION 12 — GALLERY
+## SECTION 14 — GALLERY
 *Design: Eyebrow label + H2, masonry image grid (6–8 photos). Light grey background.*
 
 **Eyebrow label:**
@@ -369,7 +369,7 @@ CNC Milled Parts
 
 ---
 
-## SECTION 13 — WHY ENGINEERS SPECIFY OUR CNC MILLING SERVICES
+## SECTION 15 — WHY ENGINEERS SPECIFY OUR CNC MILLING SERVICES
 *Design: H2, 2-column — large feature card left (with stat/number), remaining features as accordion items right.*
 
 **H2:**
@@ -402,7 +402,7 @@ Body: No "prototype mode" with looser inspection. A 2-piece development order ge
 
 ---
 
-## SECTION 14 — FREQUENTLY ASKED QUESTIONS
+## SECTION 16 — FREQUENTLY ASKED QUESTIONS
 *Design: H2, accordion. White background. First item open.*
 
 **H2:**
@@ -450,7 +450,7 @@ A: Hubs quotes CNC milling tolerances to ±0.020 mm as standard — Weldo CNC ho
 
 ---
 
-## SECTION 15 — TECHNICAL RESOURCES & GUIDES
+## SECTION 17 — TECHNICAL RESOURCES & GUIDES
 *Design: H2, 3-card grid. Light grey background.*
 
 **H2:**
@@ -473,7 +473,7 @@ Link: Read the guide →
 
 ---
 
-## SECTION 16 — FINAL CTA BANNER
+## SECTION 18 — FINAL CTA BANNER
 *Design: RS-03. Full-width dark navy. H2 + subtext + bullets + single CTA.*
 
 **H2:**
