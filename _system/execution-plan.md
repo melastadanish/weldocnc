@@ -87,14 +87,14 @@
 > Each needs: hero, intro, why Weldo CNC for this industry, part types, materials, tolerances, FAQ, CTA.
 > Use the completed `aerospace-cnc-machining.md` (once reviewed in Phase 1) as the content model.
 
-- [ ] `[WRITE]` `Industries/Medical CNC Machining/medical-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Automotive CNC Machining/automotive-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Electronics CNC Machining/electronics-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Defense CNC Machining/defense-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Mining CNC Machining/mining-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Robotics CNC Machining/robotics-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Energy CNC Machining/energy-cnc-machining.md`
-- [ ] `[WRITE]` `Industries/Industrial Machinery CNC Machining/industrial-machinery-cnc-machining.md`
+- [x] `[WRITE]` `Industries/Medical CNC Machining/medical-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Automotive CNC Machining/automotive-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Electronics CNC Machining/electronics-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Defense CNC Machining/defense-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Mining CNC Machining/mining-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Robotics CNC Machining/robotics-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Energy CNC Machining/energy-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
+- [x] `[WRITE]` `Industries/Industrial Machinery CNC Machining/industrial-machinery-cnc-machining.md` — full 15-section page, five-pass complete 2026-06-06
 
 ---
 
@@ -302,9 +302,9 @@
 
 | Phase | Task Type | Pages | Status |
 |---|---|---|---|
-| 1 | Review existing written pages | 21 | In progress |
-| 2 | Write missing core service & general pages | 7 | Not started |
-| 3 | Write industry overview pages | 8 | Not started |
+| 1 | Review existing written pages | 21 | ✅ Complete |
+| 2 | Write missing core service & general pages | 7 | ✅ Complete |
+| 3 | Write industry overview pages | 8 | ✅ Complete — 2026-06-06 |
 | 4 | Write service material pages (L2) | 61 | Not started |
 | 5 | Write industry sub-pages (part types) | 41 | Not started |
 | 6 | Write location pages | 15+ | Not started |

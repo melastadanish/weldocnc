@@ -151,7 +151,7 @@
 ### Medical (5 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Medical CNC Machining/medical-cnc-machining.md |
+| ✅ | Industries/Medical CNC Machining/medical-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Medical CNC Machining/surgical-instrument-machining.md |
 | ⬜ | Industries/Medical CNC Machining/implant-machining.md |
 | ⬜ | Industries/Medical CNC Machining/medical-device-housing-machining.md |
@@ -160,7 +160,7 @@
 ### Automotive (5 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Automotive CNC Machining/automotive-cnc-machining.md |
+| ✅ | Industries/Automotive CNC Machining/automotive-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Automotive CNC Machining/engine-component-machining.md |
 | ⬜ | Industries/Automotive CNC Machining/transmission-part-machining.md |
 | ⬜ | Industries/Automotive CNC Machining/brake-component-machining.md |
@@ -169,7 +169,7 @@
 ### Electronics (4 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Electronics CNC Machining/electronics-cnc-machining.md |
+| ✅ | Industries/Electronics CNC Machining/electronics-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Electronics CNC Machining/heat-sink-machining.md |
 | ⬜ | Industries/Electronics CNC Machining/enclosure-machining.md |
 | ⬜ | Industries/Electronics CNC Machining/connector-machining.md |
@@ -177,7 +177,7 @@
 ### Defense (4 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Defense CNC Machining/defense-cnc-machining.md |
+| ✅ | Industries/Defense CNC Machining/defense-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Defense CNC Machining/optic-mount-machining.md |
 | ⬜ | Industries/Defense CNC Machining/armour-component-machining.md |
 | ⬜ | Industries/Defense CNC Machining/weapon-component-machining.md |
@@ -185,7 +185,7 @@
 ### Mining (4 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Mining CNC Machining/mining-cnc-machining.md |
+| ✅ | Industries/Mining CNC Machining/mining-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Mining CNC Machining/drill-bit-machining.md |
 | ⬜ | Industries/Mining CNC Machining/pump-component-machining.md |
 | ⬜ | Industries/Mining CNC Machining/bearing-housing-machining.md |
@@ -193,7 +193,7 @@
 ### Robotics & Automation (4 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Robotics CNC Machining/robotics-cnc-machining.md |
+| ✅ | Industries/Robotics CNC Machining/robotics-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Robotics CNC Machining/end-effector-machining.md |
 | ⬜ | Industries/Robotics CNC Machining/robot-arm-machining.md |
 | ⬜ | Industries/Robotics CNC Machining/robot-joint-machining.md |
@@ -213,7 +213,7 @@
 ### Energy & Power (6 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Energy CNC Machining/energy-cnc-machining.md |
+| ✅ | Industries/Energy CNC Machining/energy-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Energy CNC Machining/turbine-casing-machining.md |
 | ⬜ | Industries/Energy CNC Machining/impeller-machining.md |
 | ⬜ | Industries/Energy CNC Machining/wind-turbine-hub-machining.md |
@@ -223,7 +223,7 @@
 ### Industrial Machinery (5 pages)
 | Status | File |
 |---|---|
-| ⬜ | Industries/Industrial Machinery CNC Machining/industrial-machinery-cnc-machining.md |
+| ✅ | Industries/Industrial Machinery CNC Machining/industrial-machinery-cnc-machining.md | Five-pass complete — 2026-06-06 |
 | ⬜ | Industries/Industrial Machinery CNC Machining/gearbox-housing-machining.md |
 | ⬜ | Industries/Industrial Machinery CNC Machining/shaft-machining.md |
 | ⬜ | Industries/Industrial Machinery CNC Machining/machine-frame-machining.md |
