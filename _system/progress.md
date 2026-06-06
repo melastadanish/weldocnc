@@ -31,7 +31,7 @@
 
 | Status | File | Notes |
 |---|---|---|
-| ⬜ | Services/precision-machining-services.md | Stub |
+| ✅ | Services/Precision Machining Services/precision-machining-services.md | Full 18-section page written, five-pass complete — 2026-06-06 |
 | ✅ | Services/Custom CNC Machining Services/custom-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/CNC Milling Services/cnc-milling-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 | ✅ | Services/CNC Turning Services/cnc-turning-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |

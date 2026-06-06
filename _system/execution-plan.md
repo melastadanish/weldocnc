@@ -68,7 +68,7 @@
 
 ### Service L1 Pages
 ~~- [ ] `[WRITE]` `Services/CNC Turn-Mill Services/cnc-turn-mill-services.md`~~ — **DELETED 2026-06-06 (client decision)**
-- [ ] `[WRITE]` `Services/precision-machining-services.md` (stub — check actual state)
+- [x] `[WRITE]` `Services/Precision Machining Services/precision-machining-services.md` — full 18-section page written, five-pass complete (2026-06-06)
 
 ### Alternatives
 - [ ] `[WRITE]` `Alternatives/xometry-alternative.md` (empty — 0 lines)
