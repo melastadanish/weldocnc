@@ -136,7 +136,7 @@
 ### Overview
 | Status | File |
 |---|---|
-| 📝 | Industries/cnc-machining-industries.md |
+| ✅ | Industries/cnc-machining-industries.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 
 ### Aerospace (6 pages)
 | Status | File |

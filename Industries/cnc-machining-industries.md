@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): Fixed S1 subheading — removed banned "20+ years of production experience" claim. Replaced with "ISO 9001:2015 from our Dongguan facility."
+Pass B (Brand): Weldo CNC spelling confirmed throughout. No violations.
+Pass N (Numbers): Fixed S1 trust badge ±0.005mm → ±0.005 mm (space before unit). Fixed S6 bullet same spacing error. Removed banned "From 3 days lead time" — replaced with verified prototype/small-batch lead time ranges from CLIENT-DATA-MAP.
+Pass D (Design): Section structure confirmed (6 sections). Component references (RS-01 S5, RS-03 S6) correct.
+Pass C (Claims): Banned claims removed. All remaining numbers trace to CLIENT-DATA-MAP. No CMM-every-order claim introduced beyond what is consistent with other reviewed pages.
+All five passes complete. No remaining failures.
+-->
+
 # CNC Machining Industries
 **Status:** Complete
 **Slug:** /cnc-machining-industries/
@@ -21,8 +31,8 @@
 **Design:** Full-width hero — white or light background. Clean, broad. Not tied to one industry visually — show a collage or neutral precision machining image.
 - Label tag: `INDUSTRIES`
 - H1: CNC Machining for Demanding Industries
-- Subheading: Precision CNC machined parts for aerospace, medical, automotive, defence, electronics, robotics, humanoid robot, energy, mining, and industrial machinery applications. Tight tolerances, full documentation, and 20+ years of production experience from our Dongguan facility.
-- Trust badges: ✔ ISO 9001:2015 Certified | ✔ ±0.005mm Tolerance Capability | ✔ Quote in 24 Hours
+- Subheading: Precision CNC machined parts for aerospace, medical, automotive, defence, electronics, robotics, humanoid robot, energy, mining, and industrial machinery applications. Tight tolerances, full documentation, and ISO 9001:2015 from our Dongguan facility.
+- Trust badges: ✔ ISO 9001:2015 Certified | ✔ ±0.005 mm Tolerance Capability | ✔ Quote in 24 Hours
 - CTA Primary: Get an Instant Quote | CTA Secondary: View All Services
 
 ---
@@ -102,8 +112,8 @@ Footer link: → View our full Quality Assurance process → [[quality-assurance
 **Bullets:**
 - ✅ 10 industries served from one ISO 9001:2015 certified facility
 - ✅ CMM inspection and material traceability on every order
-- ✅ Tolerances to ±0.005mm
-- ✅ From 3 days lead time
+- ✅ Tolerances to ±0.005 mm, CMM-verified on critical features
+- ✅ Prototype parts in 1–5 business days manufacturing · small batch in 5–15 business days
 **CTA:** Get Instant Quote
 
 ---

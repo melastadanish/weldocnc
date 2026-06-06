@@ -44,7 +44,7 @@
 - [x] `[REVIEW]` `Services/5-Axis CNC Machining Services/5-axis-cnc-machining-services.md` (~298 lines)
 - [x] `[REVIEW]` `Industries/Aerospace CNC Machining/aerospace-cnc-machining.md` (~218 lines)
 - [x] `[REVIEW]` `Industries/Humanoid Robot CNC Machining/humanoid-robot-cnc-machining.md` (~233 lines)
-- [ ] `[REVIEW]` `Industries/cnc-machining-industries.md` (check actual size)
+- [x] `[REVIEW]` `Industries/cnc-machining-industries.md` — five-pass complete 2026-06-06
 - [ ] `[REVIEW]` `Services/surface-finishing-services.md` (check actual size)
 - [ ] `[REVIEW]` `Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md` (check actual size)
 - [ ] `[REVIEW]` `Alternatives/hubs-alternative.md` (~123 lines)
