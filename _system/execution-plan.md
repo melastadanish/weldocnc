@@ -46,7 +46,7 @@
 - [x] `[REVIEW]` `Industries/Humanoid Robot CNC Machining/humanoid-robot-cnc-machining.md` (~233 lines)
 - [x] `[REVIEW]` `Industries/cnc-machining-industries.md` — five-pass complete 2026-06-06
 - [x] `[REVIEW]` `Services/surface-finishing-services.md` — five-pass complete 2026-06-06
-- [ ] `[REVIEW]` `Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md` (check actual size)
+- [x] `[REVIEW]` `Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md` — five-pass complete 2026-06-06
 - [ ] `[REVIEW]` `Alternatives/hubs-alternative.md` (~123 lines)
 - [ ] `[REVIEW]` `Alternatives/protolabs-alternative.md` (~123 lines)
 - [ ] `[REVIEW]` `Alternatives/rapiddirect-alternative.md` (~123 lines)

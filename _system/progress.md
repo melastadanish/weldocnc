@@ -43,7 +43,7 @@
 
 | Status | File |
 |---|---|
-| 📝 | Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md |
+| ✅ | Services/Custom CNC Machining Services/Metals/aluminium-cnc-machining-services.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 | ⬜ | Services/Custom CNC Machining Services/Metals/aluminium-6061-cnc-machining-services.md |
 | ⬜ | Services/Custom CNC Machining Services/Metals/aluminium-7075-cnc-machining-services.md |
 | ⬜ | Services/Custom CNC Machining Services/Metals/stainless-steel-cnc-machining-services.md |

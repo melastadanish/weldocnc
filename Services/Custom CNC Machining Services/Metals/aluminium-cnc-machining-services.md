@@ -1,8 +1,18 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): S2 — removed banned "20+ Years Machining Aluminium" and "From 3 Days Lead Time". "6+ Aluminium Grades" replaced. S6 max part size corrected from 1,500 × 800 × 600 mm to 4,000 × 1,500 × 600 mm (CLIENT-DATA-MAP benchmark). S7 Polishing — removed banned "Ra down to 0.05µm" claim. S13 — removed "for over two decades" (implies 20+ years, company founded 2012); replaced with "Operating since 2012".
+Pass B (Brand): "Weldo CNC" spelling confirmed throughout. No violations.
+Pass N (Numbers): Global replace ±0.005mm → ±0.005 mm throughout. Fixed all µm spacing: 5–25 µm, 25–50 µm, 50–100 µm, 0.8–3.2 µm. Fixed all mm spacing: 0.8 mm, 1.0 mm. S6 table fully corrected with space-before-unit format. S2 replaced with verified CLIENT-DATA-MAP stats: 100+ Machines · ±0.005 mm · 24 hrs · 97.48%.
+Pass D (Design): S2 background corrected to dark per RS-Stats standard.
+Pass C (Claims): All banned claims removed. No "20+ years", no "From 3 Days", no sub-banned Ra values.
+All five passes complete. No remaining failures.
+-->
+
 # Aluminium CNC Machining Services
 **Status:** Complete
 **Slug:** /aluminium-cnc-machining-services/
 **Meta Title:** Aluminium CNC Machining Services | CNC Machined Aluminium Parts | Weldo CNC
-**Meta Description:** Weldo CNC machines aluminium parts to ±0.005mm tolerances — 6061, 7075, 2024, MIC-6, and more. In-house anodizing. ISO 9001:2015. Quote in 24 hours.
+**Meta Description:** Weldo CNC machines aluminium parts to ±0.005 mm tolerances — 6061, 7075, 2024, MIC-6, and more. In-house anodizing. ISO 9001:2015. Quote in 24 hours.
 **Target Keyword:** Aluminium CNC Machining Services
 **Secondary Keywords:** cnc machined aluminium parts, aluminium cnc machining, aluminium machining, 6061 cnc machining, 7075 cnc machining
 
@@ -32,17 +42,17 @@
 - Label tag: `ALUMINIUM CNC MACHINING`
 - H1: Aluminium CNC Machining Services
 - Subheading: CNC machined aluminium parts in 6061, 7075, 2024, 5052, 6063, and MIC-6 tooling plate. Tight tolerances, in-house anodizing, full dimensional reporting. Quote in 24 hours from our Dongguan facility.
-- Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005mm | ✔ In-House Anodizing
+- Trust badges: ✔ ISO 9001:2015 Certified | ✔ Tolerances to ±0.005 mm | ✔ In-House Anodizing
 - CTA Primary: Get an Instant Quote | CTA Secondary: View Aluminium Grades
 
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background. Full width.
-- 20+ Years Machining Aluminium
-- 6+ Aluminium Grades
-- ±0.005mm Tolerance Capability
-- From 3 Days Lead Time
+**Design:** 4-number stats bar. Dark background. Full width. Component: RS-Stats.
+- 100+ CNC Machines In-House
+- ±0.005 mm Tolerance Capability
+- 24 hrs Quote Turnaround
+- 97.48% Annual Pass Rate
 
 ---
 
@@ -104,16 +114,16 @@ If the part is a tooling plate, fixture, or base that must remain flat after mac
 
 | Capability | Standard | Precision | Critical |
 |---|---|---|---|
-| Linear Tolerance | ±0.1mm | ±0.025mm | ±0.005mm |
-| Hole Diameter | ±0.05mm | ±0.015mm | ±0.008mm |
-| Surface Finish (Ra) | 3.2µm | 0.8µm | 0.4µm (machined) |
-| Flatness | 0.1mm/100mm | 0.025mm/100mm | 0.010mm/100mm |
-| Max Part Size | 1,500 × 800 × 600mm (milling) | — | — |
-| Min Wall Thickness | 0.8mm | — | — |
-| Min Feature Size | 0.5mm | — | — |
+| Linear Tolerance | ±0.1 mm | ±0.025 mm | ±0.005 mm |
+| Hole Diameter | ±0.05 mm | ±0.015 mm | ±0.008 mm |
+| Surface Finish (Ra) | Ra 3.2 µm | Ra 0.8 µm | Ra 0.4 µm (machined) |
+| Flatness | 0.1 mm/100 mm | 0.025 mm/100 mm | 0.010 mm/100 mm |
+| Max Part Size | 4,000 × 1,500 × 600 mm (milling) | — | — |
+| Min Wall Thickness | 0.8 mm | — | — |
+| Min Feature Size | 0.5 mm | — | — |
 | Thread Standards | Metric (M), UNC, UNF | — | — |
 
-Aluminium's high machinability means tight tolerances are achievable without exotic tooling or extended cycle times. ±0.005mm on critical bores is a standard operation — not a special request. For aerospace and medical parts where geometric tolerances (true position, perpendicularity, concentricity) are called out alongside dimensional ones, we work from the drawing and report every feature.
+Aluminium's high machinability means tight tolerances are achievable without exotic tooling or extended cycle times. ±0.005 mm on critical bores is a standard operation — not a special request. For aerospace and medical parts where geometric tolerances (true position, perpendicularity, concentricity) are called out alongside dimensional ones, we work from the drawing and report every feature.
 
 ---
 
@@ -123,16 +133,16 @@ Aluminium's high machinability means tight tolerances are achievable without exo
 
 | Finish | Dimensional Impact | Best For | Notes |
 |---|---|---|---|
-| **As Machined** | None | Internal components, tooling, fixturing | Ra 0.8–3.2µm, visible toolmarks — fine for non-cosmetic applications |
-| **Bead Blasted** | Negligible (<0.01mm) | Cosmetic uniformity, hiding toolmarks | Isotropic matte texture. Good base for anodizing. |
-| **Anodize Type II** | +5–25µm per side | General corrosion protection, colour | Clear, black, blue, red, gold. Electrically insulating. Adjust tight-fit features before coating. |
-| **Anodize Type III (Hardcoat)** | +25–50µm per side | Wear interfaces, aggressive environments | HV 400–600 hardness. Must pre-machine bores/shafts to allow for coating thickness. |
-| **Chromate Conversion (Alodine)** | Negligible (<0.001mm) | Electrical conductivity required | Retains conductivity unlike anodizing. MIL-DTL-5541. Good corrosion protection for aerospace chassis. |
-| **Powder Coat** | +50–100µm per side | Colour, impact resistance | Mask threads and precision bores. Not suitable for close-tolerance fits without pre-machining offsets. |
-| **Polishing** | Removes minor surface layer | Mirror or near-mirror finish | Ra down to 0.05µm. Used for optical mounts, cosmetic consumer parts. |
+| **As Machined** | None | Internal components, tooling, fixturing | Ra 0.8–3.2 µm, visible toolmarks — fine for non-cosmetic applications |
+| **Bead Blasted** | Negligible (<0.01 mm) | Cosmetic uniformity, hiding toolmarks | Isotropic matte texture. Good base for anodizing. |
+| **Anodize Type II** | +5–25 µm per side | General corrosion protection, colour | Clear, black, blue, red, gold. Electrically insulating. Adjust tight-fit features before coating. |
+| **Anodize Type III (Hardcoat)** | +25–50 µm per side | Wear interfaces, aggressive environments | HV 400–600 hardness. Must pre-machine bores/shafts to allow for coating thickness. |
+| **Chromate Conversion (Alodine)** | Negligible (<0.001 mm) | Electrical conductivity required | Retains conductivity unlike anodizing. MIL-DTL-5541. Good corrosion protection for aerospace chassis. |
+| **Powder Coat** | +50–100 µm per side | Colour, impact resistance | Mask threads and precision bores. Not suitable for close-tolerance fits without pre-machining offsets. |
+| **Polishing** | Removes minor surface layer | Mirror or near-mirror finish | Used for optical mounts, cosmetic consumer parts. |
 
 **Anodizing and tolerances — read this before your drawing is finalised.**
-Anodizing adds material. Type II adds 5–25µm per side; Type III hardcoat adds 25–50µm per side. A bore machined to H7 tolerance and then anodized without adjustment is no longer H7. Options: machine undersized by the coating allowance, mask the feature, or machine after coating. Flag precision-fit features at quote stage and we'll specify the right approach before the job starts.
+Anodizing adds material. Type II adds 5–25 µm per side; Type III hardcoat adds 25–50 µm per side. A bore machined to H7 tolerance and then anodized without adjustment is no longer H7. Options: machine undersized by the coating allowance, mask the feature, or machine after coating. Flag precision-fit features at quote stage and we'll specify the right approach before the job starts.
 
 ---
 
@@ -142,12 +152,12 @@ Anodizing adds material. Type II adds 5–25µm per side; Type III hardcoat adds
 
 | Feature | Recommendation | Why It Matters |
 |---|---|---|
-| Min wall thickness | 0.8mm (structural), 1.0mm (recommended) | Thinner walls deflect under cutting forces and can vibrate, affecting surface finish and dimensional accuracy |
+| Min wall thickness | 0.8 mm (structural), 1.0 mm (recommended) | Thinner walls deflect under cutting forces and can vibrate, affecting surface finish and dimensional accuracy |
 | Internal corner radius | Min 1/3 of cavity depth | Aluminium cuts cleanly but tool geometry still limits how sharp an internal corner can be — undersize radii require slower, smaller tools and add cost |
 | Hole depth | Max 10× diameter (standard drill) | Beyond this, drill wander becomes significant; specify through-holes where possible, or flag deep holes for specialist tooling |
 | Thread engagement | Min 1.5× diameter | Aluminium is softer than steel — short thread engagement strips under load. For structural threads, 2× diameter is safer |
-| Tolerances | Only call out tight tolerance where function requires | Every ±0.005mm callout adds cost; ISO 2768-m covers most non-critical features and keeps the job moving at normal rates |
-| Anodize allowance | Pre-machine or mask precision bores | Type II adds 5–25µm per side; Type III adds 25–50µm — both will take an H7 bore out of tolerance without allowance |
+| Tolerances | Only call out tight tolerance where function requires | Every ±0.005 mm callout adds cost; ISO 2768-m covers most non-critical features and keeps the job moving at normal rates |
+| Anodize allowance | Pre-machine or mask precision bores | Type II adds 5–25 µm per side; Type III adds 25–50 µm — both will take an H7 bore out of tolerance without allowance |
 | MIC-6 vs 6061 plate | Use MIC-6 for fixtures and tooling | 6061 plate has rolling stress — remove material asymmetrically and the part can spring. MIC-6 is stress-relieved at cast and stays flat |
 | Thin rib features | Keep rib height to width ratio <8:1 | Tall thin ribs in aluminium can chatter during cutting; above 8:1 aspect ratio, discuss fixturing strategy at quote stage |
 
@@ -231,10 +241,10 @@ Anodizing is the most common finish on aluminium. We don't send your parts to a 
 If your drawing has a precision bore and the part needs hardcoat anodizing, the two interact. We catch this at quote stage — pre-machining offset, masking plan, or post-coat machining, depending on the feature. Not when the finished parts don't fit.
 
 **Grade experience across the full range.**
-6061 is easy. 7075 is not. MIC-6 cuts differently from wrought plate and needs different fixturing. 2024 work-hardens if pushed too hard. We've been machining all of these for over two decades and the process knowledge is built into how we quote and plan jobs — not learned on your parts.
+6061 is easy. 7075 is not. MIC-6 cuts differently from wrought plate and needs different fixturing. 2024 work-hardens if pushed too hard. Operating since 2012, the process knowledge across all aluminium alloys is built into how we quote and plan jobs — not learned on your parts.
 
 **Tight tolerances on aluminium are standard operations here.**
-±0.005mm on a 6061 bore is something we do every week. For aerospace fittings, medical housings, and precision robotics components, that level of control is expected. CMM verification is not an add-on.
+±0.005 mm on a 6061 bore is something we do every week. For aerospace fittings, medical housings, and precision robotics components, that level of control is expected. CMM verification is not an add-on.
 
 **Full documentation with every order.**
 Material certificate, dimensional inspection report, anodize coating thickness record, packing list. Everything you need to receive and approve the parts is in the box. Aerospace and medical customers get the same documentation stack as standard — not on request.
@@ -249,10 +259,10 @@ Material certificate, dimensional inspection report, anodize coating thickness r
 Depends on what the part actually does. For general structural and engineering applications, 6061-T6 is the default — good machinability, solid strength, anodizes well, and widely available. If you need maximum strength and weight isn't the only driver, 7075-T6 is 2× stronger than 6061 but not weldable and more expensive to source. For cosmetic parts that will be colour-anodized, 6063-T5 anodizes with a noticeably finer, more uniform result than 6061. For fixtures and tooling plates where flatness after heavy stock removal is critical, MIC-6 is the right answer — wrought 6061 plate has residual rolling stress that can cause movement when you remove material asymmetrically. Tell us the application and we'll advise.
 
 **Q2: Does anodizing affect the dimensions of aluminium CNC parts?**
-Yes, and this is one of the most common mistakes on drawings. Type II anodizing adds 5–25µm per side; Type III hardcoat adds 25–50µm per side. On a bore with an H7 fit tolerance, that's enough to take the part out of specification without adjustment. The fix: machine the bore undersized by the coating allowance, mask it during anodizing, or machine after coating. Flag any precision-fit features on your drawing at quote stage and we'll specify the approach — not after the parts come back from finishing and don't fit.
+Yes, and this is one of the most common mistakes on drawings. Type II anodizing adds 5–25 µm per side; Type III hardcoat adds 25–50 µm per side. On a bore with an H7 fit tolerance, that's enough to take the part out of specification without adjustment. The fix: machine the bore undersized by the coating allowance, mask it during anodizing, or machine after coating. Flag any precision-fit features on your drawing at quote stage and we'll specify the approach — not after the parts come back from finishing and don't fit.
 
 **Q3: Can you machine 7075 aluminium to tight tolerances?**
-Yes. 7075-T6 is harder and less free-cutting than 6061, but it's still very machinable compared to stainless or titanium. The key differences: it requires sharper tooling, more conservative chip load management to avoid tool deflection on tight features, and different fixturing on thin-wall geometry. Our tolerance capability on 7075 is the same as 6061 — ±0.005mm on critical features, CMM verified. The cost is slightly higher than 6061 due to material cost and machining time, which we'll reflect in the quote.
+Yes. 7075-T6 is harder and less free-cutting than 6061, but it's still very machinable compared to stainless or titanium. The key differences: it requires sharper tooling, more conservative chip load management to avoid tool deflection on tight features, and different fixturing on thin-wall geometry. Our tolerance capability on 7075 is the same as 6061 — ±0.005 mm on critical features, CMM verified. The cost is slightly higher than 6061 due to material cost and machining time, which we'll reflect in the quote.
 
 **Q4: What's the best surface finish for aluminium CNC machined parts?**
 Depends on the function. For corrosion protection with colour options, anodize Type II is the standard choice. For hard-wearing surfaces that take impact or sliding contact, hardcoat anodize Type III (HV 400–600). For parts that need to stay electrically conductive — enclosures that need EMI bonding continuity, for example — chromate conversion (Alodine) is right, because anodizing is electrically insulating. For the cleanest cosmetic result on colour anodizing, bead blast before anodizing to eliminate toolmarks and get a uniform surface. For purely cosmetic uniformity with no dimensional concern, bead blasting alone is often sufficient.
@@ -279,7 +289,7 @@ Planning. Any aluminium CNC machining job involving anodizing and tight-toleranc
 **Bullets:**
 - ✅ 6061, 7075, 2024, 5052, 6063, MIC-6 in-house stock
 - ✅ In-house anodizing Type II and III under ISO 9001:2015
-- ✅ Tolerances to ±0.005mm, CMM verified
+- ✅ Tolerances to ±0.005 mm, CMM verified
 - ✅ Material cert and dimensional report with every order
 **CTA:** Get Instant Quote
 
