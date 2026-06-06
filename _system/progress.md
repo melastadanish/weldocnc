@@ -207,7 +207,7 @@
 ### Humanoid Robot (8 pages)
 | Status | File |
 |---|---|
-| 📝 | Industries/Humanoid Robot CNC Machining/humanoid-robot-cnc-machining.md |
+| ✅ | Industries/Humanoid Robot CNC Machining/humanoid-robot-cnc-machining.md | Five-pass review complete (A→B→N→D→C) — 2026-06-06 |
 | ⬜ | Industries/Humanoid Robot CNC Machining/humanoid-robot-finger-machining.md |
 | ⬜ | Industries/Humanoid Robot CNC Machining/humanoid-robot-hand-machining.md |
 | ⬜ | Industries/Humanoid Robot CNC Machining/humanoid-robot-joint-machining.md |
