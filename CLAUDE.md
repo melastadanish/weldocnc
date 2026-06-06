@@ -11,6 +11,9 @@
 `_system/WritingSystem.md` · `_system/CLIENT-DATA-MAP.md` · `_system/competitors.md`
 For industry pages also read: `_system/industry-template.md`
 For service pages also read: `_system/service-template.md`
+For metal material pages also read: `_system/material-metal-template.md`
+For plastic material pages also read: `_system/material-plastic-template.md`
+For surface finish pages also read: `_system/surface-finish-template.md`
 
 ## Definition of Done
 All five passes (A→B→N→D→C) complete · no banned claims · "Weldo CNC" spelling everywhere · every number traces to CLIENT-DATA-MAP · pass log added · progress.md updated to ✅ · committed and pushed.
