@@ -10,6 +10,7 @@
 ## Always Read Before Writing Any Page
 `_system/WritingSystem.md` · `_system/CLIENT-DATA-MAP.md` · `_system/competitors.md`
 For industry pages also read: `_system/industry-template.md`
+For service pages also read: `_system/service-template.md`
 
 ## Definition of Done
 All five passes (A→B→N→D→C) complete · no banned claims · "Weldo CNC" spelling everywhere · every number traces to CLIENT-DATA-MAP · pass log added · progress.md updated to ✅ · committed and pushed.

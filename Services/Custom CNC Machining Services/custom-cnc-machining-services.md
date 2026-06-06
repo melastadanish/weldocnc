@@ -68,7 +68,59 @@ Custom CNC machining covers a broad range: structural brackets, fluid manifolds,
 
 ---
 
-## SECTION 4 — OUR CNC MACHINING & FABRICATION SERVICES
+## SECTION 4 — CNC MACHINING PROCESS VARIANTS
+*Design: H2 centred + subheading. 3-column card grid. Light grey background.*
+
+**H2:**
+CNC Machining Processes
+
+**Subheading:**
+Three core processes — the right one is determined by your part geometry, not machine availability.
+
+**Card 1 — CNC Milling:**
+Title: CNC Milling
+Body: Rotating cutting tools remove material from a fixed workpiece — 3-axis, 4-axis, and 5-axis. The right process for prismatic geometry: flat faces, pockets, slots, profiles, and complex contoured surfaces. 3-axis covers most standard work. 4-axis adds rotational indexing for multi-face parts. 5-axis handles compound angles, undercuts, and freeform surfaces in a single setup.
+Specs:
+- Best for: Brackets, housings, manifolds, structural parts, complex multi-face components
+- Tolerance: ±0.005 mm · 5-axis: ±0.003 mm
+
+**Card 2 — CNC Turning:**
+Title: CNC Turning
+Body: The workpiece rotates while the cutting tool stays fixed — significantly faster than milling for cylindrical geometry. Standard 2-axis turning handles shafts, bushings, and flanges. Live tooling adds milling capability on-lathe for cross-holes and flats without a second setup. Swiss turning uses a guide bushing to support slender parts at the cut point — enabling tight tolerances on high-L:D components that deflect on standard lathes.
+Specs:
+- Best for: Shafts, pins, bushings, valves, nozzles, slender precision components
+- Tolerance: ±0.005 mm · Max diameter: Ø200 mm
+
+**Card 3 — 5-Axis CNC Machining:**
+Title: 5-Axis CNC Machining
+Body: Two rotational axes added to X, Y, Z — the spindle approaches from almost any angle. The real benefit is setup reduction: a 4-setup 3-axis job becomes a single-setup 5-axis job, with no datum error accumulating across transitions. 3+2 positional 5-axis covers most "5-axis" work. Full simultaneous 5-axis is required for true freeform surfaces — turbine blades, impellers, complex organic geometry.
+Specs:
+- Best for: Aerospace structures, medical implants, complex multi-face parts, freeform surfaces
+- Tolerance: ±0.003 mm in a single setup
+
+---
+
+## SECTION 5 — WHEN CNC MACHINING IS THE RIGHT PROCESS
+*Design: H2. 2-column comparison. White background.*
+
+**H2:**
+When CNC Machining is the Right Process
+
+**Choose CNC Machining When:**
+No hard tooling is required — the same CAD file produces parts on Monday and Friday with no tooling change. CNC machining is the correct choice when: (1) the part requires functional tolerances in a real engineering material; (2) quantities range from 1 prototype to low thousands, where tooling amortisation makes casting or injection moulding uncompetitive; (3) the design is still evolving — geometry changes cost nothing in tooling, only in setup time.
+- Prototypes through production in a single process
+- 100+ material options — same machines, no tooling change
+- Geometry changes: update the file, not the tooling
+
+**When an Alternative May Win:**
+High volume of a simple shape — casting or injection moulding reduces unit cost significantly above a few thousand pieces. A single rough prototype of a non-functional shape — 3D printing may be faster and cheaper. Sheet metal profiles — bending and laser cutting outperform milling for thin flat geometry. If the part sits on the boundary, upload the STEP file and the most efficient process will be confirmed at quote stage.
+- High volumes (10,000+): consider casting or moulding
+- Thin flat sheet geometry: laser cutting or forming
+- Non-functional single prototypes: 3D printing
+
+---
+
+## SECTION 6 — OUR CNC MACHINING & FABRICATION SERVICES
 *Design: H2 centred, service cards in a row (5 cards with icon + title + short description).*
 
 **H2:**
@@ -96,7 +148,7 @@ Description: 50+ finish options — anodizing, powder coating, passivation, bead
 
 ---
 
-## SECTION 5 — CNC MACHINING CAPABILITIES & STANDARDS
+## SECTION 7 — CNC MACHINING CAPABILITIES & STANDARDS
 *Design: Section heading, 2-column table. Full width.*
 
 **Section heading:**
@@ -123,7 +175,7 @@ CNC Machining Capabilities & Standards
 
 ---
 
-## SECTION 6 — METALS WE MACHINE
+## SECTION 8 — METALS WE MACHINE
 *Design: Section heading + subheading, pill/chip links in rows. Light grey background.*
 
 **Section heading:**
@@ -137,7 +189,7 @@ Aluminium CNC Machining · Aluminium 6061 · Aluminium 7075 · Stainless Steel C
 
 ---
 
-## SECTION 7 — ENGINEERING PLASTICS
+## SECTION 9 — ENGINEERING PLASTICS
 *Design: Section heading, pill/chip links. White background.*
 
 **Section heading:**
@@ -148,7 +200,7 @@ PEEK · Delrin (POM) · Nylon (PA) · ABS · Polycarbonate · PTFE (Teflon) · A
 
 ---
 
-## SECTION 8 — SURFACE FINISHES WE OFFER
+## SECTION 10 — SURFACE FINISHES WE OFFER
 *Design: H2 centred, 6-card grid (3×2). Light grey background.*
 
 **H2:**
@@ -180,7 +232,7 @@ Description: Electrochemical process for stainless steel and aluminium. Removes 
 
 ---
 
-## SECTION 9 — DESIGN GUIDELINES FOR CNC MACHINING
+## SECTION 11 — DESIGN GUIDELINES FOR CNC MACHINING
 *Design: H2, 2-column — DFM rules list left, supporting copy + CTA right.*
 
 **H2:**
@@ -204,27 +256,31 @@ Upload your file for a free DFM review with your quote
 
 ---
 
-## SECTION 10 — INDUSTRIES WE SERVE
-*Design: "INDUSTRIES WE SERVE" heading, large image cards in a grid row with industry name below each.*
+## SECTION 12 — APPLICATIONS & INDUSTRIES
+*Design: H2. Left column: applications table. Right column: industry icon/label grid. White background.*
 
-**Section heading (all caps, as per design):**
-INDUSTRIES WE SERVE
+**H2:**
+Custom CNC Machining Applications
 
-**Industry cards (image + name label):**
-1. Aerospace CNC Machining
-2. Medical CNC Machining
-3. Automotive CNC Machining
-4. Electronics CNC Machining
-5. Defence CNC Machining
-6. Mining CNC Machining
-7. Robotics CNC Machining
-8. Humanoid Robot CNC Machining
-9. Energy CNC Machining
-10. Industrial Machinery CNC Machining
+**Applications table:**
+
+| Category | Typical Parts |
+|---|---|
+| Structural | Brackets, frames, gussets, mounting plates, structural links |
+| Fluid Systems | Manifolds, valve bodies, pump housings, hydraulic blocks |
+| Enclosures & Housings | Electronics enclosures, instrument cases, actuator covers |
+| Thermal Management | Heat sinks, cold plates, liquid cooling blocks |
+| Medical | Surgical instrument bodies, implant tooling, fixtures, bone screws |
+| Aerospace | Structural ribs, spars, fittings, brackets, avionics housings |
+| Robotics & Automation | Joint links, actuator housings, end-effector bodies, motor mounts |
+| Tooling & Fixtures | Jig plates, fixture bases, locating blocks, forming inserts |
+
+**Industry card labels:**
+Aerospace CNC Machining · Medical CNC Machining · Automotive CNC Machining · Electronics CNC Machining · Defence CNC Machining · Mining CNC Machining · Robotics CNC Machining · Humanoid Robot CNC Machining · Energy CNC Machining · Industrial Machinery CNC Machining
 
 ---
 
-## SECTION 11 — QUALITY CONTROL & PRODUCTION INSPECTION
+## SECTION 13 — QUALITY CONTROL & PRODUCTION INSPECTION
 *Design: H2, 2-column — image/photo left, 3-step checklist right.*
 
 **H2:**
@@ -247,7 +303,7 @@ Body: Measured values recorded per feature — nominal, tolerance, actual, pass/
 
 ---
 
-## SECTION 12 — GALLERY
+## SECTION 14 — GALLERY
 *Design: Eyebrow label + H2, masonry image grid (6–8 photos).*
 
 **Eyebrow label:**
@@ -266,7 +322,7 @@ Parts We've Machined
 
 ---
 
-## SECTION 13 — WHY ENGINEERS SPECIFY WELDO CNC
+## SECTION 15 — WHY ENGINEERS SPECIFY WELDO CNC
 *Design: H2, 2-column — first feature large left (with number/stat), remaining features as expandable accordion items right.*
 
 **H2:**
@@ -295,7 +351,7 @@ Body: Dimensional inspection report, material certificate, and packing list ship
 
 ---
 
-## SECTION 14 — FREQUENTLY ASKED QUESTIONS
+## SECTION 16 — FREQUENTLY ASKED QUESTIONS
 *Design: H2, accordion list. White background. First item open.*
 
 **H2:**
@@ -335,7 +391,7 @@ A: Hubs quotes CNC tolerances to ±0.020 mm as standard — Weldo CNC holds ±0.
 
 ---
 
-## SECTION 15 — TECHNICAL RESOURCES & GUIDES
+## SECTION 17 — TECHNICAL RESOURCES & GUIDES
 *Design: H2, 3-card grid. Light grey background.*
 
 **H2:**
@@ -358,7 +414,7 @@ Link: Read the guide →
 
 ---
 
-## SECTION 16 — FINAL CTA BANNER
+## SECTION 18 — FINAL CTA BANNER
 *Design: Full-width dark navy banner. Centred heading + body + single CTA button.*
 
 **H2 (all caps as per design):**
