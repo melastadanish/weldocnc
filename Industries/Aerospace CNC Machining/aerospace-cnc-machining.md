@@ -265,6 +265,7 @@ The core difference is documentation and traceability. Local shops may machine t
 **Finishes:** [[anodizing-cnc-machining-services]] | [[passivation-cnc-machining-services]] | [[chromate-conversion-cnc-machining-services]]
 **Quality:** [[quality-assurance]]
 **Knowledge Base:** [[design-for-manufacturability]] | [[cnc-surface-finish-guide]]
+**Locations:** [[cnc-machining-uk]] | [[cnc-machining-usa]] | [[cnc-machining-london]] | [[cnc-machining-manchester]] | [[cnc-machining-birmingham]] | [[cnc-machining-bristol]] | [[cnc-machining-cambridge]] | [[cnc-machining-edinburgh]]
 
 ---
 ## Pass Log
