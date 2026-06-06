@@ -215,7 +215,6 @@ Remaining 2 questions: industry-specific (e.g. traceability for aerospace, DFM i
 **Finishes:** relevant finish pages
 **Quality:** [[quality-assurance]]
 **Knowledge Base:** relevant blog/guide pages
-**Locations:** country pages (e.g. [[cnc-machining-uk]] | [[cnc-machining-usa]]) + relevant city pages (e.g. [[cnc-machining-london]] | [[cnc-machining-manchester]])
 
 ---
 
