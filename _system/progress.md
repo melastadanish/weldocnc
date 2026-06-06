@@ -243,13 +243,13 @@
 ### UK
 | Status | File | Notes |
 |---|---|---|
-| 📝 | Locations/cnc-machining-uk.md | Written — needs WritingSystem review |
-| 📝 | Locations/cnc-machining-london.md | Written — needs review |
-| 📝 | Locations/cnc-machining-birmingham.md | Written — needs review |
-| 📝 | Locations/cnc-machining-bristol.md | Written — needs review |
-| 📝 | Locations/cnc-machining-cambridge.md | Written — needs review |
-| 📝 | Locations/cnc-machining-edinburgh.md | Written — needs review |
-| 📝 | Locations/cnc-machining-manchester.md | Written — needs review |
+| ✅ | Locations/cnc-machining-uk.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-london.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-birmingham.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-bristol.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-cambridge.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-edinburgh.md | Five-pass review complete — 2026-06-06 |
+| ✅ | Locations/cnc-machining-manchester.md | Five-pass review complete — 2026-06-06 |
 | ⬜ | Locations/cnc-machining-uk/ — service+country pages (6) | Not started |
 
 ### Germany
@@ -274,7 +274,7 @@
 | ✅ | Alternatives/hubs-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
 | ✅ | Alternatives/protolabs-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
 | ✅ | Alternatives/rapiddirect-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
-| 📝 | Alternatives/fictiv-alternative.md | Written — needs review |
+| ✅ | Alternatives/fictiv-alternative.md | Five-pass review complete, rewritten to 12-section template — 2026-06-06 |
 
 ---
 

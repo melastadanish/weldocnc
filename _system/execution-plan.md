@@ -50,14 +50,14 @@
 - [x] `[REVIEW]` `Alternatives/hubs-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
 - [x] `[REVIEW]` `Alternatives/protolabs-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
 - [x] `[REVIEW]` `Alternatives/rapiddirect-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
-- [ ] `[REVIEW]` `Alternatives/fictiv-alternative.md` (~125 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-uk.md` (~258 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-london.md` (~237 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-birmingham.md` (~226 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-bristol.md` (~225 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-cambridge.md` (~228 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-edinburgh.md` (~225 lines)
-- [ ] `[REVIEW]` `Locations/cnc-machining-manchester.md` (~228 lines)
+- [x] `[REVIEW]` `Alternatives/fictiv-alternative.md` — rewritten to 12-section template, five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-uk.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-london.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-birmingham.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-bristol.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-cambridge.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-edinburgh.md` — five-pass complete 2026-06-06
+- [x] `[REVIEW]` `Locations/cnc-machining-manchester.md` — five-pass complete 2026-06-06
 
 ---
 
