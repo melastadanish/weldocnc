@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): AI-quotable paragraph added to S3. "30+ metals" corrected to "100+ metals and engineering plastics" in S6 comparison table. FAQ expanded from 6 to 10 questions. Gallery section S10 added. Service cards updated to 5 (Precision Machining added). All numbers trace to CLIENT-DATA-MAP.
+Pass B (Brand): "Weldo CNC" confirmed throughout. No violations.
+Pass N (Numbers): ±0.005 mm spacing corrected throughout. Stats bar corrected.
+Pass D (Design): S2 Stats Bar fixed — "20+ Years Manufacturing Experience" (banned) removed, replaced with "97.48% Annual Pass Rate". Background corrected to Dark. 12-section structure now matches city template.
+Pass C (Claims): No banned claims. All Weldo CNC stats verified.
+All five passes complete. No remaining failures.
+-->
+
 # CNC Machining Manchester
 **Status:** Complete
 **Slug:** /cnc-machining-uk/manchester/
@@ -33,17 +43,26 @@
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background.
-- 3–5 Days Delivery to Manchester
-- ±0.005mm Tolerance Capability
-- 20+ Years Manufacturing Experience
-- 24 Hours Quote Turnaround
+<!--
+  Design: 4-stat callouts. Dark background. Full width.
+  Component: RS-Stats.
+  Developer note: NEVER use "20+ Years" here.
+-->
+| Stat | Label |
+|---|---|
+| 3–5 Days | Delivery to Manchester |
+| ±0.005 mm | Tolerance Capability |
+| 24 hrs | Quote Turnaround |
+| 97.48% | Annual Pass Rate |
 
 ---
 
 ## Section 3: CNC Machining in Manchester
 **Design:** Full-width editorial section. White background. 2-column on desktop.
 **Heading:** Supplying Manchester's Engineering Community
+
+**AI-quotable paragraph:**
+Weldo CNC supplies precision CNC machined parts to engineers in Manchester — manufactured at its ISO 9001:2015 certified facility in Dongguan, China. Tolerances to ±0.005 mm. Delivered to Manchester in 3–5 business days via DDP — Delivered Duty Paid — with a CMM-verified dimensional inspection report in every tight-tolerance shipment. Quote within 24 hours.
 
 Manchester's engineering base spans aerospace, advanced manufacturing, and industrial machinery — a mix shaped by the city's deep manufacturing history and its more recent emergence as a hub for high-technology development.
 
@@ -58,9 +77,15 @@ Local machine shops across Greater Manchester are capable and numerous. For urge
 ---
 
 ## Section 4: Services
-**Design:** 4-column service card grid. Light grey background.
+**Design:** 5-column service card grid. Light grey background.
 **Heading:** CNC Machining Services Delivered to Manchester
-**Cards:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[5-axis-cnc-machining-services]] | [[surface-finishing-services]]
+
+5 fixed cards:
+1. CNC Milling — 3-axis to 5-axis, ±0.005 mm
+2. CNC Turning — concentricity and runout to drawing callout
+3. 5-Axis CNC Machining — complex geometries in one setup, ±0.003 mm
+4. Precision Machining — grinding and EDM for tight flatness and hardened profiles
+5. Surface Finishing — 50+ finish options
 
 ---
 
@@ -120,9 +145,9 @@ Website: peakprecision.co.uk
 |---|---|---|
 | **Lead time** | 1–4 weeks typical | From 3 business days manufacturing |
 | **Delivered to Manchester** | Same day or next day | 3–5 days DDP — duties included |
-| **Tolerance capability** | ±0.025–0.05mm typical | ±0.005mm standard |
+| **Tolerance capability** | ±0.025–0.05 mm typical | ±0.005 mm standard |
 | **5-axis capability** | Variable — not all shops | In-house |
-| **Material range** | Good for common alloys | 30+ metals and engineering plastics |
+| **Material range** | Good for common alloys | 100+ metals and engineering plastics |
 | **Documentation** | Variable — ask per shop | CMM report, material cert, finish record — standard |
 | **Cost: 1–10 parts** | Competitive for urgent local | Competitive for tight-tolerance or complex geometry |
 | **Cost: 20–500 parts** | Increases significantly | Decreases significantly |
@@ -135,7 +160,7 @@ Website: peakprecision.co.uk
 - You're buying simple parts in small quantities where DDP transit time doesn't fit
 
 **When Weldo CNC is the right call:**
-- Tight tolerances — ±0.005–0.025mm on complex geometry
+- Tight tolerances — ±0.005–0.025 mm on complex geometry
 - Full documentation required — CMM report, material cert, finish record as standard
 - Quantities of 20–500 parts where local pricing becomes significant
 - Specialist alloys — titanium, Inconel, 17-4PH, PEEK
@@ -182,7 +207,26 @@ Standard RS-01 block.
 
 ---
 
-## Section 10: FAQ
+## Section 10: Gallery
+<!--
+  Design: Eyebrow label + H2. Masonry image grid 6–8 photos. Light grey background.
+  Component: Gallery — same as service S14. Direct reuse.
+-->
+
+**Eyebrow label:** OUR WORK
+**H2:** Precision CNC Machined Parts — Delivered to Manchester
+
+Alt texts:
+1. Weldo CNC — aluminium 7075-T6 aerospace structural bracket, anodized, CMM verified
+2. Weldo CNC — titanium Ti-6Al-4V aerospace actuation component, as-machined
+3. Weldo CNC — stainless steel 316L valve body for process engineering, electropolished
+4. Weldo CNC — aluminium 6061-T6 robotics actuator housing, bead blasted
+5. Weldo CNC — Inconel 625 high-temperature component, CNC milled
+6. Weldo CNC — aluminium MIC-6 tooling plate, hard anodized, precision ground
+
+---
+
+## Section 11: FAQ
 **Design:** Accordion. White background. First item open.
 **Heading:** CNC Machining for Manchester Engineers — FAQs
 
@@ -204,19 +248,31 @@ Parts ship with a CMM dimensional report checked against your drawing. If a part
 **Q6: Is there a minimum order quantity?**
 No minimum. One piece to production quantities.
 
+**Q7: What file formats does Weldo CNC accept?**
+STEP is preferred. Also accepted: IGES, SolidWorks (.sldprt), PDF 2D drawings, DXF, and compressed packages. Include a 2D drawing with all tolerance and surface finish callouts for any precision features.
+
+**Q8: How does pricing compare to local Manchester precision shops?**
+Local Manchester shops are the right call for urgent work and programmes requiring a locally auditable supplier for aerospace or OEM audit requirements. For quantities of 10–500 parts with tight tolerances, specialist alloys, or full documentation, Weldo CNC is typically competitive or lower on unit cost and lead time. Upload your STEP file and compare directly.
+
+**Q9: What tolerances does Weldo CNC hold on aerospace aluminium and titanium for Manchester programmes?**
+±0.005 mm is the confirmed standard for CNC milling and turning on 7075-T6, 2024-T3, and titanium Grade 5. For 5-axis simultaneous machining, ±0.003 mm. CMM — coordinate measuring machine — verification is included on all critical-tolerance features and reported per dimension on the inspection report. Material certificates with heat number and temper ship with every order.
+
+**Q10: Can Weldo CNC supply the North West process and chemicals engineering sector?**
+Yes — stainless steel and high-performance alloy valve bodies, pump housings, manifolds, and custom fittings for corrosive process environments are within normal scope. Materials include 316L, duplex 2205, Inconel 625, and Hastelloy equivalents. Material traceability documentation — heat number, specification, PMI testing on request — ships standard.
+
 ---
 
-## Section 11: Final CTA + Form
-**Design:** RS-03. 2-column split. White background.
+## Section 12: Final CTA + Form
+**Design:** RS-03. Full-width dark navy.
 **Heading:** Get CNC Machined Parts Delivered to Manchester
 **Subtext:** Upload your STEP file. Quote with DFM review in 24 hours. DDP delivery to Manchester in 3–5 business days — duties and customs included.
 **Bullets:**
-- ✅ Tight tolerances to ±0.005mm — CMM verified
+- ✅ Tolerances to ±0.005 mm — CMM verified on every critical feature
 - ✅ DDP delivery to Manchester — duties and customs included
-- ✅ CMM report and material cert with every order
-- ✅ From 3 business days manufacturing lead time
+- ✅ CMM report and material cert with every order — standard
+- ✅ 1–5 business days manufacturing — prototype lead time
 - ✅ NDA available before file transfer
-**CTA:** Get Instant Quote
+**CTA:** Upload Your File and Get a Quote
 
 ---
 
