@@ -6,6 +6,8 @@ Pass N (Numbers): S2 corrected to verified stats only. S4 Electropolishing — r
 Pass D (Design): S2 background corrected from "Light grey" to "Dark" per RS-Stats component standard. No other structural issues.
 Pass C (Claims): All banned claims removed. No "20+ years", no lead time claims, no sub-banned Ra values remain.
 All five passes complete. No remaining failures.
+
+Second review — 2026-06-06: Hero badge "In-House Finishing" → "50+ Surface Finishes" (contradicted external partner disclosure in S11). Ra 0.8–3.2µm removed from S3 body and S4 table (CLIENT-TO-CONFIRM value). AI-quotable paragraph added to S3. Semantic terms added: adhesion, substrate prep, grit sequence (S3). FAQ expanded from 6 to 11 questions — all 8 required topics now covered: cost/pricing (Q7), MOQ (Q8), file formats (Q9), quality verification (Q10), competitor comparison vs RapidDirect (Q11).
 -->
 
 # Surface Finishing Services
@@ -40,7 +42,7 @@ All five passes complete. No remaining failures.
 - Label tag: `SURFACE FINISHING`
 - H1: Surface Finishing Services
 - Subheading: Metal finishing services applied to CNC machined parts — anodizing, passivation, powder coating, electropolishing, nickel plating, and more. Every finish specified, controlled, and documented from our Dongguan facility.
-- Trust badges: ✔ ISO 9001:2015 Certified | ✔ In-House Finishing | ✔ Quote in 24 Hours
+- Trust badges: ✔ ISO 9001:2015 Certified | ✔ 50+ Surface Finishes | ✔ Quote in 24 Hours
 - CTA Primary: Get an Instant Quote | CTA Secondary: View All Finishes
 
 ---
@@ -58,13 +60,15 @@ All five passes complete. No remaining failures.
 **Design:** 2-column — text left, image right. White background.
 **Heading:** Beyond the Machined Surface
 
-As-machined parts are functional. For many applications — internal components, tooling, fixturing, structural parts where no surface is exposed — the machined finish is exactly right. Ra 0.8–3.2µm, visible toolmarks, no secondary process. That's fine. But it isn't always enough.
+Weldo CNC applies surface finishing to CNC machined parts from its facility in Dongguan, China — anodizing, passivation, electropolishing, nickel plating, powder coating, chromate conversion, bead blasting, and more. ISO 9001:2015 certified, operating since 2012. Every finish is specified, controlled, and documented: coating thickness recorded, masking confirmed, and a finish process record shipped with every order.
+
+As-machined parts are functional. For internal components, tooling, fixturing, and structural parts where no surface is exposed — the machined finish is exactly right. Visible toolmarks, no secondary process. That's fine. But it isn't always enough.
 
 Corrosion is the most common reason engineers specify a finish. A bare aluminium part left in a humid environment oxidises. A stainless steel part that hasn't been passivated has free iron at the surface that will corrode faster than the base alloy. A steel part without coating or oxide treatment will rust. The right metal finishing service addresses this — and the right one depends on the material, the environment, and whether the part needs to be conductive, decorative, or wear-resistant.
 
 The second reason is dimensional. Some finishes add no thickness at all — passivation, black oxide, chromate conversion. Others add measurable layers that affect tolerances on mating features — anodizing adds up to 50µm per side on hardcoat, powder coating adds 50–100µm. If you have a bore with an H7 fit tolerance and you're anodizing after machining, the anodizing needs to be accounted for in the pre-coat dimensions, or masked off entirely.
 
-We manage both considerations. Finishing is planned as part of the manufacturing sequence, not added as an afterthought.
+Adhesion and substrate prep matter too. A coating applied to a contaminated or incorrect-Ra surface will fail — peel, blister, or show inconsistent coverage — regardless of how well the part was machined. Substrate preparation — cleaning, degreasing, the correct grit sequence for bead blast or brushed finish — is part of the finishing process, not a pre-flight courtesy. We manage all of this. Finishing is planned as part of the manufacturing sequence, not added as an afterthought.
 
 ---
 
@@ -74,7 +78,7 @@ We manage both considerations. Finishing is planned as part of the manufacturing
 
 | Finish | Description | Dimensional Impact | Applicable Materials |
 |---|---|---|---|
-| **As Machined** | Default finish — visible toolmarks, Ra 0.8–3.2µm. Burrs removed, sharp edges broken. No secondary process. | None | All metals and plastics |
+| **As Machined** | Default finish — visible toolmarks. Burrs removed, sharp edges broken. No secondary process. Ra value depends on material, toolpath, and feed rate. | None | All metals and plastics |
 | **Bead Blasting** | Uniform matte texture, isotropic (no grain direction). Removes toolmarks and oxidation. Improves cosmetic consistency across a batch. | Negligible (<0.01mm) | Aluminium, stainless, titanium, brass, plastics |
 | **Brushed Finish** | Directional satin texture applied with abrasive belt or pad. Masks minor surface scratches. Consistent grain direction across specified surfaces. | Negligible | Aluminium, stainless steel, brass |
 | **Anodizing Type II** | Electrochemical oxide layer on aluminium. Corrosion resistance, colour options (clear, black, blue, red, gold). Ra unchanged. Electrically insulating. | +5–25µm per side | Aluminium alloys only |
@@ -215,6 +219,21 @@ At minimum: finish type, applicable standard, and the surfaces it applies to. Ex
 
 **Q6: What's the lead time for surface finished parts?**
 Machining lead time plus finishing. For in-house processes — bead blast, brushed, black oxide — typically adds 1 business day. For external finishing — anodizing, powder coat, nickel plating, electropolishing — typically adds 2–4 business days. We include finishing lead time in the quote so the total delivery date is clear before you confirm. Rush finishing is available on some processes — flag it in the RFQ if timeline is critical.
+
+**Q7: How much does surface finishing add to the cost of CNC parts?**
+Finishing cost depends on the process, surface area, masking complexity, and whether a specification-compliant process is required (e.g. MIL-A-8625 anodize, ASTM A967 passivation). Simple finishes — bead blasting, black oxide — add a modest cost per part. Processes requiring controlled bath chemistry, thickness testing, and documentation — anodizing Type III, electroless nickel, electropolishing — add more. The quote covers machining and finishing together. Upload your STEP file and 2D drawing with finish requirement — a full price comes back within 24 hours.
+
+**Q8: What is the minimum order quantity for surface finished parts?**
+No minimum order quantity on CNC machined and finished parts. Weldo CNC accepts orders from a single part upward. Prototype quantities receive the same inspection and documentation as production runs — CMM-verified dimensions, finish process record, and material certificate ship with every order regardless of volume.
+
+**Q9: What file formats do you need to specify a surface finish?**
+A STEP file for the 3D geometry and a PDF or DWG 2D drawing with the finish callout. The drawing should note: finish type, applicable standard, surfaces to be finished, masking zones, and any colour or thickness requirements. If your drawing doesn't carry a formal finish callout, send a written specification alongside the STEP file and we'll advise on the correct approach before the job enters the queue.
+
+**Q10: How do I know the finished parts meet my specification?**
+Every finished order ships with a finish process record — process parameters, bath verification date, coating thickness measurements, and visual inspection sign-off. ISO 9001:2015 certified, Weldo CNC holds a 97.48% annual pass rate. Coating thickness is verified using calibrated instruments — eddy current for aluminium substrates, magnetic induction for steel — at final inspection, not estimated. The documentation package ships with the parts.
+
+**Q11: How does Weldo CNC compare to using a separate finishing subcontractor?**
+A standalone finishing house receives your parts without drawing context — masking requirements, pre-coat dimensions, and fit tolerances must be communicated separately, and failures happen at that handoff. Weldo CNC finishes parts it has already machined, with the drawing, masking plan, and pre-coat dimensions already in the job file. That continuity removes the most common failure mode: coating applied to a bore that was never supposed to be coated. RapidDirect, for comparison, spans 10+ manufacturing processes — finishing is one item among many. At Weldo CNC, machining and finishing sit under one ISO 9001:2015 quality system and one point of contact.
 
 ---
 
