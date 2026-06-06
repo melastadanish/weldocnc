@@ -74,10 +74,10 @@
 - [ ] `[WRITE]` `Alternatives/xometry-alternative.md` (empty — 0 lines)
 
 ### General Pages
-- [ ] `[WRITE]` `General Pages/about-us.md` (stub — check actual state)
-- [ ] `[WRITE]` `General Pages/faq.md` (stub — check actual state)
-- [ ] `[WRITE]` `General Pages/get-a-quote.md` (stub — check actual state)
-- [ ] `[WRITE]` `General Pages/contact.md` (stub — check actual state)
+- [x] `[WRITE]` `General Pages/about-us.md` — 9 sections written, five-pass complete (2026-06-06)
+- [x] `[WRITE]` `General Pages/faq.md` — 5 sections, 35 questions across 7 topics, five-pass complete (2026-06-06)
+- [x] `[WRITE]` `General Pages/get-a-quote.md` — 7 sections written, five-pass complete (2026-06-06)
+- [x] `[WRITE]` `General Pages/contact.md` — 6 sections written, five-pass complete (2026-06-06)
 
 ---
 

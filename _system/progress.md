@@ -17,10 +17,10 @@
 | Status | File | Notes |
 |---|---|---|
 | ✅ | General Pages/home.md | Five-pass review complete (A→B→N→D→C) |
-| ⬜ | General Pages/about-us.md | Stub |
-| ⬜ | General Pages/contact.md | Stub |
-| ⬜ | General Pages/get-a-quote.md | Stub |
-| ⬜ | General Pages/faq.md | Stub |
+| ✅ | General Pages/about-us.md | Five-pass complete, 9 sections written — 2026-06-06 |
+| ✅ | General Pages/contact.md | Five-pass complete, 6 sections written — 2026-06-06 |
+| ✅ | General Pages/get-a-quote.md | Five-pass complete, 7 sections written — 2026-06-06 |
+| ✅ | General Pages/faq.md | Five-pass complete, 5 sections, 35 questions across 7 topics — 2026-06-06 |
 | ✅ | General Pages/quality-assurance.md | Five-pass review complete (A→B→N→D→C) — 2026-06-05 |
 
 ---
