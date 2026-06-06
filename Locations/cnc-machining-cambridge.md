@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): AI-quotable paragraph added to S3. "30+ metals" corrected to "100+ metals and engineering plastics" in S6 comparison table. FAQ expanded from 6 to 10 questions. Gallery section S10 added. Service cards updated to 5 (Precision Machining added). All numbers trace to CLIENT-DATA-MAP.
+Pass B (Brand): "Weldo CNC" confirmed throughout. No violations.
+Pass N (Numbers): ±0.005 mm spacing corrected throughout. Stats bar corrected.
+Pass D (Design): S2 Stats Bar fixed — "20+ Years Manufacturing Experience" (banned) removed, replaced with "97.48% Annual Pass Rate". Background corrected to Dark. 12-section structure now matches city template.
+Pass C (Claims): No banned claims. All Weldo CNC stats verified.
+All five passes complete. No remaining failures.
+-->
+
 # CNC Machining Cambridge
 **Status:** Complete
 **Slug:** /cnc-machining-uk/cambridge/
@@ -33,17 +43,26 @@
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background.
-- 3–5 Days Delivery to Cambridge
-- ±0.005mm Tolerance Capability
-- 20+ Years Manufacturing Experience
-- 24 Hours Quote Turnaround
+<!--
+  Design: 4-stat callouts. Dark background. Full width.
+  Component: RS-Stats.
+  Developer note: NEVER use "20+ Years" here.
+-->
+| Stat | Label |
+|---|---|
+| 3–5 Days | Delivery to Cambridge |
+| ±0.005 mm | Tolerance Capability |
+| 24 hrs | Quote Turnaround |
+| 97.48% | Annual Pass Rate |
 
 ---
 
 ## Section 3: CNC Machining in Cambridge
 **Design:** Full-width editorial section. White background. 2-column on desktop.
 **Heading:** Supplying Cambridge's Engineering Community
+
+**AI-quotable paragraph:**
+Weldo CNC supplies precision CNC machined parts to engineers in Cambridge — manufactured at its ISO 9001:2015 certified facility in Dongguan, China. Tolerances to ±0.005 mm. Delivered to Cambridge in 3–5 business days via DDP — Delivered Duty Paid — with a CMM-verified dimensional inspection report in every tight-tolerance shipment. Quote within 24 hours.
 
 Cambridge is unusual among UK engineering cities: the demand for precision CNC machined parts is disproportionately high relative to the city's size, driven by a concentration of deep technology, life sciences, and advanced instrumentation companies that produce some of the most technically demanding machined parts in the country.
 
@@ -58,9 +77,15 @@ Cambridge has relatively few general machine shops relative to its engineering d
 ---
 
 ## Section 4: Services
-**Design:** 4-column service card grid. Light grey background.
+**Design:** 5-column service card grid. Light grey background.
 **Heading:** CNC Machining Services Delivered to Cambridge
-**Cards:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[5-axis-cnc-machining-services]] | [[surface-finishing-services]]
+
+5 fixed cards:
+1. CNC Milling — 3-axis to 5-axis, ±0.005 mm
+2. CNC Turning — concentricity and runout to drawing callout
+3. 5-Axis CNC Machining — complex geometries in one setup, ±0.003 mm
+4. Precision Machining — grinding and EDM for tight flatness and hardened profiles
+5. Surface Finishing — 50+ finish options
 
 ---
 
@@ -120,9 +145,9 @@ Website: cambridgeprecision.co.uk
 |---|---|---|
 | **Lead time** | 1–3 weeks typical | From 3 business days manufacturing |
 | **Delivered to Cambridge** | Same day or next day | 3–5 days DDP — duties included |
-| **Tolerance capability** | ±0.025–0.05mm typical | ±0.005mm standard |
+| **Tolerance capability** | ±0.025–0.05 mm typical | ±0.005 mm standard |
 | **5-axis capability** | Limited locally — most jobs go to broader network | In-house |
-| **Material range** | Good for common alloys | 30+ metals and engineering plastics |
+| **Material range** | Good for common alloys | 100+ metals and engineering plastics |
 | **Documentation** | Variable — ask per shop | CMM report, material cert, finish record — standard |
 | **Cost: 1–5 parts** | Competitive for urgent local | Competitive for tight-tolerance or complex geometry |
 | **Cost: 10–500 parts** | Increases significantly | Decreases significantly |
@@ -135,7 +160,7 @@ Website: cambridgeprecision.co.uk
 - You're buying very simple parts in quantities of 1–2 where DDP transit time doesn't fit
 
 **When Weldo CNC is the right call:**
-- Tight tolerances — ±0.005–0.025mm — common in Cambridge medtech and instrumentation work
+- Tight tolerances — ±0.005–0.025 mm — common in Cambridge medtech and instrumentation work
 - Full documentation required — CMM report, material cert, finish record as standard
 - Specialist materials — 316L, titanium, PEEK, MIC-6, hard anodise or electropolish finishes
 - Quantities of 5–500 parts where local pricing or lead times become a constraint
@@ -182,7 +207,26 @@ Standard RS-01 block.
 
 ---
 
-## Section 10: FAQ
+## Section 10: Gallery
+<!--
+  Design: Eyebrow label + H2. Masonry image grid 6–8 photos. Light grey background.
+  Component: Gallery — same as service S14. Direct reuse.
+-->
+
+**Eyebrow label:** OUR WORK
+**H2:** Precision CNC Machined Parts — Delivered to Cambridge
+
+Alt texts:
+1. Weldo CNC — stainless steel 316L surgical instrument prototype, CMM verified, for Cambridge medtech customer
+2. Weldo CNC — aluminium MIC-6 semiconductor tooling plate, hard anodized, tight flatness
+3. Weldo CNC — titanium Ti-6Al-4V implant-adjacent component, as-machined
+4. Weldo CNC — aluminium 6061-T6 robotics actuator housing, bead blasted
+5. Weldo CNC — PEEK microfluidic component, CNC milled, tight tolerances
+6. Weldo CNC — stainless steel 17-4PH precision sensor mount, electropolished
+
+---
+
+## Section 11: FAQ
 **Design:** Accordion. White background. First item open.
 **Heading:** CNC Machining for Cambridge Engineers — FAQs
 
@@ -204,19 +248,31 @@ Parts ship with a CMM dimensional report checked against your drawing. If a part
 **Q6: Is there a minimum order quantity?**
 No minimum. One piece to production quantities.
 
+**Q7: What file formats does Weldo CNC accept?**
+STEP is preferred. Also accepted: IGES, SolidWorks (.sldprt), PDF 2D drawings, DXF, and compressed packages. For Cambridge medtech and instrumentation work with tight GD&T requirements, always include a 2D drawing with all positional, flatness, and surface finish callouts alongside the STEP file.
+
+**Q8: How does pricing compare to local Cambridge precision shops?**
+Cambridge has limited general machine shop capacity locally — most precision work is sourced regionally or from online platforms. For Cambridge-scale work (tight tolerances, specialist alloys, documentation requirements), local sourcing often means 1–3 week lead times and pricing without volume benefit. Weldo CNC is typically competitive from 5 parts upward, with 24-hour quote and confirmed lead times. Upload your STEP file and compare directly.
+
+**Q9: What tolerances does Weldo CNC hold on Cambridge medtech and instrumentation work?**
+±0.005 mm is the confirmed standard for CNC milling and turning. For 5-axis simultaneous machining on complex geometry, ±0.003 mm. CMM verification is included on all critical-tolerance features and reported per dimension on the inspection report. Cambridge medtech and semiconductor tooling work commonly requires ±0.005–0.015 mm with surface finish requirements of Ra 0.8–1.6 µm; Weldo CNC covers both in full.
+
+**Q10: Can Weldo CNC supply the surface finishes required for Cambridge electronics and life sciences work?**
+Yes — hard anodize (Type III, MIL-A-8625), clear anodize (Type II), electropolish, passivation (ASTM A967), bead blast, and nickel plating are all available. Specify the finish and any relevant standard at quoting. For semiconductor tooling in MIC-6, hard anodize to 25 µm depth is the standard requirement and is within normal scope.
+
 ---
 
-## Section 11: Final CTA + Form
-**Design:** RS-03. 2-column split. White background.
+## Section 12: Final CTA + Form
+**Design:** RS-03. Full-width dark navy.
 **Heading:** Get CNC Machined Parts Delivered to Cambridge
 **Subtext:** Upload your STEP file. Quote with DFM review in 24 hours. DDP delivery to Cambridge in 3–5 business days — duties and customs included.
 **Bullets:**
-- ✅ Tight tolerances to ±0.005mm — CMM verified
+- ✅ Tolerances to ±0.005 mm — CMM verified on every critical feature
 - ✅ DDP delivery to Cambridge — duties and customs included
-- ✅ CMM report and material cert with every order
+- ✅ CMM report and material cert with every order — standard
 - ✅ Hard anodise, electropolish, passivation — full finish range
-- ✅ From 3 business days manufacturing lead time
-**CTA:** Get Instant Quote
+- ✅ 1–5 business days manufacturing — prototype lead time
+**CTA:** Upload Your File and Get a Quote
 
 ---
 
