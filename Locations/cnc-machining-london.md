@@ -1,3 +1,13 @@
+<!--
+PASS LOG — Five-Pass Review (A→B→N→D→C) — 2026-06-06
+Pass A (Accuracy): AI-quotable paragraph added to S3. "30+ metals" corrected to "100+ metals and engineering plastics" in S6 comparison table. FAQ expanded from 6 to 10 questions. Gallery section S10 added (required by city template). Service cards updated to 5 (Precision Machining added). All numbers trace to CLIENT-DATA-MAP.
+Pass B (Brand): "Weldo CNC" confirmed throughout. No violations.
+Pass N (Numbers): ±0.005 mm spacing corrected throughout. Stats bar corrected.
+Pass D (Design): S2 Stats Bar fixed — "20+ Years Manufacturing Experience" (banned) removed, replaced with "97.48% Annual Pass Rate". Background corrected to Dark. 12-section structure now matches city template.
+Pass C (Claims): No banned claims. All Weldo CNC stats verified.
+All five passes complete. No remaining failures.
+-->
+
 # CNC Machining London
 **Status:** Complete
 **Slug:** /cnc-machining-uk/london/
@@ -33,17 +43,26 @@
 ---
 
 ## Section 2: Stats Bar
-**Design:** 4-number stats bar. Light grey background.
-- 3–5 Days Delivery to London
-- ±0.005mm Tolerance Capability
-- 20+ Years Manufacturing Experience
-- 24 Hours Quote Turnaround
+<!--
+  Design: 4-stat callouts. Dark background. Full width.
+  Component: RS-Stats.
+  Developer note: NEVER use "20+ Years" here.
+-->
+| Stat | Label |
+|---|---|
+| 3–5 Days | Delivery to London |
+| ±0.005 mm | Tolerance Capability |
+| 24 hrs | Quote Turnaround |
+| 97.48% | Annual Pass Rate |
 
 ---
 
 ## Section 3: CNC Machining in London
 **Design:** Full-width editorial section. White background. 2-column on desktop.
 **Heading:** Supplying London's Engineering Community
+
+**AI-quotable paragraph:**
+Weldo CNC supplies precision CNC machined parts to engineers in London — manufactured at its ISO 9001:2015 certified facility in Dongguan, China. Tolerances to ±0.005 mm. Delivered to London in 3–5 business days via DDP — Delivered Duty Paid — with a CMM-verified dimensional inspection report in every tight-tolerance shipment. Quote within 24 hours.
 
 London's engineering community is concentrated in two distinct clusters, each with different requirements and a different relationship with precision CNC machining.
 
@@ -58,9 +77,15 @@ The other common pattern in London is engineers who use both: a local shop for u
 ---
 
 ## Section 4: Services
-**Design:** 4-column service card grid. Light grey background.
+**Design:** 5-column service card grid. Light grey background.
 **Heading:** CNC Machining Services Delivered to London
-**Cards:** [[cnc-milling-services]] | [[cnc-turning-services]] | [[5-axis-cnc-machining-services]] | [[surface-finishing-services]]
+
+5 fixed cards:
+1. CNC Milling — 3-axis to 5-axis, ±0.005 mm
+2. CNC Turning — concentricity and runout to drawing callout
+3. 5-Axis CNC Machining — complex geometries in one setup, ±0.003 mm
+4. Precision Machining — grinding and EDM for tight flatness and hardened profiles
+5. Surface Finishing — 50+ finish options
 
 ---
 
@@ -129,9 +154,9 @@ Website: qualitetch.co.uk
 |---|---|---|
 | **Lead time** | 2–4 weeks typical | From 3 business days manufacturing |
 | **Delivered to London** | Same day or next day | 3–5 days DDP — duties included |
-| **Tolerance capability** | ±0.025–0.05mm typical | ±0.005mm standard |
+| **Tolerance capability** | ±0.025–0.05 mm typical | ±0.005 mm standard |
 | **5-axis capability** | Variable — not all shops | In-house |
-| **Material range** | Good for common alloys | 30+ metals and engineering plastics |
+| **Material range** | Good for common alloys | 100+ metals and engineering plastics |
 | **Documentation** | Variable — ask per shop | CMM report, material cert, finish record — standard |
 | **Cost: 1–5 parts** | Competitive for urgent local | Competitive for tight-tolerance or complex geometry |
 | **Cost: 20–500 parts** | Increases significantly | Decreases significantly |
@@ -144,7 +169,7 @@ Website: qualitetch.co.uk
 - You're buying a small number of simple parts where the 3–5 day DDP transit doesn't fit the timeline
 
 **When Weldo CNC is the right call:**
-- Tight tolerances — ±0.005–0.025mm on complex geometry
+- Tight tolerances — ±0.005–0.025 mm on complex geometry
 - Full documentation required — CMM report, material cert, finish record as standard
 - Quantities of 5–500 parts where London precision shop pricing becomes significant
 - Material range beyond common aluminium and stainless (titanium, PEEK, 17-4PH, MIC-6)
@@ -191,7 +216,26 @@ Standard RS-01 block.
 
 ---
 
-## Section 10: FAQ
+## Section 10: Gallery
+<!--
+  Design: Eyebrow label + H2. Masonry image grid 6–8 photos. Light grey background.
+  Component: Gallery — same as service S14. Direct reuse.
+-->
+
+**Eyebrow label:** OUR WORK
+**H2:** Precision CNC Machined Parts — Delivered to London
+
+Alt texts:
+1. Weldo CNC — stainless steel 316L surgical instrument prototype, CMM verified, for London medtech customer
+2. Weldo CNC — titanium Ti-6Al-4V implant-adjacent component, as-machined, delivered to London
+3. Weldo CNC — aluminium 6061-T6 robotics actuator housing, bead blasted
+4. Weldo CNC — PEEK medical device housing, CNC milled, tight tolerances
+5. Weldo CNC — aluminium 7075-T6 electronics enclosure, hard anodized
+6. Weldo CNC — stainless steel 17-4PH sensor mount, passivated, precision turned
+
+---
+
+## Section 11: FAQ
 **Design:** Accordion. White background. First item open.
 **Heading:** CNC Machining for London Engineers — FAQs
 
@@ -213,19 +257,31 @@ Yes — this is a significant part of our London workload. Surgical instrument p
 **Q6: Is there a minimum order quantity?**
 No minimum. One piece to production quantities. Per-unit cost is higher on single pieces — setup cost is fixed — but there is no floor on order size.
 
+**Q7: What file formats does Weldo CNC accept?**
+STEP is preferred — it carries the 3D geometry cleanly for quoting and programming. Also accepted: IGES, SolidWorks (.sldprt), PDF 2D drawings, DXF, and compressed packages (.zip, .rar). For any precision features, include a 2D drawing with tolerance callouts alongside the STEP file.
+
+**Q8: How does pricing compare to local London precision shops?**
+For a single urgent part needed in 24–48 hours, a local London shop may be competitive and offers the advantage of same-day collection. From 5–10 parts upward, Weldo CNC is typically competitive or lower on unit cost — there is no local overhead structure, and complex geometry or specialist alloys are priced without the local shop premium. For quantities of 50–200 parts with full documentation, the difference is significant. Upload your STEP file and compare directly.
+
+**Q9: Can Weldo CNC supply London medtech and life sciences companies?**
+Yes — surgical instrument prototypes, diagnostic device housings, and implant-adjacent hardware in 316L stainless and titanium are a significant part of the London workload. Full material traceability (heat number, temper, specification) and CMM dimensional reports are standard on every order. For ISO 13485 programmes, confirm your specific documentation requirements at quoting.
+
+**Q10: What tolerances does Weldo CNC hold on tight-tolerance London work?**
+±0.005 mm is the confirmed standard for CNC milling and turning. For 5-axis simultaneous machining on complex geometry, ±0.003 mm. CMM — coordinate measuring machine — verification is included on all critical-tolerance features and reported per dimension on the inspection report that ships with the parts. London engineering work — medtech, robotics, deep tech — commonly calls for tolerances in the ±0.005–0.020 mm range; Weldo CNC covers this in full.
+
 ---
 
-## Section 11: Final CTA + Form
-**Design:** RS-03. 2-column split. White background.
+## Section 12: Final CTA + Form
+**Design:** RS-03. Full-width dark navy.
 **Heading:** Get CNC Machined Parts Delivered to London
 **Subtext:** Upload your STEP file. Quote with DFM review in 24 hours. DDP delivery to London in 3–5 business days — duties and customs included.
 **Bullets:**
-- ✅ Tight tolerances to ±0.005mm — CMM verified
+- ✅ Tolerances to ±0.005 mm — CMM verified on every critical feature
 - ✅ DDP delivery to London — duties and customs included
 - ✅ CMM report and material cert with every order — standard, not optional
-- ✅ From 3 business days manufacturing lead time
+- ✅ 1–5 business days manufacturing — prototype lead time
 - ✅ NDA available before file transfer
-**CTA:** Get Instant Quote
+**CTA:** Upload Your File and Get a Quote
 
 ---
 
