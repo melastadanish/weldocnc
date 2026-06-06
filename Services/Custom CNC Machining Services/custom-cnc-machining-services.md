@@ -5,6 +5,7 @@ Pass N: AI-quotable paragraph in Section 3. Entity density confirmed. All 8 FAQ 
 Pass D: AI-quotable paragraph ✅. Entity clarity block in first 100 words ✅. All 8 FAQ topics ✅. Comparison FAQ ✅. Expertise signals ✅. Authority statements: ISO 9001:2015 + 97.48% ✅.
 Pass C: Headlines state outcomes ✅. Objections covered ✅. CTA journey mapped ✅. Differentiators present ✅. AI-written score ~10% ✅.
 Design-matched rewrite: 2026-06-05
+Section 11 realigned to 3-column table + 2-paragraph format matching service template: 2026-06-06
 -->
 
 # Custom CNC Machining Services
@@ -233,26 +234,34 @@ Description: Electrochemical process for stainless steel and aluminium. Removes 
 ---
 
 ## SECTION 11 — DESIGN GUIDELINES FOR CNC MACHINING
-*Design: H2, 2-column — DFM rules list left, supporting copy + CTA right.*
+*Design: H2, subheading, full-width 3-column table + 2 supporting paragraphs below. White background.*
 
 **H2:**
-Design Guidelines for CNC Machining
+CNC Machining Design Guidelines
 
-**DFM rules list (left column):**
-- Min wall thickness: 0.8 mm (metals) · 1.5 mm (plastics)
-- Internal corner radius: min 1/3 of cavity depth
-- Max hole depth: 12× diameter (standard drill)
-- Min thread engagement: 3× diameter for threads under Ø5 mm · 4–6× for Ø5 mm and above
-- Undercuts: flag on drawing — require special tooling
-- Call out tight tolerances only where functionally required
+**Subheading:**
+Rules that keep your part manufacturable — and your quote where you expect it.
 
-**Supporting copy (right column — 2 short paragraphs):**
-Most DFM problems aren't exotic. Walls too thin to survive cutting forces. Corner radii tighter than the tool can physically reach. Threads without enough engagement length to hold load under service conditions. These issues don't appear on a drawing — they show up in setup, or worse, in inspection.
+**Design guidelines table:**
 
-Every file is reviewed before quoting. If something needs a geometry change to machine reliably or a callout that will affect cost, it's flagged in the quote — not after cutting starts.
+| Feature | Recommendation | Why It Matters |
+|---|---|---|
+| Wall thickness (metals) | ≥ 0.8 mm | Thinner walls deflect under cutting forces — poor finish, tolerance failure |
+| Wall thickness (plastics) | ≥ 1.5 mm | Plastics flex more; thin walls vibrate during cutting |
+| Internal corner radius | ≥ 1/3 of pocket depth | Set by tool diameter — smaller radius = smaller tool = more passes, higher cost |
+| Pocket depth | ≤ 4× pocket width | Deep narrow pockets need long-reach end mills that deflect under chip load |
+| Hole depth | ≤ 12× diameter (standard drill) | Beyond this requires a gun drill — flag on drawing if needed |
+| Undercuts | Flag on drawing with access direction | Require special tooling — access must be confirmed before quoting |
+| Thread engagement | ≥ 3× diameter for threads under Ø5 mm · ≥ 4–6× for Ø5 mm and above | Minimum engagement for thread to carry load under service conditions |
+| Tolerances | Tight callout only where function requires | ±0.005 mm costs significantly more than ±0.02 mm — only specify where it matters |
+| Text / engraving | ≥ 0.5 mm stroke width | Narrower features require very small end mills — fragile, slow, expensive |
+| Chamfers vs. radii | Prefer chamfers on part edges | Easier to machine than external radii — same deburring result at lower cost |
 
-**CTA (right column, below copy):**
-Upload your file for a free DFM review with your quote
+**Supporting paragraph 1:**
+Two things account for most DFM — Design for Manufacturability — failures in incoming CNC files. First: internal corner radii specified tighter than the tooling can physically reach. A 0.3 mm corner radius in a 25 mm deep pocket requires a tool so slender it deflects before finishing the cut — the result is chatter, poor surface finish, and a rejected part. The fix is usually a 1 mm radius, which costs nothing functionally and machines cleanly. Second: tight tolerances applied to every dimension regardless of function. ±0.005 mm on a non-critical face costs significantly more to inspect and verify than ±0.1 mm. If the surface doesn't mate with anything or carry a load, it doesn't need that callout.
+
+**Supporting paragraph 2:**
+Both issues get caught at DFM review. They're flagged in the quote — you decide whether to update the drawing or proceed as-is. Nothing is cut first and explained later.
 
 ---
 
