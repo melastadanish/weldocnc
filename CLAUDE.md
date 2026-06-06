@@ -9,9 +9,10 @@
 
 ## Always Read Before Writing Any Page
 `_system/WritingSystem.md` · `_system/CLIENT-DATA-MAP.md` · `_system/competitors.md`
+For industry pages also read: `_system/industry-template.md`
 
 ## Definition of Done
-All five passes (A→B→N→D→C) complete · no banned claims · "WeldoCNC" spelling everywhere · every number traces to CLIENT-DATA-MAP · pass log added · progress.md updated to ✅ · committed and pushed.
+All five passes (A→B→N→D→C) complete · no banned claims · "Weldo CNC" spelling everywhere · every number traces to CLIENT-DATA-MAP · pass log added · progress.md updated to ✅ · committed and pushed.
 
 ## README.md
 `README.md` is for humans on GitHub. `CLAUDE.md` is for Claude. Keep both under 21 lines.
